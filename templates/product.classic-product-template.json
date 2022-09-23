@@ -92,7 +92,7 @@
         "165912089120668cb3-1": {
           "type": "text",
           "settings": {
-            "text": "<p>~<strong>Built For Adventureres Like You<\/strong><\/p><p>Your gear plays a criticle role in exploring your favourite fishing hole or uncharted teritory. The classic line is engeneried for maximum saftey while not compromizing performance.<\/p><p><br\/>~<strong>A Rugged Companion<\/strong><\/p><p>Thermal welded seams, Advanced German PVC Material, Deep V Hull Design, Up to 2mm material plus added reinforcment on any hi aberasion areas. When we say rugged we mean it!<\/p><p><br\/>~<strong>Upgraded For Performance<\/strong><\/p><p>With years of devlopment and testing, the classic line is not just a simple inflatable boat. Its a testment to our dedication to contiously devlope our products.<\/p><p><br\/>~<strong>Unmatched Versitility<\/strong><\/p><p>Designed for you, the classic line features the ability to fully customize the boat for your adventures. Add on our packages or accessories so that you can adventure the way you want.<\/p>"
+            "text": "<p>~<strong>Built For Adventureres Like You<\/strong><\/p><p>Your gear plays a criticle role in exploring your favourite fishing hole or uncharted teritory. Double walled Aluminum Transom. The classic line is engeneried for maximum saftey while not compromizing performance.<\/p><p><br\/>~<strong>A Rugged Companion<\/strong><\/p><p>Thermal welded seams, Advanced German PVC Material, Deep V Hull Design, Up to 2mm material plus added reinforcment on any hi aberasion areas. When we say rugged we mean it!<\/p><p><br\/>~<strong>Upgraded For Performance<\/strong><\/p><p>With years of devlopment and testing, the classic line is not just a simple inflatable boat. Its a testment to our dedication to contiously devlope our products.<\/p><p><br\/>~<strong>Unmatched Versitility<\/strong><\/p><p>Designed for you, the classic line features the ability to fully customize the boat for your adventures. Add on our packages or accessories so that you can adventure the way you want.<\/p>"
           }
         },
         "165912089120668cb3-2": {
@@ -142,6 +142,59 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "16639753725e6165c9": {
+      "type": "multicolumn",
+      "blocks": {
+        "1663975372ebc9b785-0": {
+          "type": "column",
+          "settings": {
+            "title": "Classic Boat",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1663975372ebc9b785-1": {
+          "type": "column",
+          "settings": {
+            "title": "Aluminum Floor",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1663975372ebc9b785-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1663975372ebc9b785-0",
+        "1663975372ebc9b785-1",
+        "1663975372ebc9b785-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h0",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 5,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 36
       }
     },
     "165664059366eb45a3": {
@@ -215,6 +268,7 @@
     "main",
     "16591208914dec4b2d",
     "1659121209fafd7926",
+    "16639753725e6165c9",
     "165664059366eb45a3",
     "1659121267cff97698",
     "product-recommendations"
