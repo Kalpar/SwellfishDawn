@@ -1,16 +1,5 @@
 {
   "sections": {
-    "1658366265e370b953": {
-      "type": "a-sw-menu",
-      "settings": {
-        "menu": "the-classic",
-        "menu_type": "onelevel",
-        "color_scheme": "background-1",
-        "buynow": "",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -103,7 +92,7 @@
         "165912089120668cb3-1": {
           "type": "text",
           "settings": {
-            "text": "<p>~Built For Adventures Like You<\/p><p>Advanced PVC material to fully welded seams the classic<\/p><p><br\/>~A Rugged Companion<\/p><p><\/p><p><br\/>~Upgraded Performance<\/p><p>With years of devlopment and testing, the classic line is not just a simple inflatable boat. Its a testment to our dedication to contiously devlope our products.<\/p><p><br\/>~Unmatched Versitility<\/p><p>Designed for you, the classic line features the ability to fully customize the boat for your adventures. Add on our packages or accessories so that you can adventure the way you want.<\/p>"
+            "text": "<p>~Built For Adventureres Like You<\/p><p><\/p><p><br\/>~A Rugged Companion<\/p><p>Thermal welded seams, Advanced German PVC Material<\/p><p><br\/>~Upgraded For Performance<\/p><p>With years of devlopment and testing, the classic line is not just a simple inflatable boat. Its a testment to our dedication to contiously devlope our products.<\/p><p><br\/>~Unmatched Versitility<\/p><p>Designed for you, the classic line features the ability to fully customize the boat for your adventures. Add on our packages or accessories so that you can adventure the way you want.<\/p>"
           }
         },
         "165912089120668cb3-2": {
@@ -223,7 +212,6 @@
     }
   },
   "order": [
-    "1658366265e370b953",
     "main",
     "16591208914dec4b2d",
     "1659121209fafd7926",
