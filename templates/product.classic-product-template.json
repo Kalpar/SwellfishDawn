@@ -151,7 +151,43 @@
           "type": "column",
           "settings": {
             "title": "Classic Boat",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>x 1<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1663975372ebc9b785-2": {
+          "type": "column",
+          "settings": {
+            "title": "Adjustable Benches",
+            "text": "<p>x 2<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "e649f3e0-71f6-4fa4-baab-3c80c65bfeb0": {
+          "type": "column",
+          "settings": {
+            "title": "Easy Store Oars",
+            "text": "<p>x 2<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "ee268bc4-f0c1-4674-b5db-ef54e487d9a4": {
+          "type": "column",
+          "settings": {
+            "title": "Bow Bag",
+            "text": "<p>x 1<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "252fd03b-a8da-4962-bb26-12f75ac2ced2": {
+          "type": "column",
+          "settings": {
+            "title": "Bench Bag",
+            "text": "<p>x 1<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -160,43 +196,7 @@
           "type": "column",
           "settings": {
             "title": "Aluminum Floor",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "1663975372ebc9b785-2": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "e649f3e0-71f6-4fa4-baab-3c80c65bfeb0": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "ee268bc4-f0c1-4674-b5db-ef54e487d9a4": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "252fd03b-a8da-4962-bb26-12f75ac2ced2": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>x 1<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -204,8 +204,8 @@
         "2b198634-d83b-49d3-bb2b-0061fffa2d0f": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Floor Rails",
+            "text": "<p>x 1<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -213,8 +213,8 @@
         "9fbf50e4-91ee-48ba-b0d3-6b0133dfd81c": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Emergancy Patch Kit",
+            "text": "<p>x 1<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -222,8 +222,8 @@
         "ed2e2e94-14e8-44be-a5ea-5976072cf84f": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Boat Storage Bag",
+            "text": "<p>x 1<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -231,8 +231,26 @@
         "12b65cfc-9bb6-4ae5-8263-dcaa7cbc4ca1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Floor Storage Bag",
+            "text": "<p>x 1<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "953c495d-cd59-4544-b11c-0d3bcf0ff49d": {
+          "type": "column",
+          "settings": {
+            "title": "Foot Inflation Pump",
+            "text": "<p>x 1<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "c11c8f46-c885-4beb-ac19-9e58cd2737c2": {
+          "type": "column",
+          "settings": {
+            "title": "Side Bag",
+            "text": "<p>x 1<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -240,22 +258,24 @@
       },
       "block_order": [
         "1663975372ebc9b785-0",
-        "1663975372ebc9b785-1",
         "1663975372ebc9b785-2",
         "e649f3e0-71f6-4fa4-baab-3c80c65bfeb0",
         "ee268bc4-f0c1-4674-b5db-ef54e487d9a4",
         "252fd03b-a8da-4962-bb26-12f75ac2ced2",
+        "1663975372ebc9b785-1",
         "2b198634-d83b-49d3-bb2b-0061fffa2d0f",
         "9fbf50e4-91ee-48ba-b0d3-6b0133dfd81c",
         "ed2e2e94-14e8-44be-a5ea-5976072cf84f",
-        "12b65cfc-9bb6-4ae5-8263-dcaa7cbc4ca1"
+        "12b65cfc-9bb6-4ae5-8263-dcaa7cbc4ca1",
+        "953c495d-cd59-4544-b11c-0d3bcf0ff49d",
+        "c11c8f46-c885-4beb-ac19-9e58cd2737c2"
       ],
       "settings": {
         "title": "",
         "heading_size": "h0",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 5,
+        "columns_desktop": 4,
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "Button label",
