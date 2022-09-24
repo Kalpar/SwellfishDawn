@@ -10,8 +10,8 @@ details[open]:after {
   bottom: 0; */
   height: 100vh;
   display: block;
-  position: fixed;
-  z-index: -9;
+  position: absolute;
+  z-index: -1;
   backdrop-filter: blur(5px);
 }
 
