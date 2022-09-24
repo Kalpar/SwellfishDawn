@@ -1,1 +1,498 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{"padding_top":28,"padding_bottom":28}},"166327309180edbeb3":{"type":"a-sw-menu","settings":{"menu":"the-classic","menu_type":"product-submenu","color_scheme":"accent-1","buynow":"classic-inflatable-boat","padding_top":8,"padding_bottom":12}},"16582828569c693c40":{"type":"image-banner","blocks":{"16582828565828dbd5-0":{"type":"heading","settings":{"heading":"The Classic Line Specifications","heading_size":"h0"}},"16582828565828dbd5-1":{"type":"text","disabled":true,"settings":{"text":"Give customers details about the banner image(s) or content on the template.","text_style":"subtitle"}},"16582828565828dbd5-2":{"type":"buttons","settings":{"button_label_1":"See It In Action","button_link_1":"https:\/\/www.youtube.com\/watch?v=laRWfUDea2M&list=PLy90oujR7H8VlIGo4zkF8Kqw7Q5zgQRQn&index=1","button_style_secondary_1":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["16582828565828dbd5-0","16582828565828dbd5-1","16582828565828dbd5-2"],"settings":{"image":"shopify:\/\/shop_images\/Test-Hero.png","image_overlay_opacity":0,"image_height":"medium","adapt_height_first_image":true,"desktop_content_position":"top-left","show_text_box":false,"desktop_content_alignment":"left","color_scheme":"background-1","mobile_content_alignment":"center","stack_images_on_mobile":false,"show_text_below":true}},"1658281829cd513d78":{"type":"slideshow","settings":{"layout":"grid","slide_height":"medium","slider_visual":"counter","auto_rotate":false,"change_slides_speed":9,"show_text_below":true,"accessibility_info":"Slideshow about our brand"}},"1658266752075ba186":{"type":"rich-text","blocks":{"f1443409-05ec-49f6-b04f-8c81594ee14e":{"type":"heading","settings":{"heading":"<p><strong>Overview<\/strong><\/p>","heading_size":"h1"}}},"block_order":["f1443409-05ec-49f6-b04f-8c81594ee14e"],"settings":{"desktop_content_position":"left","content_alignment":"left","color_scheme":"background-1","full_width":true,"padding_top":40,"padding_bottom":0}},"1658266374fb0c1d22":{"type":"multicolumn","blocks":{"1658266374b8a8775d-0":{"type":"column","settings":{"title":"Specifications","text":"<p>•<\/p><p><strong>Assembled Length<\/strong><\/p><p><strong>Max Engine Power<\/strong><\/p><p><strong>Max People<\/strong><\/p><p><strong>Max Load<\/strong><\/p><p><strong>Inflated Size<\/strong><\/p><p><strong>Packed Size<\/strong><\/p><p><strong>Total Weight<\/strong><\/p><p>•<\/p>","link_label":"","link":""}},"1658266374b8a8775d-1":{"type":"column","settings":{"title":"Classic 270","text":"<p>•<\/p><p>8.9 Feet<\/p><p>10 hp (7.5 kw)<br\/>4<\/p><p>1140 lbs<\/p><p>8.9 x 4.8 Feet<\/p><p>XXXXXXXX<\/p><p>118 lbs (53 kg)<\/p><p>•<\/p>","link_label":"Order the 270","link":""}},"1658266374b8a8775d-2":{"type":"column","settings":{"title":"Classic 350","text":"<p>•<\/p><p>11.5 Feet<\/p><p>25 hp (18.75 kw)<br\/>7 <\/p><p>1789 lbs<\/p><p>11.5 x 5.6 Feet<\/p><p>51 x 30 x 16 Inches<\/p><p>181 lbs (82 kg)<\/p><p>•<\/p>","link_label":"Order the 350","link":"shopify:\/\/products\/classic-inflatable-boat"}},"b7ab5651-7626-4088-8b96-2100004570d8":{"type":"column","settings":{"title":"Classic 390","text":"<p>•<\/p><p>12.8 Feet<\/p><p>35 hp (26.25 kw)<\/p><p>9<\/p><p>1962 lbs<\/p><p>12.8 x5.6 Feet<\/p><p>55 x 30 x 16 Inches<\/p><p>216 lbs (98 kg)<\/p><p>•<\/p>","link_label":"Order the 390","link":""}},"8e110e98-794d-4f3e-bd08-046f1a0686e1":{"type":"column","settings":{"title":"Classic 430","text":"<p>•<\/p><p>14.1 Feet<\/p><p>45 hp (33.75 kw)<\/p><p>10<\/p><p>2686 lbs<\/p><p>14.8 x 6.25 Feet<\/p><p>59 x 32 x 17 Inches<\/p><p>260 lbs (118 kg)<\/p><p>•<\/p>","link_label":"Order the 430","link":""}},"4e827a33-8abf-4508-a61d-91ef82332e1b":{"type":"column","settings":{"title":"Classic 470","text":"<p>•<\/p><p>15.4 Feet<\/p><p>50 hp (37.50 kw)<\/p><p>11<\/p><p>2930 lbs<\/p><p>15.4 x 6.25 Feet<\/p><p>62 x32 x17 Inches<\/p><p>275 lbs (125 kg)<\/p><p>•<\/p>","link_label":"Order the 470","link":"shopify:\/\/products\/classic-inflatable-boat"}}},"block_order":["1658266374b8a8775d-0","1658266374b8a8775d-1","1658266374b8a8775d-2","b7ab5651-7626-4088-8b96-2100004570d8","8e110e98-794d-4f3e-bd08-046f1a0686e1","4e827a33-8abf-4508-a61d-91ef82332e1b"],"settings":{"title":"","heading_size":"h2","image_width":"half","image_ratio":"adapt","columns_desktop":6,"column_alignment":"center","background_style":"primary","button_label":"Download The Complete Specifications","button_link":"shopify:\/\/collections","color_scheme":"background-1","columns_mobile":"1","swipe_on_mobile":true,"padding_top":32,"padding_bottom":40}},"16582804294baec349":{"type":"rich-text","blocks":{"16582804293849f392-0":{"type":"heading","settings":{"heading":"<p><strong>Whats In The Box<\/strong><\/p>","heading_size":"h1"}}},"block_order":["16582804293849f392-0"],"settings":{"desktop_content_position":"left","content_alignment":"left","color_scheme":"background-1","full_width":true,"padding_top":20,"padding_bottom":0}},"165828049562d5b579":{"type":"rich-text","blocks":{"1658280495e9c26422-1":{"type":"text","settings":{"text":"<p>• Classic Boat Inflatable Structure<br\/>• Alluminum Floor Boards<br\/>• Floor Locking Rails<br\/>• 2x Alluminum Seats<br\/>• Bow Storage Bag<br\/>• Seat Storage Bag<br\/>• Repair Kit<br\/>• 2x Alluminum Oars<br\/><\/p>"}}},"block_order":["1658280495e9c26422-1"],"settings":{"desktop_content_position":"center","content_alignment":"left","color_scheme":"background-1","full_width":false,"padding_top":40,"padding_bottom":52}},"1658270630a826a691":{"type":"rich-text","blocks":{"165827063012f750a5-0":{"type":"heading","settings":{"heading":"<p><strong>Structure<\/strong><\/p>","heading_size":"h1"}}},"block_order":["165827063012f750a5-0"],"settings":{"desktop_content_position":"left","content_alignment":"left","color_scheme":"background-1","full_width":true,"padding_top":20,"padding_bottom":0}},"16582617982886ef1b":{"type":"rich-text","blocks":{"b87eecb6-34ff-4bf6-bf79-2e08747178a7":{"type":"caption","settings":{"caption":"Material","text_style":"caption-with-letter-spacing","text_size":"large"}},"16582617985630dc74-1":{"type":"text","settings":{"text":"<p>• German PVC material with a danier off ??<br\/>• PVC Material Thickness of Tube 0.9mm<br\/>• Hull Material 1.2mm<\/p>"}},"d98b54a9-8d95-45ae-b427-6f966cb4df6b":{"type":"caption","settings":{"caption":"Engineering","text_style":"caption-with-letter-spacing","text_size":"large"}},"b030bcb4-c4cf-4f26-afbd-3c5bed130fae":{"type":"text","settings":{"text":"<p>• Deep V Hull Design<br\/>• Inflatable Keel<br\/>• Hot Welded Seams<br\/>• Reinforced Bolted Through Transom<br\/>• Protective Tube Wear Patches Along Floor<br\/>• Protective Strip Along Keel And Tubes<br\/>• Protective Seat Wear Patch<br\/><\/p><p><\/p><p><\/p>"}}},"block_order":["b87eecb6-34ff-4bf6-bf79-2e08747178a7","16582617985630dc74-1","d98b54a9-8d95-45ae-b427-6f966cb4df6b","b030bcb4-c4cf-4f26-afbd-3c5bed130fae"],"settings":{"desktop_content_position":"center","content_alignment":"left","color_scheme":"background-1","full_width":false,"padding_top":20,"padding_bottom":20}},"16582707449e76b056":{"type":"rich-text","blocks":{"1658270744cc32fc2c-0":{"type":"heading","settings":{"heading":"<p><strong>Saftey<\/strong><\/p>","heading_size":"h1"}}},"block_order":["1658270744cc32fc2c-0"],"settings":{"desktop_content_position":"left","content_alignment":"left","color_scheme":"background-1","full_width":true,"padding_top":20,"padding_bottom":0}},"1658270752928cfb8f":{"type":"rich-text","blocks":{"c4953440-1d2a-4c1f-8893-46b7d4851a18":{"type":"caption","settings":{"caption":"Standard Features","text_style":"caption-with-letter-spacing","text_size":"large"}},"16582707512486f794-1":{"type":"text","settings":{"text":"<p>• Full Wrap Around Lifeline<br\/>• Emergancy Repair Kit<br\/>• Two Part Aluminum Oars<br\/>• Fuel Tank Pad With Strap On Floor<br\/>• One Way Drain Valve<br\/>• Blow Off Over inflation Valve<br\/>• Tow Rope<\/p>"}}},"block_order":["c4953440-1d2a-4c1f-8893-46b7d4851a18","16582707512486f794-1"],"settings":{"desktop_content_position":"center","content_alignment":"left","color_scheme":"background-1","full_width":false,"padding_top":20,"padding_bottom":20}},"1658272587aa6bca1d":{"type":"rich-text","blocks":{"1658272587638ea7de-0":{"type":"heading","settings":{"heading":"<p><strong>Componets<\/strong><\/p>","heading_size":"h1"}}},"block_order":["1658272587638ea7de-0"],"settings":{"desktop_content_position":"left","content_alignment":"left","color_scheme":"background-1","full_width":true,"padding_top":20,"padding_bottom":0}},"1658272685f3125350":{"type":"rich-text","blocks":{"d79c7eec-10d0-4c0f-92e6-4d6f2f79f11e":{"type":"caption","settings":{"caption":"Standard Features","text_style":"caption-with-letter-spacing","text_size":"large"}},"1658272685fa661212-1":{"type":"text","settings":{"text":"<p>• 2x Front Tow Rings<br\/>• Metal D-Handle at the Bow<br\/>• Bimini Canopy Mounts<br\/>• Under Voyage Adjustable Seats<br\/>• Heavy-Duety Bow Anchor<br\/>• Oar Holders and Oar Locks<br\/>• 4x Carry Handles<br\/>• Bow Bag Attachment Points<br\/>• Lower Tube Accessory Straps<\/p>"}}},"block_order":["d79c7eec-10d0-4c0f-92e6-4d6f2f79f11e","1658272685fa661212-1"],"settings":{"desktop_content_position":"center","content_alignment":"left","color_scheme":"background-1","full_width":true,"padding_top":40,"padding_bottom":52}},"165828132235add189":{"type":"image-banner","blocks":{"1658281322af09974d-0":{"type":"heading","settings":{"heading":"Which Classic is right for you?","heading_size":"h0"}},"1658281322af09974d-1":{"type":"text","settings":{"text":"Having the right gear for your adventure is curcial to make sure your ready for anything that nature can through at you. Let us help make the decision a little easier!","text_style":"subtitle"}},"1658281322af09974d-2":{"type":"buttons","settings":{"button_label_1":"Check out our FAQ's","button_link_1":"shopify:\/\/pages\/classic-faq","button_style_secondary_1":true,"button_label_2":"Shop the Classic Line","button_link_2":"shopify:\/\/products\/classic-inflatable-boat","button_style_secondary_2":true}}},"block_order":["1658281322af09974d-0","1658281322af09974d-1","1658281322af09974d-2"],"settings":{"image":"shopify:\/\/shop_images\/New-Package_67e903ec-3dfe-4ab1-a933-8e0e8e179d4b.jpg","image_overlay_opacity":0,"image_height":"small","adapt_height_first_image":true,"desktop_content_position":"top-left","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"background-1","mobile_content_alignment":"left","stack_images_on_mobile":false,"show_text_below":true}}},"order":["main","166327309180edbeb3","16582828569c693c40","1658281829cd513d78","1658266752075ba186","1658266374fb0c1d22","16582804294baec349","165828049562d5b579","1658270630a826a691","16582617982886ef1b","16582707449e76b056","1658270752928cfb8f","1658272587aa6bca1d","1658272685f3125350","165828132235add189"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "166327309180edbeb3": {
+      "type": "a-sw-menu",
+      "settings": {
+        "menu": "the-classic",
+        "menu_type": "product-submenu",
+        "color_scheme": "accent-1",
+        "buynow": "classic-inflatable-boat",
+        "padding_top": 8,
+        "padding_bottom": 12
+      }
+    },
+    "16582828569c693c40": {
+      "type": "image-banner",
+      "blocks": {
+        "16582828565828dbd5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Classic Line Specifications",
+            "heading_size": "h0"
+          }
+        },
+        "16582828565828dbd5-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "See It In Action",
+            "button_link_1": "https:\/\/www.youtube.com\/watch?v=laRWfUDea2M&list=PLy90oujR7H8VlIGo4zkF8Kqw7Q5zgQRQn&index=1",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16582828565828dbd5-0",
+        "16582828565828dbd5-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Test-Hero.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "top-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": true
+      }
+    },
+    "1658281829cd513d78": {
+      "type": "slideshow",
+      "settings": {
+        "layout": "grid",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 9,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "1658266752075ba186": {
+      "type": "rich-text",
+      "blocks": {
+        "f1443409-05ec-49f6-b04f-8c81594ee14e": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Overview<\/strong><\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "f1443409-05ec-49f6-b04f-8c81594ee14e"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "1658266374fb0c1d22": {
+      "type": "multicolumn",
+      "blocks": {
+        "1658266374b8a8775d-0": {
+          "type": "column",
+          "settings": {
+            "title": "Specifications",
+            "text": "<p>•<\/p><p><strong>Assembled Length<\/strong><\/p><p><strong>Max Engine Power<\/strong><\/p><p><strong>Max People<\/strong><\/p><p><strong>Max Load<\/strong><\/p><p><strong>Inflated Size<\/strong><\/p><p><strong>Packed Size<\/strong><\/p><p><strong>Total Weight<\/strong><\/p><p>•<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1658266374b8a8775d-1": {
+          "type": "column",
+          "settings": {
+            "title": "Classic 270",
+            "text": "<p>•<\/p><p>8.9 Feet<\/p><p>10 hp (7.5 kw)<br\/>4<\/p><p>1140 lbs<\/p><p>8.9 x 4.8 Feet<\/p><p>XXXXXXXX<\/p><p>118 lbs (53 kg)<\/p><p>•<\/p>",
+            "link_label": "Order the 270",
+            "link": ""
+          }
+        },
+        "1658266374b8a8775d-2": {
+          "type": "column",
+          "settings": {
+            "title": "Classic 350",
+            "text": "<p>•<\/p><p>11.5 Feet<\/p><p>25 hp (18.75 kw)<br\/>7 <\/p><p>1789 lbs<\/p><p>11.5 x 5.6 Feet<\/p><p>51 x 30 x 16 Inches<\/p><p>181 lbs (82 kg)<\/p><p>•<\/p>",
+            "link_label": "Order the 350",
+            "link": "shopify:\/\/products\/classic-inflatable-boat"
+          }
+        },
+        "b7ab5651-7626-4088-8b96-2100004570d8": {
+          "type": "column",
+          "settings": {
+            "title": "Classic 390",
+            "text": "<p>•<\/p><p>12.8 Feet<\/p><p>35 hp (26.25 kw)<\/p><p>9<\/p><p>1962 lbs<\/p><p>12.8 x5.6 Feet<\/p><p>55 x 30 x 16 Inches<\/p><p>216 lbs (98 kg)<\/p><p>•<\/p>",
+            "link_label": "Order the 390",
+            "link": ""
+          }
+        },
+        "8e110e98-794d-4f3e-bd08-046f1a0686e1": {
+          "type": "column",
+          "settings": {
+            "title": "Classic 430",
+            "text": "<p>•<\/p><p>14.1 Feet<\/p><p>45 hp (33.75 kw)<\/p><p>10<\/p><p>2686 lbs<\/p><p>14.8 x 6.25 Feet<\/p><p>59 x 32 x 17 Inches<\/p><p>260 lbs (118 kg)<\/p><p>•<\/p>",
+            "link_label": "Order the 430",
+            "link": ""
+          }
+        },
+        "4e827a33-8abf-4508-a61d-91ef82332e1b": {
+          "type": "column",
+          "settings": {
+            "title": "Classic 470",
+            "text": "<p>•<\/p><p>15.4 Feet<\/p><p>50 hp (37.50 kw)<\/p><p>11<\/p><p>2930 lbs<\/p><p>15.4 x 6.25 Feet<\/p><p>62 x32 x17 Inches<\/p><p>275 lbs (125 kg)<\/p><p>•<\/p>",
+            "link_label": "Order the 470",
+            "link": "shopify:\/\/products\/classic-inflatable-boat"
+          }
+        }
+      },
+      "block_order": [
+        "1658266374b8a8775d-0",
+        "1658266374b8a8775d-1",
+        "1658266374b8a8775d-2",
+        "b7ab5651-7626-4088-8b96-2100004570d8",
+        "8e110e98-794d-4f3e-bd08-046f1a0686e1",
+        "4e827a33-8abf-4508-a61d-91ef82332e1b"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "shopify:\/\/collections",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "16639823933a7fc537": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "1663982393d7273435-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Download The Complete Specifications",
+            "button_link": "shopify:\/\/pages\/about-us",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1663982393d7273435-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 52
+      }
+    },
+    "16582804294baec349": {
+      "type": "rich-text",
+      "blocks": {
+        "16582804293849f392-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Whats In The Box<\/strong><\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "16582804293849f392-0"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "165828049562d5b579": {
+      "type": "rich-text",
+      "blocks": {
+        "1658280495e9c26422-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>• Classic Boat Inflatable Structure<br\/>• Alluminum Floor Boards<br\/>• Floor Locking Rails<br\/>• 2x Alluminum Seats<br\/>• Bow Storage Bag<br\/>• Seat Storage Bag<br\/>• Repair Kit<br\/>• 2x Alluminum Oars<br\/><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1658280495e9c26422-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1658270630a826a691": {
+      "type": "rich-text",
+      "blocks": {
+        "165827063012f750a5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Structure<\/strong><\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "165827063012f750a5-0"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "16582617982886ef1b": {
+      "type": "rich-text",
+      "blocks": {
+        "b87eecb6-34ff-4bf6-bf79-2e08747178a7": {
+          "type": "caption",
+          "settings": {
+            "caption": "Material",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "16582617985630dc74-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>• German PVC material with a danier off ??<br\/>• PVC Material Thickness of Tube 0.9mm<br\/>• Hull Material 1.2mm<\/p>"
+          }
+        },
+        "d98b54a9-8d95-45ae-b427-6f966cb4df6b": {
+          "type": "caption",
+          "settings": {
+            "caption": "Engineering",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "b030bcb4-c4cf-4f26-afbd-3c5bed130fae": {
+          "type": "text",
+          "settings": {
+            "text": "<p>• Deep V Hull Design<br\/>• Inflatable Keel<br\/>• Hot Welded Seams<br\/>• Reinforced Bolted Through Transom<br\/>• Protective Tube Wear Patches Along Floor<br\/>• Protective Strip Along Keel And Tubes<br\/>• Protective Seat Wear Patch<br\/><\/p><p><\/p><p><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "b87eecb6-34ff-4bf6-bf79-2e08747178a7",
+        "16582617985630dc74-1",
+        "d98b54a9-8d95-45ae-b427-6f966cb4df6b",
+        "b030bcb4-c4cf-4f26-afbd-3c5bed130fae"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": false,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "16582707449e76b056": {
+      "type": "rich-text",
+      "blocks": {
+        "1658270744cc32fc2c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Saftey<\/strong><\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "1658270744cc32fc2c-0"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "1658270752928cfb8f": {
+      "type": "rich-text",
+      "blocks": {
+        "c4953440-1d2a-4c1f-8893-46b7d4851a18": {
+          "type": "caption",
+          "settings": {
+            "caption": "Standard Features",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "16582707512486f794-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>• Full Wrap Around Lifeline<br\/>• Emergancy Repair Kit<br\/>• Two Part Aluminum Oars<br\/>• Fuel Tank Pad With Strap On Floor<br\/>• One Way Drain Valve<br\/>• Blow Off Over inflation Valve<br\/>• Tow Rope<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "c4953440-1d2a-4c1f-8893-46b7d4851a18",
+        "16582707512486f794-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": false,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "1658272587aa6bca1d": {
+      "type": "rich-text",
+      "blocks": {
+        "1658272587638ea7de-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Componets<\/strong><\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "1658272587638ea7de-0"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "1658272685f3125350": {
+      "type": "rich-text",
+      "blocks": {
+        "d79c7eec-10d0-4c0f-92e6-4d6f2f79f11e": {
+          "type": "caption",
+          "settings": {
+            "caption": "Standard Features",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "1658272685fa661212-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>• 2x Front Tow Rings<br\/>• Metal D-Handle at the Bow<br\/>• Bimini Canopy Mounts<br\/>• Under Voyage Adjustable Seats<br\/>• Heavy-Duety Bow Anchor<br\/>• Oar Holders and Oar Locks<br\/>• 4x Carry Handles<br\/>• Bow Bag Attachment Points<br\/>• Lower Tube Accessory Straps<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "d79c7eec-10d0-4c0f-92e6-4d6f2f79f11e",
+        "1658272685fa661212-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "165828132235add189": {
+      "type": "image-banner",
+      "blocks": {
+        "1658281322af09974d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Which Classic is right for you?",
+            "heading_size": "h0"
+          }
+        },
+        "1658281322af09974d-1": {
+          "type": "text",
+          "settings": {
+            "text": "Having the right gear for your adventure is curcial to make sure your ready for anything that nature can through at you. Let us help make the decision a little easier!",
+            "text_style": "subtitle"
+          }
+        },
+        "1658281322af09974d-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Check out our FAQ's",
+            "button_link_1": "shopify:\/\/pages\/classic-faq",
+            "button_style_secondary_1": true,
+            "button_label_2": "Shop the Classic Line",
+            "button_link_2": "shopify:\/\/products\/classic-inflatable-boat",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "1658281322af09974d-0",
+        "1658281322af09974d-1",
+        "1658281322af09974d-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/New-Package_67e903ec-3dfe-4ab1-a933-8e0e8e179d4b.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "top-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": false,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "166327309180edbeb3",
+    "16582828569c693c40",
+    "1658281829cd513d78",
+    "1658266752075ba186",
+    "1658266374fb0c1d22",
+    "16639823933a7fc537",
+    "16582804294baec349",
+    "165828049562d5b579",
+    "1658270630a826a691",
+    "16582617982886ef1b",
+    "16582707449e76b056",
+    "1658270752928cfb8f",
+    "1658272587aa6bca1d",
+    "1658272685f3125350",
+    "165828132235add189"
+  ]
+}
