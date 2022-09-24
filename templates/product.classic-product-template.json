@@ -278,13 +278,98 @@
         "columns_desktop": 4,
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "More Specifications",
+        "button_label": "",
         "button_link": "shopify:\/\/pages\/classic-specification",
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 0,
         "padding_bottom": 36
+      }
+    },
+    "16639774461a609430": {
+      "type": "rich-text",
+      "blocks": {
+        "1663977446e0b74b72-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Adventures by You<\/strong><\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "1663977446e0b74b72-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1663977446e0b74b72-0",
+        "1663977446e0b74b72-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 44,
+        "padding_bottom": 32
+      }
+    },
+    "1663976931bcf11c50": {
+      "type": "slideshow",
+      "blocks": {
+        "1663976931b3d7f8c1-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/LT-20220409-TM101577_00f28f88-f738-43f7-a1d6-c76cb7dbe7f8.jpg",
+            "heading": "Joe Epple",
+            "heading_size": "h1",
+            "subheading": "Instagram @joe_eppele",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 20,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "1663976931b3d7f8c1-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Swellfish-Remote-Fishing.png",
+            "heading": "Steve Eucland",
+            "heading_size": "h1",
+            "subheading": "Instagram @steve the hunter smuter",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "bottom-right",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1663976931b3d7f8c1-0",
+        "1663976931b3d7f8c1-1"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
       }
     },
     "165664059366eb45a3": {
@@ -359,6 +444,8 @@
     "16591208914dec4b2d",
     "1659121209fafd7926",
     "16639753725e6165c9",
+    "16639774461a609430",
+    "1663976931bcf11c50",
     "165664059366eb45a3",
     "1659121267cff97698",
     "product-recommendations"
