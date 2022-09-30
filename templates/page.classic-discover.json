@@ -223,7 +223,7 @@
         "1658366931fa0524ff-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Make it perfect<\/p>",
+            "heading": "<p>Kitted out perfection<\/p>",
             "heading_size": "hxl"
           }
         },
@@ -253,16 +253,16 @@
         "1663964669eb040d70-0": {
           "type": "heading",
           "settings": {
-            "heading": "Stillwater Angler Combo",
+            "heading": "Freshwater Angler Combo",
             "heading_size": "h1"
           }
         },
         "35991434-56d5-45f3-bbb2-f981ae808d37": {
           "type": "caption",
           "settings": {
-            "caption": "This is the pitch",
+            "caption": "For Fly fishing, casting and trolling in most waters",
             "text_style": "caption-with-letter-spacing",
-            "text_size": "large"
+            "text_size": "medium"
           }
         },
         "1663964669eb040d70-1": {
@@ -304,7 +304,7 @@
         "542a3d41-a2a8-4943-8aed-080fc6b20eda": {
           "type": "caption",
           "settings": {
-            "caption": "This is the Pitch",
+            "caption": "Target deep waters and take on the high seas",
             "text_style": "caption-with-letter-spacing",
             "text_size": "large"
           }
@@ -326,6 +326,50 @@
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "accent-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "16645738424a07e2e5": {
+      "type": "image-with-text",
+      "blocks": {
+        "1664573841ccd56937-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "b1e15c49-3b9e-4229-816c-0ddd1c94437b": {
+          "type": "caption",
+          "settings": {
+            "caption": "Add a tagline",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "1664573841ccd56937-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "1664573841ccd56937-0",
+        "b1e15c49-3b9e-4229-816c-0ddd1c94437b",
+        "1664573841ccd56937-1"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
@@ -524,6 +568,7 @@
     "1658366931dbe5b64f",
     "1663964669c3b01079",
     "1664566611635acb27",
+    "16645738424a07e2e5",
     "1659120698504593bf",
     "1659133256b916bbd4",
     "166327444298634be3",
