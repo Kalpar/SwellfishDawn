@@ -253,29 +253,30 @@
         "1663964669eb040d70-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
+            "heading": "Angler Package",
+            "heading_size": "h2"
+          }
+        },
+        "35991434-56d5-45f3-bbb2-f981ae808d37": {
+          "type": "caption",
+          "settings": {
+            "caption": "For any waters",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
           }
         },
         "1663964669eb040d70-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "",
             "text_style": "body"
-          }
-        },
-        "1663964669eb040d70-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
           }
         }
       },
       "block_order": [
         "1663964669eb040d70-0",
-        "1663964669eb040d70-1",
-        "1663964669eb040d70-2"
+        "35991434-56d5-45f3-bbb2-f981ae808d37",
+        "1663964669eb040d70-1"
       ],
       "settings": {
         "height": "adapt",
@@ -292,13 +293,12 @@
     },
     "1659120698504593bf": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "165912069844a275bf-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Whats in the Box<\/p>",
-            "heading_size": "h1"
+            "heading": "<p><strong>Whats in the Box<\/strong><\/p>",
+            "heading_size": "h0"
           }
         },
         "b80658dd-ed6d-4fba-a56b-ae4ec78df20f": {
@@ -321,41 +321,6 @@
         "padding_bottom": 52
       }
     },
-    "1663961343aa9851ed": {
-      "type": "slideshow",
-      "blocks": {
-        "1663961343e09d17ca-0": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Harrys-Razors-for-Men-B07SH9BCC92.webp",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "1663961343e09d17ca-0"
-      ],
-      "settings": {
-        "layout": "full_bleed",
-        "slide_height": "adapt_image",
-        "slider_visual": "counter",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "show_text_below": true,
-        "accessibility_info": "Slideshow about our brand"
-      }
-    },
     "1659133256b916bbd4": {
       "type": "rich-text",
       "blocks": {
@@ -370,7 +335,7 @@
           "type": "caption",
           "settings": {
             "caption": "5 Sizes For Any Adventure",
-            "text_style": "subtitle",
+            "text_style": "caption-with-letter-spacing",
             "text_size": "large"
           }
         }
@@ -515,7 +480,6 @@
     "1658366931dbe5b64f",
     "1663964669c3b01079",
     "1659120698504593bf",
-    "1663961343aa9851ed",
     "1659133256b916bbd4",
     "166327444298634be3",
     "1658366990a57972a1",
