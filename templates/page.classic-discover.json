@@ -253,8 +253,8 @@
         "1663964669eb040d70-0": {
           "type": "heading",
           "settings": {
-            "heading": "Angler Package",
-            "heading_size": "h2"
+            "heading": "Angler Combo",
+            "heading_size": "h1"
           }
         },
         "35991434-56d5-45f3-bbb2-f981ae808d37": {
@@ -268,7 +268,7 @@
         "1663964669eb040d70-1": {
           "type": "text",
           "settings": {
-            "text": "",
+            "text": "<p>This combo contains, 5 glue on Scotty pads, Scotty rod holders, Scotty this and that. <\/p>",
             "text_style": "body"
           }
         }
