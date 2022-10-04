@@ -79,6 +79,55 @@
         "padding_bottom": 12
       }
     },
+    "166485178250229472": {
+      "type": "a-sw-multi-image-text",
+      "blocks": {
+        "16648517823732bc04-0": {
+          "type": "cell",
+          "settings": {
+            "heading": "Built For Adventureres Like You",
+            "text": "<p>Your gear plays a criticle role in exploring your favourite fishing hole or uncharted teritory. Double walled Aluminum Transom. The classic line is engeneried for maximum saftey while not compromizing performance.<\/p>",
+            "text_size": "medium",
+            "button_label": "",
+            "button_link": "",
+            "desktop_proportion": 6,
+            "desktop_content_height": "100",
+            "desktop_content_width": "fit",
+            "desktop_content_position": "top",
+            "desktop_content_alignment": "center",
+            "mobile_content_alignment": "center"
+          }
+        },
+        "16648517823732bc04-1": {
+          "type": "cell",
+          "settings": {
+            "heading": "A Rugged Companion",
+            "text": "<p>Thermal welded seams, Advanced German PVC Material, Deep V Hull Design, Up to 2mm material plus added reinforcment on any hi aberasion areas. When we say rugged we mean it!<\/p>",
+            "text_size": "medium",
+            "button_label": "Button label",
+            "button_link": "",
+            "desktop_proportion": 1,
+            "desktop_content_height": "100",
+            "desktop_content_width": "fit",
+            "desktop_content_position": "top",
+            "desktop_content_alignment": "left",
+            "mobile_content_alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16648517823732bc04-0",
+        "16648517823732bc04-1"
+      ],
+      "settings": {
+        "title": "Take a Closer Look",
+        "title_size": "h0",
+        "title_alignment": "center",
+        "desktop_gap": 10,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "16591208914dec4b2d": {
       "type": "rich-text",
       "blocks": {
@@ -441,6 +490,7 @@
   },
   "order": [
     "main",
+    "166485178250229472",
     "16591208914dec4b2d",
     "1659121209fafd7926",
     "16639753725e6165c9",
