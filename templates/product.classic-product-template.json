@@ -104,9 +104,9 @@
             "heading": "A Rugged Companion",
             "text": "<p>Thermal welded seams, Advanced German PVC Material, Deep V Hull Design, Up to 2mm material plus added reinforcment on any hi aberasion areas. When we say rugged we mean it!<\/p>",
             "text_size": "medium",
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": "",
-            "desktop_proportion": 1,
+            "desktop_proportion": 4,
             "desktop_content_height": "100",
             "desktop_content_width": "fit",
             "desktop_content_position": "top",
@@ -123,8 +123,57 @@
         "title": "Take a Closer Look",
         "title_size": "h0",
         "title_alignment": "center",
-        "desktop_gap": 10,
+        "desktop_gap": 16,
         "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "1664851804077293e2": {
+      "type": "a-sw-multi-image-text",
+      "blocks": {
+        "1664851804d911d219-0": {
+          "type": "cell",
+          "settings": {
+            "heading": "Upgraded For Performance",
+            "text": "<p>With years of devlopment and testing, the classic line is not just a simple inflatable boat. Its a testment to our dedication to contiously devlope our products.<\/p>",
+            "text_size": "medium",
+            "button_label": "",
+            "button_link": "",
+            "desktop_proportion": 1,
+            "desktop_content_height": "auto",
+            "desktop_content_width": "auto",
+            "desktop_content_position": "top",
+            "desktop_content_alignment": "center",
+            "mobile_content_alignment": "center"
+          }
+        },
+        "1664851804d911d219-1": {
+          "type": "cell",
+          "settings": {
+            "heading": "Unmatched Versitility",
+            "text": "<p>Designed for you, the classic line features the ability to fully customize the boat for your adventures. Add on our packages or accessories so that you can adventure the way you want.<\/p>",
+            "text_size": "medium",
+            "button_label": "",
+            "button_link": "",
+            "desktop_proportion": 3,
+            "desktop_content_height": "auto",
+            "desktop_content_width": "auto",
+            "desktop_content_position": "top",
+            "desktop_content_alignment": "center",
+            "mobile_content_alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1664851804d911d219-0",
+        "1664851804d911d219-1"
+      ],
+      "settings": {
+        "title": "",
+        "title_size": "h1",
+        "title_alignment": "center",
+        "desktop_gap": 16,
+        "padding_top": 0,
         "padding_bottom": 36
       }
     },
@@ -491,6 +540,7 @@
   "order": [
     "main",
     "166485178250229472",
+    "1664851804077293e2",
     "16591208914dec4b2d",
     "1659121209fafd7926",
     "16639753725e6165c9",
