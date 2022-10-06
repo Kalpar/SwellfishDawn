@@ -73,28 +73,13 @@
         "165836715631002600-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Devloped in the Pacific North West,<\/p>",
+            "heading": "<p>With the Swellfish Classic, our most versatile design is integrated with the highest quality of materials giving you a boat designed to take on any adventure.<\/p>",
             "heading_size": "h1"
-          }
-        },
-        "b717e7fe-2f0b-4176-bfd3-886aa71fbe76": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>a Classic was born!<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "2b58120e-8dd4-4189-860b-0878d1a43da4": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
           }
         }
       },
       "block_order": [
-        "165836715631002600-0",
-        "b717e7fe-2f0b-4176-bfd3-886aa71fbe76",
-        "2b58120e-8dd4-4189-860b-0878d1a43da4"
+        "165836715631002600-0"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -447,12 +432,20 @@
             "text": "<p>This combo contains, 5 glue on Scotty pads, Scotty rod holders, Scotty this and that. <\/p>",
             "text_style": "body"
           }
+        },
+        "4771071c-38be-4d22-b940-95059efe3206": {
+          "type": "button",
+          "settings": {
+            "button_label": "Discover More",
+            "button_link": ""
+          }
         }
       },
       "block_order": [
         "1663964669eb040d70-0",
         "35991434-56d5-45f3-bbb2-f981ae808d37",
-        "1663964669eb040d70-1"
+        "1663964669eb040d70-1",
+        "4771071c-38be-4d22-b940-95059efe3206"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Freshwater.jpg",
