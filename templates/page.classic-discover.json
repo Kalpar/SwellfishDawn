@@ -193,20 +193,28 @@
         "165836941173856a8a-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>More Features than you can imagine<\/p>",
-            "heading_size": "h1"
+            "heading": "<p><strong>Fully Equipped<\/strong><\/p>",
+            "heading_size": "hxl"
           }
         },
-        "259f4f18-8b64-4e29-bd7f-7ef93e8dd184": {
+        "1441f892-6b31-4ce4-bb33-9770d466f3fe": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>And Ready To Go<\/strong><\/p>",
+            "heading_size": "h0"
+          }
+        },
+        "722a1309-aaef-438b-98b8-076b3cc3f777": {
           "type": "text",
           "settings": {
-            "text": "<p>Talk about all of the cool features of the Boat its self<\/p>"
+            "text": "<p>Insert the features here<\/p>"
           }
         }
       },
       "block_order": [
         "165836941173856a8a-0",
-        "259f4f18-8b64-4e29-bd7f-7ef93e8dd184"
+        "1441f892-6b31-4ce4-bb33-9770d466f3fe",
+        "722a1309-aaef-438b-98b8-076b3cc3f777"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -279,10 +287,11 @@
         "1663964669eb040d70-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Freshwater.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "accent-1",
