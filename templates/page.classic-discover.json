@@ -96,7 +96,7 @@
         "template--14481108369474__27586a65-7033-41f7-93b6-9c8954438e12-16650921193ddee31d-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Product-Tips.png",
+            "image": "shopify:\/\/shop_images\/Strength.png",
             "title": "German PVC Material",
             "text": "",
             "link_label": "",
@@ -106,7 +106,7 @@
         "template--14481108369474__27586a65-7033-41f7-93b6-9c8954438e12-16650921193ddee31d-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Product-Tips.png",
+            "image": "shopify:\/\/shop_images\/Heat.png",
             "title": "Thermal Welded Seams",
             "text": "",
             "link_label": "",
@@ -127,7 +127,7 @@
         "template--14481108369474__27586a65-7033-41f7-93b6-9c8954438e12-16650921193ddee31d-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Product-Tips.png",
+            "image": "shopify:\/\/shop_images\/SHield.png",
             "title": "Abrasion Reinforcements",
             "text": "",
             "link_label": "",
@@ -137,7 +137,7 @@
         "248a40f4-71e0-4080-af12-ac9e6f5d98cd": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Product-Tips.png",
+            "image": "shopify:\/\/shop_images\/Thicknes.png",
             "title": "Up To 2mm material",
             "text": "",
             "link_label": "",
