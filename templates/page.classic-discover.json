@@ -115,6 +115,7 @@
         },
         "55a7dfac-fd4c-475f-b47a-2277d33739d8": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Product-Tips.png",
             "title": "Proudly Canadian",
@@ -154,9 +155,9 @@
       "settings": {
         "title": "",
         "heading_size": "h2",
-        "image_width": "third",
+        "image_width": "half",
         "image_ratio": "adapt",
-        "columns_desktop": 5,
+        "columns_desktop": 4,
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
