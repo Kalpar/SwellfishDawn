@@ -97,7 +97,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Product-Tips.png",
-            "title": "Notable Point 1",
+            "title": "German PVC Material",
             "text": "",
             "link_label": "",
             "link": ""
@@ -107,7 +107,17 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Product-Tips.png",
-            "title": "Notable Point 2",
+            "title": "Thermal Welded",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "55a7dfac-fd4c-475f-b47a-2277d33739d8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Product-Tips.png",
+            "title": "Proudly Canadian",
             "text": "",
             "link_label": "",
             "link": ""
@@ -117,7 +127,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Product-Tips.png",
-            "title": "Notable Point 3",
+            "title": "Up to 2 mm Material Thickness",
             "text": "",
             "link_label": "",
             "link": ""
@@ -127,7 +137,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Product-Tips.png",
-            "title": "Notable Point 4",
+            "title": "In",
             "text": "",
             "link_label": "",
             "link": ""
@@ -137,6 +147,7 @@
       "block_order": [
         "template--14481108369474__27586a65-7033-41f7-93b6-9c8954438e12-16650921193ddee31d-0",
         "template--14481108369474__27586a65-7033-41f7-93b6-9c8954438e12-16650921193ddee31d-1",
+        "55a7dfac-fd4c-475f-b47a-2277d33739d8",
         "template--14481108369474__27586a65-7033-41f7-93b6-9c8954438e12-16650921193ddee31d-2",
         "248a40f4-71e0-4080-af12-ac9e6f5d98cd"
       ],
@@ -145,7 +156,7 @@
         "heading_size": "h2",
         "image_width": "third",
         "image_ratio": "adapt",
-        "columns_desktop": 4,
+        "columns_desktop": 5,
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
