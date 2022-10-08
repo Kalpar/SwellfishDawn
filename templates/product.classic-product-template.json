@@ -85,7 +85,8 @@
         "16648517823732bc04-0": {
           "type": "cell",
           "settings": {
-            "heading": "Built For Adventureres Like You",
+            "heading": "<p><strong>Built For Adventureres Like You<\/strong><\/p>",
+            "heading_size": "h1",
             "image": "shopify:\/\/shop_images\/Swellfish-Classic-going-through-a-old-sunken-forest.jpg",
             "text": "<p>Your gear plays a criticle role in exploring your favourite fishing hole or uncharted teritory. Double walled Aluminum Transom. The classic line is engeneried for maximum saftey while not compromizing performance.<\/p>",
             "text_size": "medium",
@@ -103,7 +104,8 @@
         "16648517823732bc04-1": {
           "type": "cell",
           "settings": {
-            "heading": "A Rugged Companion",
+            "heading": "<p>A Rugged Companion<\/p>",
+            "heading_size": "h1",
             "image": "shopify:\/\/shop_images\/Freshwater.jpg",
             "text": "<p>Thermal welded seams, Advanced German PVC Material, Deep V Hull Design, Up to 2mm material plus added reinforcment on any hi aberasion areas. When we say rugged we mean it!<\/p>",
             "text_size": "medium",
@@ -138,7 +140,8 @@
         "1664851804d911d219-0": {
           "type": "cell",
           "settings": {
-            "heading": "Upgraded For Performance",
+            "heading": "<p>Upgraded For Performance<\/p>",
+            "heading_size": "h1",
             "text": "<p>With years of devlopment and testing, the classic line is not just a simple inflatable boat. Its a testment to our dedication to contiously devlope our products.<\/p>",
             "text_size": "medium",
             "button_label": "",
@@ -155,7 +158,8 @@
         "1664851804d911d219-1": {
           "type": "cell",
           "settings": {
-            "heading": "Unmatched Versitility",
+            "heading": "<p>Unmatched Versitility<\/p>",
+            "heading_size": "h1",
             "text": "<p>Designed for you, the classic line features the ability to fully customize the boat for your adventures. Add on our packages or accessories so that you can adventure the way you want.<\/p>",
             "text_size": "medium",
             "button_label": "",
