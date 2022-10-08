@@ -131,7 +131,6 @@
           "settings": {
             "heading": "<p><strong>Built For Adventureres Like You<\/strong><\/p>",
             "heading_size": "h1",
-            "image": "shopify:\/\/shop_images\/Swellfish-Classic-going-through-a-old-sunken-forest.jpg",
             "text": "<p>Your gear plays a criticle role in exploring your favourite fishing hole or uncharted teritory. Double walled Aluminum Transom. The classic line is engeneried for maximum saftey while not compromizing performance.<\/p>",
             "text_size": "medium",
             "button_label": "",
@@ -141,7 +140,7 @@
             "desktop_content_width": "fit",
             "desktop_content_position": "top",
             "desktop_content_alignment": "center",
-            "desktop_content_transparency": 30,
+            "desktop_content_transparency": 20,
             "mobile_content_alignment": "center"
           }
         },
@@ -150,7 +149,6 @@
           "settings": {
             "heading": "<p><strong>A Rugged Companion<\/strong><\/p>",
             "heading_size": "h1",
-            "image": "shopify:\/\/shop_images\/Freshwater.jpg",
             "text": "<p>Thermal welded seams, Advanced German PVC Material, Deep V Hull Design, Up to 2mm material plus added reinforcment on any hi aberasion areas. When we say rugged we mean it!<\/p>",
             "text_size": "medium",
             "button_label": "",
@@ -160,7 +158,7 @@
             "desktop_content_width": "fit",
             "desktop_content_position": "top",
             "desktop_content_alignment": "left",
-            "desktop_content_transparency": 30,
+            "desktop_content_transparency": 20,
             "mobile_content_alignment": "center"
           }
         }
@@ -195,7 +193,7 @@
             "desktop_content_width": "auto",
             "desktop_content_position": "top",
             "desktop_content_alignment": "center",
-            "desktop_content_transparency": 50,
+            "desktop_content_transparency": 20,
             "mobile_content_alignment": "center"
           }
         },
@@ -209,11 +207,11 @@
             "button_label": "",
             "button_link": "",
             "desktop_proportion": 3,
-            "desktop_content_height": "auto",
-            "desktop_content_width": "auto",
+            "desktop_content_height": "100",
+            "desktop_content_width": "100",
             "desktop_content_position": "top",
             "desktop_content_alignment": "center",
-            "desktop_content_transparency": 0,
+            "desktop_content_transparency": 20,
             "mobile_content_alignment": "center"
           }
         }
@@ -228,7 +226,7 @@
         "title_alignment": "center",
         "desktop_gap": 16,
         "padding_top": 0,
-        "padding_bottom": 36
+        "padding_bottom": 24
       }
     },
     "c0eab52e-07d6-4e64-ad67-d85fd6bf4f64": {
