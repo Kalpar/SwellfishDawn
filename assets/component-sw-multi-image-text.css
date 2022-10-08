@@ -386,37 +386,37 @@
   width: 25%;
 }
 
-.swmultiimage-card--trans0 {
+.swmultiimage-card--transparent0 {
   background-color: rgb(var(--color-background));
 }
-.swmultiimage-card--trans10 {
+.swmultiimage-card--transparent10 {
   background-color: rgba(var(--color-background), 0.9);
 }
-.swmultiimage-card--trans20 {
+.swmultiimage-card--transparent20 {
   background-color: rgba(var(--color-background), 0.8);
 }
-.swmultiimage-card--trans30 {
+.swmultiimage-card--transparent30 {
   background-color: rgba(var(--color-background), 0.7);
 }
-.swmultiimage-card--trans40 {
+.swmultiimage-card--transparent40 {
   background-color: rgba(var(--color-background), 0.6);
 }
-.swmultiimage-card--trans50 {
+.swmultiimage-card--transparent50 {
   background-color: rgba(var(--color-background), 0.5);
 }
-.swmultiimage-card--trans60 {
+.swmultiimage-card--transparent60 {
   background-color: rgba(var(--color-background), 0.4);
 }
-.swmultiimage-card--trans70 {
+.swmultiimage-card--transparent70 {
   background-color: rgba(var(--color-background), 0.3);
 }
-.swmultiimage-card--trans80 {
+.swmultiimage-card--transparent80 {
   background-color: rgba(var(--color-background), 0.2);
 }
-.swmultiimage-card--trans90 {
+.swmultiimage-card--transparent90 {
   background-color: rgba(var(--color-background), 0.1);
 }
-.swmultiimage-card--trans100 {
+.swmultiimage-card--transparent100 {
   background-color: initial;
 }
 
