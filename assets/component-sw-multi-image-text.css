@@ -386,6 +386,41 @@
   width: 25%;
 }
 
+.swmultiimage-card--trans0 {
+  background-color: rgb(var(--color-background));
+}
+.swmultiimage-card--trans10 {
+  background-color: rgba(var(--color-background), 0.9);
+}
+.swmultiimage-card--trans20 {
+  background-color: rgba(var(--color-background), 0.8);
+}
+.swmultiimage-card--trans30 {
+  background-color: rgba(var(--color-background), 0.7);
+}
+.swmultiimage-card--trans40 {
+  background-color: rgba(var(--color-background), 0.6);
+}
+.swmultiimage-card--trans50 {
+  background-color: rgba(var(--color-background), 0.5);
+}
+.swmultiimage-card--trans60 {
+  background-color: rgba(var(--color-background), 0.4);
+}
+.swmultiimage-card--trans70 {
+  background-color: rgba(var(--color-background), 0.3);
+}
+.swmultiimage-card--trans80 {
+  background-color: rgba(var(--color-background), 0.2);
+}
+.swmultiimage-card--trans90 {
+  background-color: rgba(var(--color-background), 0.1);
+}
+.swmultiimage-card--trans100 {
+  background-color: initial;
+}
+
+
 .swmultiimage-item {
   max-width: unset;
 }

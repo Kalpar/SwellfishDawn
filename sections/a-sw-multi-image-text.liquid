@@ -50,7 +50,7 @@
                 }}
               </div>
             {%- endif -%}
-            <div class="swmultiimage-card__info swmultiimage-card--height{{ block.settings.desktop_content_height }} swmultiimage-card--width{{ block.settings.desktop_content_width }} color-accent-1">
+            <div class="swmultiimage-card__info swmultiimage-card--trans{{ block.settings.desktop_content_transparency }} swmultiimage-card--height{{ block.settings.desktop_content_height }} swmultiimage-card--width{{ block.settings.desktop_content_width }} color-accent-1">
               {%- unless block.settings.heading == blank -%}
                 <h3 class="swmultiimage__heading {{ block.settings.heading_size }}" {{ block.shopify_attributes }}>
                   {{ block.settings.heading | escape }}
@@ -338,6 +338,16 @@
           ],
           "default": "center",
           "label": "t:sections.image-with-text.settings.desktop_content_alignment.label"
+        },
+        {
+          "type": "range",
+          "id": "desktop_content_transparency",
+          "min": 0,
+          "max": 100,
+          "step": 10,
+          "unit": "%",
+          "label": "Content Background Transparency",
+          "default": 0
         },
         {
           "type": "header",
