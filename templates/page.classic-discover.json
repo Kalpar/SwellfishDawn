@@ -169,6 +169,29 @@
         "padding_bottom": 100
       }
     },
+    "de1ee74c-6bf8-490c-8625-2bcc72215d4d": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14481108369474__de1ee74c-6bf8-490c-8625-2bcc72215d4d-166518314344576e83-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Adventure Anywere<\/strong><\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--14481108369474__de1ee74c-6bf8-490c-8625-2bcc72215d4d-166518314344576e83-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "573641ae-9c70-4a26-95eb-a8368800ef70": {
       "type": "slideshow",
       "blocks": {
@@ -228,7 +251,7 @@
         "16583669039263d6c4-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>How the Boat \"feels\" Performance<\/p>",
+            "heading": "<p>r<\/p>",
             "heading_size": "h1"
           }
         },
@@ -258,7 +281,7 @@
         "16583667923b51d5e4-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Talk About Ruggedness and versitility<\/p>",
+            "heading": "<p>Tougher Than Tough<\/p>",
             "heading_size": "h1"
           }
         },
@@ -288,8 +311,8 @@
         "1659134152f3b7fae8-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>From Packed to adventuring <\/p>",
-            "heading_size": "h1"
+            "heading": "<p><strong>Setup in 3..2..1 GO!<\/strong><\/p>",
+            "heading_size": "hxl"
           }
         },
         "1659134152f3b7fae8-1": {
@@ -811,6 +834,7 @@
     "16583636155cb039af",
     "16583671567718c67c",
     "27586a65-7033-41f7-93b6-9c8954438e12",
+    "de1ee74c-6bf8-490c-8625-2bcc72215d4d",
     "573641ae-9c70-4a26-95eb-a8368800ef70",
     "1658366903917df458",
     "16583667926bb173b7",
