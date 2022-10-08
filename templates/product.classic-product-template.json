@@ -86,7 +86,7 @@
           "type": "cell",
           "settings": {
             "heading": "Built For Adventureres Like You",
-            "image": "shopify:\/\/shop_images\/Setting-Up-Your-Classic.jpg",
+            "image": "shopify:\/\/shop_images\/Swellfish-Classic-going-through-a-old-sunken-forest.jpg",
             "text": "<p>Your gear plays a criticle role in exploring your favourite fishing hole or uncharted teritory. Double walled Aluminum Transom. The classic line is engeneried for maximum saftey while not compromizing performance.<\/p>",
             "text_size": "medium",
             "button_label": "",
@@ -96,6 +96,7 @@
             "desktop_content_width": "fit",
             "desktop_content_position": "top",
             "desktop_content_alignment": "center",
+            "desktop_content_transparency": 80,
             "mobile_content_alignment": "center"
           }
         },
@@ -112,6 +113,7 @@
             "desktop_content_width": "fit",
             "desktop_content_position": "top",
             "desktop_content_alignment": "left",
+            "desktop_content_transparency": 0,
             "mobile_content_alignment": "center"
           }
         }
@@ -145,6 +147,7 @@
             "desktop_content_width": "auto",
             "desktop_content_position": "top",
             "desktop_content_alignment": "center",
+            "desktop_content_transparency": 0,
             "mobile_content_alignment": "center"
           }
         },
@@ -161,6 +164,7 @@
             "desktop_content_width": "auto",
             "desktop_content_position": "top",
             "desktop_content_alignment": "center",
+            "desktop_content_transparency": 0,
             "mobile_content_alignment": "center"
           }
         }
