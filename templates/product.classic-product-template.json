@@ -511,7 +511,6 @@
     },
     "165664059366eb45a3": {
       "type": "apps",
-      "disabled": true,
       "blocks": {
         "bfbf6fdc-4c30-4a72-974d-bef0d2bf35c5": {
           "type": "shopify:\/\/apps\/shop\/blocks\/shop-pay-installments-banner\/7cab7c4a-1dfc-4b7e-8e53-31f104f2fa4e",
@@ -519,43 +518,19 @@
           "settings": {
             "product": "{{product}}"
           }
+        },
+        "b28267e8-136c-42c6-9841-f4bde503483a": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
         }
       },
       "block_order": [
-        "bfbf6fdc-4c30-4a72-974d-bef0d2bf35c5"
+        "bfbf6fdc-4c30-4a72-974d-bef0d2bf35c5",
+        "b28267e8-136c-42c6-9841-f4bde503483a"
       ],
       "settings": {
         "include_margins": true
-      }
-    },
-    "1659121267cff97698": {
-      "type": "rich-text",
-      "blocks": {
-        "16591212672c192451-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Reviews<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "f29f210c-8472-4e69-8250-955b8213eb8d": {
-          "type": "text",
-          "settings": {
-            "text": "<p>This is review section<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "16591212672c192451-0",
-        "f29f210c-8472-4e69-8250-955b8213eb8d"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
       }
     },
     "product-recommendations": {
@@ -587,7 +562,6 @@
     "16639774461a609430",
     "1663976931bcf11c50",
     "165664059366eb45a3",
-    "1659121267cff97698",
     "product-recommendations"
   ]
 }
