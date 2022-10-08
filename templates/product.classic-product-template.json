@@ -79,6 +79,50 @@
         "padding_bottom": 12
       }
     },
+    "16591208914dec4b2d": {
+      "type": "rich-text",
+      "blocks": {
+        "165912089120668cb3-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Take a Closer Look<\/strong><\/p>",
+            "heading_size": "h0"
+          }
+        },
+        "165912089120668cb3-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>~<strong>Built For Adventureres Like You<\/strong><\/p><p>Your gear plays a criticle role in exploring your favourite fishing hole or uncharted teritory. Double walled Aluminum Transom. The classic line is engeneried for maximum saftey while not compromizing performance.<\/p><p><br\/>~<strong>A Rugged Companion<\/strong><\/p><p>Thermal welded seams, Advanced German PVC Material, Deep V Hull Design, Up to 2mm material plus added reinforcment on any hi aberasion areas. When we say rugged we mean it!<\/p><p><br\/>~<strong>Upgraded For Performance<\/strong><\/p><p>With years of devlopment and testing, the classic line is not just a simple inflatable boat. Its a testment to our dedication to contiously devlope our products.<\/p><p><br\/>~<strong>Unmatched Versitility<\/strong><\/p><p>Designed for you, the classic line features the ability to fully customize the boat for your adventures. Add on our packages or accessories so that you can adventure the way you want.<\/p>"
+          }
+        },
+        "165912089120668cb3-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Overview",
+            "button_link": "shopify:\/\/pages\/discover-a-classic",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "165912089120668cb3-0",
+        "165912089120668cb3-1",
+        "165912089120668cb3-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 44,
+        "padding_bottom": 12
+      }
+    },
     "166485178250229472": {
       "type": "a-sw-multi-image-text",
       "blocks": {
@@ -126,11 +170,11 @@
         "16648517823732bc04-1"
       ],
       "settings": {
-        "title": "Take a Closer Look",
+        "title": "",
         "title_size": "h0",
         "title_alignment": "center",
         "desktop_gap": 16,
-        "padding_top": 36,
+        "padding_top": 0,
         "padding_bottom": 0
       }
     },
@@ -140,7 +184,7 @@
         "1664851804d911d219-0": {
           "type": "cell",
           "settings": {
-            "heading": "<p>Upgraded For Performance<\/p>",
+            "heading": "<p><strong>Upgraded For Performance<\/strong><\/p>",
             "heading_size": "h1",
             "text": "<p>With years of devlopment and testing, the classic line is not just a simple inflatable boat. Its a testment to our dedication to contiously devlope our products.<\/p>",
             "text_size": "medium",
@@ -151,14 +195,14 @@
             "desktop_content_width": "auto",
             "desktop_content_position": "top",
             "desktop_content_alignment": "center",
-            "desktop_content_transparency": 0,
+            "desktop_content_transparency": 50,
             "mobile_content_alignment": "center"
           }
         },
         "1664851804d911d219-1": {
           "type": "cell",
           "settings": {
-            "heading": "<p>Unmatched Versitility<\/p>",
+            "heading": "<p><strong>Unmatched Versitility<\/strong><\/p>",
             "heading_size": "h1",
             "text": "<p>Designed for you, the classic line features the ability to fully customize the boat for your adventures. Add on our packages or accessories so that you can adventure the way you want.<\/p>",
             "text_size": "medium",
@@ -187,28 +231,13 @@
         "padding_bottom": 36
       }
     },
-    "16591208914dec4b2d": {
+    "c0eab52e-07d6-4e64-ad67-d85fd6bf4f64": {
       "type": "rich-text",
       "blocks": {
-        "165912089120668cb3-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p><strong>Take a Closer Look<\/strong><\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "165912089120668cb3-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>~<strong>Built For Adventureres Like You<\/strong><\/p><p>Your gear plays a criticle role in exploring your favourite fishing hole or uncharted teritory. Double walled Aluminum Transom. The classic line is engeneried for maximum saftey while not compromizing performance.<\/p><p><br\/>~<strong>A Rugged Companion<\/strong><\/p><p>Thermal welded seams, Advanced German PVC Material, Deep V Hull Design, Up to 2mm material plus added reinforcment on any hi aberasion areas. When we say rugged we mean it!<\/p><p><br\/>~<strong>Upgraded For Performance<\/strong><\/p><p>With years of devlopment and testing, the classic line is not just a simple inflatable boat. Its a testment to our dedication to contiously devlope our products.<\/p><p><br\/>~<strong>Unmatched Versitility<\/strong><\/p><p>Designed for you, the classic line features the ability to fully customize the boat for your adventures. Add on our packages or accessories so that you can adventure the way you want.<\/p>"
-          }
-        },
-        "165912089120668cb3-2": {
+        "template--14481108566082__c0eab52e-07d6-4e64-ad67-d85fd6bf4f64-1665272112602c15b2-2": {
           "type": "button",
-          "disabled": true,
           "settings": {
-            "button_label": "Overview",
+            "button_label": "Discover More",
             "button_link": "shopify:\/\/pages\/discover-a-classic",
             "button_style_secondary": true,
             "button_label_2": "",
@@ -218,17 +247,15 @@
         }
       },
       "block_order": [
-        "165912089120668cb3-0",
-        "165912089120668cb3-1",
-        "165912089120668cb3-2"
+        "template--14481108566082__c0eab52e-07d6-4e64-ad67-d85fd6bf4f64-1665272112602c15b2-2"
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 60,
-        "padding_bottom": 52
+        "padding_top": 0,
+        "padding_bottom": 96
       }
     },
     "1659121209fafd7926": {
@@ -250,7 +277,7 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
+        "padding_top": 0,
         "padding_bottom": 40
       }
     },
@@ -551,9 +578,10 @@
   },
   "order": [
     "main",
+    "16591208914dec4b2d",
     "166485178250229472",
     "1664851804077293e2",
-    "16591208914dec4b2d",
+    "c0eab52e-07d6-4e64-ad67-d85fd6bf4f64",
     "1659121209fafd7926",
     "16639753725e6165c9",
     "16639774461a609430",
