@@ -235,7 +235,7 @@
         "template--14481108566082__c0eab52e-07d6-4e64-ad67-d85fd6bf4f64-1665272112602c15b2-2": {
           "type": "button",
           "settings": {
-            "button_label": "Discover More",
+            "button_label": "Discover The Classic",
             "button_link": "shopify:\/\/pages\/discover-a-classic",
             "button_style_secondary": true,
             "button_label_2": "",
