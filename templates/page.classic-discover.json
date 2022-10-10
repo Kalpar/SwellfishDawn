@@ -538,7 +538,7 @@
         "4771071c-38be-4d22-b940-95059efe3206": {
           "type": "button",
           "settings": {
-            "button_label": "Discover More",
+            "button_label": "Launching Soon",
             "button_link": ""
           }
         }
@@ -581,18 +581,18 @@
             "text_size": "large"
           }
         },
-        "166456661125d35a9c-1": {
-          "type": "text",
+        "db3b3ba8-ef19-4377-a560-6f1d7d80d813": {
+          "type": "button",
           "settings": {
-            "text": "<p>This combo contains, 5 glue on Scotty pads, Scotty rod holders, Scotty this and that.<\/p>",
-            "text_style": "body"
+            "button_label": "Launching Soon",
+            "button_link": ""
           }
         }
       },
       "block_order": [
         "166456661125d35a9c-0",
         "542a3d41-a2a8-4943-8aed-080fc6b20eda",
-        "166456661125d35a9c-1"
+        "db3b3ba8-ef19-4377-a560-6f1d7d80d813"
       ],
       "settings": {
         "height": "adapt",
