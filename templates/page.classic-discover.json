@@ -530,6 +530,7 @@
         },
         "1663964669eb040d70-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>This combo contains, 5 glue on Scotty pads, Scotty rod holders, Scotty this and that. <\/p>",
             "text_style": "body"
@@ -613,30 +614,22 @@
         "1664573841ccd56937-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Custom Shop",
             "heading_size": "h1"
           }
         },
         "b1e15c49-3b9e-4229-816c-0ddd1c94437b": {
           "type": "caption",
           "settings": {
-            "caption": "Add a tagline",
+            "caption": "Make it truly yours!",
             "text_style": "caption-with-letter-spacing",
             "text_size": "large"
-          }
-        },
-        "1664573841ccd56937-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
           }
         }
       },
       "block_order": [
         "1664573841ccd56937-0",
-        "b1e15c49-3b9e-4229-816c-0ddd1c94437b",
-        "1664573841ccd56937-1"
+        "b1e15c49-3b9e-4229-816c-0ddd1c94437b"
       ],
       "settings": {
         "height": "adapt",
@@ -736,7 +729,7 @@
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 52
+        "padding_bottom": 100
       }
     },
     "1659133256b916bbd4": {
