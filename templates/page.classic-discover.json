@@ -681,6 +681,41 @@
         "padding_bottom": 52
       }
     },
+    "1cbae051-1a1d-4d43-8ca5-e2bc50655fb2": {
+      "type": "a-sw-multi-image-text",
+      "blocks": {
+        "template--14481108369474__1cbae051-1a1d-4d43-8ca5-e2bc50655fb2-16656850951471f98a-0": {
+          "type": "cell",
+          "settings": {
+            "heading": "",
+            "heading_size": "hxl",
+            "image": "shopify:\/\/shop_images\/Temp-Whats-in-the-box.jpg",
+            "text": "",
+            "text_size": "medium",
+            "button_label": "",
+            "button_link": "",
+            "desktop_proportion": 1,
+            "desktop_content_height": "auto",
+            "desktop_content_width": "auto",
+            "desktop_content_position": "middle",
+            "desktop_content_alignment": "center",
+            "desktop_content_transparency": 100,
+            "mobile_content_alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--14481108369474__1cbae051-1a1d-4d43-8ca5-e2bc50655fb2-16656850951471f98a-0"
+      ],
+      "settings": {
+        "title": "MultiColumn Images with Text",
+        "title_size": "h1",
+        "title_alignment": "center",
+        "desktop_gap": 10,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1659133256b916bbd4": {
       "type": "rich-text",
       "blocks": {
@@ -846,6 +881,7 @@
     "1664566611635acb27",
     "16645738424a07e2e5",
     "1659120698504593bf",
+    "1cbae051-1a1d-4d43-8ca5-e2bc50655fb2",
     "1659133256b916bbd4",
     "166327444298634be3",
     "1658366990a57972a1",
