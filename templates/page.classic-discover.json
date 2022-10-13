@@ -175,7 +175,7 @@
         "template--14481108369474__de1ee74c-6bf8-490c-8625-2bcc72215d4d-166518314344576e83-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p><strong>Born a Classic, Developed from Innovation<\/strong><\/p>",
+            "heading": "<p><strong>Born a Classic,<\/strong><\/p>",
             "heading_size": "h1"
           }
         }
@@ -189,6 +189,29 @@
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "1a90c4dd-c5e3-4c9f-9108-3615c1d10466": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14481108369474__1a90c4dd-c5e3-4c9f-9108-3615c1d10466-1665685476867e145b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Developed from Innovation<\/strong><\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--14481108369474__1a90c4dd-c5e3-4c9f-9108-3615c1d10466-1665685476867e145b-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
         "padding_bottom": 52
       }
     },
@@ -894,6 +917,7 @@
     "16583671567718c67c",
     "27586a65-7033-41f7-93b6-9c8954438e12",
     "de1ee74c-6bf8-490c-8625-2bcc72215d4d",
+    "1a90c4dd-c5e3-4c9f-9108-3615c1d10466",
     "573641ae-9c70-4a26-95eb-a8368800ef70",
     "1658366903917df458",
     "16583667926bb173b7",
