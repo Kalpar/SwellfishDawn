@@ -715,12 +715,21 @@
         "template--14481108369474__88259c41-0d15-469b-afd0-b87de0e5d622-1665685476867e145b-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Above is the classic 270, Larger sizes come with the same equipment but floor panel configuration changes. The larger size boats will add more floor panels. <\/p>"
+            "text": "<p>All Classics come with: 2 Aluminum Seats, 2 Colapsable Oars, Seat Bench  Bag, Front Bow Storage Bag, Foot Inflation Pump, Emergancey Repair Kit, Locking FLoor Rails, Aluminum Floor With Storage Bag , Classic Boat eith Stoarage Bag.<\/p>"
+          }
+        },
+        "59d4093c-bf18-4bb3-b852-74d8e4f59754": {
+          "type": "caption",
+          "settings": {
+            "caption": "Above is the classic 270, Larger sizes come with the same equipment but floor panel configuration changes. The larger size boats will add more floor panels.",
+            "text_style": "subtitle",
+            "text_size": "small"
           }
         }
       },
       "block_order": [
-        "template--14481108369474__88259c41-0d15-469b-afd0-b87de0e5d622-1665685476867e145b-1"
+        "template--14481108369474__88259c41-0d15-469b-afd0-b87de0e5d622-1665685476867e145b-1",
+        "59d4093c-bf18-4bb3-b852-74d8e4f59754"
       ],
       "settings": {
         "desktop_content_position": "center",
