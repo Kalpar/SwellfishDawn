@@ -176,7 +176,7 @@
           "type": "heading",
           "settings": {
             "heading": "<p><strong>Born a Classic,<\/strong><\/p>",
-            "heading_size": "h1"
+            "heading_size": "hxl"
           }
         }
       },
@@ -199,7 +199,7 @@
           "type": "heading",
           "settings": {
             "heading": "<p><strong>Developed from Innovation<\/strong><\/p>",
-            "heading_size": "h1"
+            "heading_size": "h0"
           }
         }
       },
