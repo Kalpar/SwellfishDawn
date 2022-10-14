@@ -1,5 +1,16 @@
 {
   "sections": {
+    "e7020d20-4244-4f53-b897-890a1d97f7e4": {
+      "type": "a-sw-menu",
+      "settings": {
+        "menu": "the-classic",
+        "menu_type": "product-submenu",
+        "color_scheme": "background-1",
+        "buynow": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -550,6 +561,7 @@
     }
   },
   "order": [
+    "e7020d20-4244-4f53-b897-890a1d97f7e4",
     "main",
     "16591208914dec4b2d",
     "166485178250229472",
