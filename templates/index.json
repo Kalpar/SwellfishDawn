@@ -140,7 +140,7 @@
             "title": "Support",
             "text": "",
             "link_label": "Learn More",
-            "link": ""
+            "link": "mailto:reachus@swellfish.co"
           }
         },
         "165792062398951986-2": {
@@ -178,17 +178,6 @@
     },
     "1662170167e0c7f18d": {
       "type": "apps",
-      "blocks": {
-        "de385f0e-5b14-4687-9fac-21cd68b73965": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "maxwidth": 1080
-          }
-        }
-      },
-      "block_order": [
-        "de385f0e-5b14-4687-9fac-21cd68b73965"
-      ],
       "settings": {
         "include_margins": true
       }
