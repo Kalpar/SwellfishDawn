@@ -477,18 +477,10 @@
             "heading": "<p><strong>Adventures by You<\/strong><\/p>",
             "heading_size": "h1"
           }
-        },
-        "1663977446e0b74b72-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
         }
       },
       "block_order": [
-        "1663977446e0b74b72-0",
-        "1663977446e0b74b72-1"
+        "1663977446e0b74b72-0"
       ],
       "settings": {
         "desktop_content_position": "center",
