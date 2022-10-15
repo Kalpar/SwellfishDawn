@@ -118,7 +118,7 @@
               {%- endfor -%}
             </ul>
           </li>
-          {%- if section.settings.buynow -%}
+          {%- if section.settings.buynow != blank -%}
             <li class="sw-menu--buynow"><a href="{{ section.settings.buynow.url }}" class="button button--secondary"><span>View Pricing</span></a></li>
           {%- endif -%}
         </ul>
