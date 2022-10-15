@@ -2,13 +2,45 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "4c609be3-5d88-40cf-a364-8d308b88adf0": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14532167794754__4c609be3-5d88-40cf-a364-8d308b88adf0-16658008637368b296-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Find a Retailer Near You<\/strong><\/p>",
+            "heading_size": "h0"
+          }
+        },
+        "template--14532167794754__4c609be3-5d88-40cf-a364-8d308b88adf0-16658008637368b296-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Don't see your favorite retailer?<\/strong><br\/>We are always looking for watercraft and outdoor retailer's, so ask them to check us out!<\/p><p>Start the process today by filling out the application!<br\/><a href=\"https:\/\/swellfish.myshopify.com\/pages\/retail-partnership\" target=\"_blank\" title=\"Retail Partnership\">Become A Retailer<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14532167794754__4c609be3-5d88-40cf-a364-8d308b88adf0-16658008637368b296-0",
+        "template--14532167794754__4c609be3-5d88-40cf-a364-8d308b88adf0-16658008637368b296-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "4c609be3-5d88-40cf-a364-8d308b88adf0"
   ]
 }
