@@ -273,7 +273,7 @@
         "16591212092b83ed96-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p><strong>In The Box<\/strong><\/p>",
+            "heading": "<p><strong>What's In The Box<\/strong><\/p>",
             "heading_size": "h1"
           }
         }
@@ -288,6 +288,41 @@
         "full_width": true,
         "padding_top": 0,
         "padding_bottom": 40
+      }
+    },
+    "bd123f7b-6baa-475b-b422-03f386764818": {
+      "type": "slideshow",
+      "blocks": {
+        "template--14532123820098__bd123f7b-6baa-475b-b422-03f386764818-1665798475d4b7fa74-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Whats-In-THe-Box-White_d816ceda-1528-4209-a42c-c6544d8aa93a.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--14532123820098__bd123f7b-6baa-475b-b422-03f386764818-1665798475d4b7fa74-0"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
       }
     },
     "16639753725e6165c9": {
@@ -442,18 +477,10 @@
             "heading": "<p><strong>Adventures by You<\/strong><\/p>",
             "heading_size": "h1"
           }
-        },
-        "1663977446e0b74b72-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
         }
       },
       "block_order": [
-        "1663977446e0b74b72-0",
-        "1663977446e0b74b72-1"
+        "1663977446e0b74b72-0"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -568,6 +595,7 @@
     "1664851804077293e2",
     "c0eab52e-07d6-4e64-ad67-d85fd6bf4f64",
     "1659121209fafd7926",
+    "bd123f7b-6baa-475b-b422-03f386764818",
     "16639753725e6165c9",
     "16639774461a609430",
     "1663976931bcf11c50",
