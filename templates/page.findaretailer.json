@@ -37,10 +37,17 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "a410f6e5-d213-4535-8878-ca3d9f44f235": {
+      "type": "store-locator-closeby",
+      "settings": {
+        "embed_size": "full_width_2"
+      }
     }
   },
   "order": [
     "main",
-    "4c609be3-5d88-40cf-a364-8d308b88adf0"
+    "4c609be3-5d88-40cf-a364-8d308b88adf0",
+    "a410f6e5-d213-4535-8878-ca3d9f44f235"
   ]
 }
