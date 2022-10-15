@@ -1,1 +1,127 @@
-{"sections":{"16632738038ca2dbe0":{"type":"a-sw-menu","settings":{"menu":"the-classic","menu_type":"product-submenu","color_scheme":"accent-1","buynow":"classic-inflatable-boat","padding_top":8,"padding_bottom":12}},"main":{"type":"main-page","disabled":true,"settings":{"padding_top":28,"padding_bottom":28}},"16583395057a646e6a":{"type":"rich-text","blocks":{"16583395053f34de71-0":{"type":"heading","settings":{"heading":"<p><strong>Video<\/strong><\/p>","heading_size":"h1"}}},"block_order":["16583395053f34de71-0"],"settings":{"desktop_content_position":"left","content_alignment":"left","color_scheme":"background-1","full_width":true,"padding_top":16,"padding_bottom":20}},"166214653556454d8f":{"type":"collage","blocks":{"16621465354a2e354d-0":{"type":"video","settings":{"cover_image":"shopify:\/\/shop_images\/Swellfish-Inflatable-Boats_4dbf2160-6a3f-45ef-872c-f07e48d3aff8.png","video_url":"https:\/\/www.youtube.com\/watch?v=CfC-Mq6-lTg","description":"Describe the video","image_padding":false}}},"block_order":["16621465354a2e354d-0"],"settings":{"heading":"","heading_size":"h1","desktop_layout":"left","mobile_layout":"collage","color_scheme":"background-1","padding_top":36,"padding_bottom":0}},"1658338640be0fc491":{"type":"collage","blocks":{"1658338640de4fa751-0":{"type":"video","settings":{"cover_image":"shopify:\/\/shop_images\/Where-Will-Your-Adventure-Take-You.png","video_url":"https:\/\/youtu.be\/w__XfODAvrs","description":"Take your Classic Inflatable on an adventure","image_padding":false}},"54db4d95-f354-4f56-9d41-d44df948e845":{"type":"video","settings":{"cover_image":"shopify:\/\/shop_images\/Packing-Up-A-Classic.png","video_url":"https:\/\/youtu.be\/1DmVtLGjbLg","description":"A video on how we pack up our classic boats","image_padding":false}},"ad7c6058-7702-43f7-a9a7-3f945f09b5a9":{"type":"video","settings":{"cover_image":"shopify:\/\/shop_images\/Setting-Up-Your-Classic.jpg","video_url":"https:\/\/www.youtube.com\/watch?v=1DmVtLGjbLg","description":"Introduction Video Of The Classic Line From Swellfish","image_padding":false}}},"block_order":["1658338640de4fa751-0","54db4d95-f354-4f56-9d41-d44df948e845","ad7c6058-7702-43f7-a9a7-3f945f09b5a9"],"settings":{"heading":"","heading_size":"h1","desktop_layout":"right","mobile_layout":"column","color_scheme":"background-1","padding_top":8,"padding_bottom":8}}},"order":["16632738038ca2dbe0","main","16583395057a646e6a","166214653556454d8f","1658338640be0fc491"]}
+{
+  "sections": {
+    "16632738038ca2dbe0": {
+      "type": "a-sw-menu",
+      "settings": {
+        "menu": "the-classic",
+        "menu_type": "product-submenu",
+        "color_scheme": "accent-1",
+        "buynow": "classic-inflatable-boat",
+        "padding_top": 8,
+        "padding_bottom": 12
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "16583395057a646e6a": {
+      "type": "rich-text",
+      "blocks": {
+        "16583395053f34de71-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Video<\/strong><\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "16583395053f34de71-0"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 16,
+        "padding_bottom": 20
+      }
+    },
+    "166214653556454d8f": {
+      "type": "collage",
+      "blocks": {
+        "16621465354a2e354d-0": {
+          "type": "video",
+          "settings": {
+            "cover_image": "shopify:\/\/shop_images\/Swellfish-Inflatable-Boats_4dbf2160-6a3f-45ef-872c-f07e48d3aff8.png",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=CfC-Mq6-lTg",
+            "description": "Describe the video",
+            "image_padding": false
+          }
+        }
+      },
+      "block_order": [
+        "16621465354a2e354d-0"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "1658338640be0fc491": {
+      "type": "collage",
+      "blocks": {
+        "1658338640de4fa751-0": {
+          "type": "video",
+          "settings": {
+            "cover_image": "shopify:\/\/shop_images\/Where-Will-Your-Adventure-Take-You.png",
+            "video_url": "https:\/\/youtu.be\/w__XfODAvrs",
+            "description": "Take your Classic Inflatable on an adventure",
+            "image_padding": false
+          }
+        },
+        "54db4d95-f354-4f56-9d41-d44df948e845": {
+          "type": "video",
+          "settings": {
+            "cover_image": "shopify:\/\/shop_images\/Packing-Up-A-Classic.png",
+            "video_url": "https:\/\/youtu.be\/1DmVtLGjbLg",
+            "description": "A video on how we pack up our classic boats",
+            "image_padding": false
+          }
+        },
+        "ad7c6058-7702-43f7-a9a7-3f945f09b5a9": {
+          "type": "video",
+          "settings": {
+            "cover_image": "shopify:\/\/shop_images\/Setting-Up-Your-Classic.jpg",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=1DmVtLGjbLg",
+            "description": "Introduction Video Of The Classic Line From Swellfish",
+            "image_padding": false
+          }
+        }
+      },
+      "block_order": [
+        "1658338640de4fa751-0",
+        "54db4d95-f354-4f56-9d41-d44df948e845",
+        "ad7c6058-7702-43f7-a9a7-3f945f09b5a9"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "right",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "background-1",
+        "padding_top": 8,
+        "padding_bottom": 100
+      }
+    }
+  },
+  "order": [
+    "16632738038ca2dbe0",
+    "main",
+    "16583395057a646e6a",
+    "166214653556454d8f",
+    "1658338640be0fc491"
+  ]
+}
