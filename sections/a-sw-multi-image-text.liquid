@@ -5,29 +5,21 @@
     padding-top: {{ section.settings.padding_top | times: 0.75 | round: 0 }}px;
     padding-bottom: {{ section.settings.padding_bottom | times: 0.75 | round: 0 }}px;
   }
-
   @media screen and (min-width: 750px) {
     .section-{{ section.id }}-padding {
       padding-top: {{ section.settings.padding_top }}px;
       padding-bottom: {{ section.settings.padding_bottom }}px;
     }
-  }
-  #MultiImage-{{ section.id }} .grid {
-    column-gap: {{ section.settings.desktop_gap }}px;
-    row-gap: {{ section.settings.desktop_gap }}px;
+    #MultiImage-{{ section.id }} .grid {
+      column-gap: {{ section.settings.desktop_gap }}px;
+      row-gap: {{ section.settings.desktop_gap }}px;
+    }
   }
 {%- endstyle -%}
 
 <div id="MultiImage-{{ section.id }}" class="swmultiimage color-{{ section.settings.color_scheme }} gradient{% unless section.settings.background_style == 'none' and settings.text_boxes_border_thickness > 0 or settings.text_boxes_shadow_opacity > 0 %} background-{{ section.settings.background_style }}{% endunless %}{% if section.settings.title == blank %} no-heading{% endif %}">
   <div class="page-width section-{{ section.id }}-padding isolate">
-    {%- unless section.settings.title == blank -%}
-      <div class="title-wrapper--self-padded-mobile title-wrapper--no-top-margin {{ section.settings.title_alignment }}">
-        <h2 class="title {{ section.settings.title_size }}">
-          {{ section.settings.title | escape }}
-        </h2>
-      </div>
-    {%- endunless -%}
-    <ul class="grid" role="list">
+    <ul class="swmultiimage-grid" role="list">
       {%- liquid
         assign highest_ratio = 0
         for block in section.blocks
@@ -38,8 +30,8 @@
       -%}
       {%- for block in section.blocks -%}
  
-        <li class="grid__item swmultiimage-item swmultiimage-item--dprop_{{ block.settings.desktop_proportion }}" {{ block.shopify_attributes }}>
-          <div class="swmultiimage-card swmultiimage-card--overlap swmultiimage-card--{{ block.settings.desktop_content_position }}-{{block.settings.desktop_content_alignment}}">
+        <li class="swmultiimage-grid__item swmultiimage-item swmultiimage-item--dprop_{{ block.settings.desktop_proportion }}" {{ block.shopify_attributes }}>
+          <div class="swmultiimage-card swmultiimage-card--overlap swmultiimage-card-dpos--{{ block.settings.desktop_content_position }} ">
             {%- if block.settings.image != blank -%}
               <div class="swmultiimage-card__image">
                 {{ block.settings.image | image_url: width: 1420 | image_tag:
@@ -50,7 +42,8 @@
                 }}
               </div>
             {%- endif -%}
-            <div class="swmultiimage-card__info swmultiimage-card--transparent{{ block.settings.desktop_content_transparency }} swmultiimage-card--height{{ block.settings.desktop_content_height }} swmultiimage-card--width{{ block.settings.desktop_content_width }} color-accent-1">
+            {%- unless block.settings.heading == blank and block.settings.text and block.settings.button_label %}
+            <div class="swmultiimage-card__info swmultiimage-card__info--mobile-{{ block.settings.mobile_content_placement }}img swmultiimage-card--transparent{{ block.settings.desktop_content_transparency }} swmultiimage-card--height{{ block.settings.desktop_content_height }} swmultiimage-card--width{{ block.settings.desktop_content_width }} swmultiimage-card__info--dalign-{{ block.settings.desktop_content_alignment }} swmultiimage-card-malign--{{ block.settings.mobile_content_alignment }} color-{{ block.settings.color_scheme }}">
               {%- unless block.settings.heading == blank -%}
                 <h3 class="swmultiimage__heading {{ block.settings.heading_size }}" {{ block.shopify_attributes }}>
                   {{ block.settings.heading | replace: 'p>', 'span>' }}
@@ -65,7 +58,8 @@
                   </a>
               {%- endunless -%}
             </div>
-          </div>
+          {%- endunless -%}
+        </div>
         </li>
       {%- endfor -%}
     </ul>
@@ -78,56 +72,6 @@
   "name": "-sw- Multi Image/Text",
   "class": "section",
   "settings": [
-    {
-      "type": "header",
-      "content": "Heading / Title"
-    },
-    {
-      "type": "text",
-      "id": "title",
-      "default": "MultiColumn Images with Text",
-      "label": "Title Text"
-    },
-    {
-      "type": "select",
-      "id": "title_size",
-      "options": [
-        {
-          "value": "h2",
-          "label": "t:sections.all.heading_size.options__1.label"
-        },
-        {
-          "value": "h1",
-          "label": "t:sections.all.heading_size.options__2.label"
-        },
-        {
-          "value": "h0",
-          "label": "t:sections.all.heading_size.options__3.label"
-        }
-      ],
-      "default": "h1",
-      "label": "Title Size"
-    },
-    {
-      "type": "select",
-      "id": "title_alignment",
-      "options": [
-        {
-          "value": "left",
-          "label": "t:sections.image-with-text.settings.desktop_content_alignment.options__1.label"
-        },
-        {
-          "value": "center",
-          "label": "t:sections.image-with-text.settings.desktop_content_alignment.options__2.label"
-        },
-        {
-          "value": "right",
-          "label": "t:sections.image-with-text.settings.desktop_content_alignment.options__3.label"
-        }
-      ],
-      "default": "center",
-      "label": "Title Alignment"
-    },
     {
       "type": "header",
       "content": "General Settings"
@@ -180,6 +124,34 @@
       "type": "cell",
       "name": "Content Cell",
       "settings": [
+        {
+          "type": "select",
+          "id": "color_scheme",
+          "options": [
+            {
+              "value": "accent-1",
+              "label": "t:sections.all.colors.accent_1.label"
+            },
+            {
+              "value": "accent-2",
+              "label": "t:sections.all.colors.accent_2.label"
+            },
+            {
+              "value": "background-1",
+              "label": "t:sections.all.colors.background_1.label"
+            },
+            {
+              "value": "background-2",
+              "label": "t:sections.all.colors.background_2.label"
+            },
+            {
+              "value": "inverse",
+              "label": "t:sections.all.colors.inverse.label"
+            }
+          ],
+          "default": "background-1",
+          "label": "t:sections.all.colors.label"
+        },
         {
           "type": "richtext",
           "id": "heading",
@@ -328,19 +300,43 @@
           "id": "desktop_content_position",
           "options": [
             {
-              "value": "top",
-              "label": "t:sections.image-with-text.settings.desktop_content_position.options__1.label"
+              "value": "top-left",
+              "label": "Top Left"
             },
             {
-              "value": "middle",
-              "label": "t:sections.image-with-text.settings.desktop_content_position.options__2.label"
+              "value": "top-center",
+              "label": "Top Center"
             },
             {
-              "value": "bottom",
-              "label": "t:sections.image-with-text.settings.desktop_content_position.options__3.label"
+              "value": "top-right",
+              "label": "Top Right"
+            },
+            {
+              "value": "middle-left",
+              "label": "Middle Left"
+            },
+            {
+              "value": "middle-center",
+              "label": "Middle Center"
+            },
+            {
+              "value": "middle-right",
+              "label": "Middle Right"
+            },
+            {
+              "value": "bottom-left",
+              "label": "Bottom Left"
+            },
+            {
+              "value": "bottom-center",
+              "label": "Bottom Center"
+            },
+            {
+              "value": "bottom-right",
+              "label": "Bottom right"
             }
           ],
-          "default": "top",
+          "default": "top-center",
           "label": "t:sections.image-with-text.settings.desktop_content_position.label"
         },
         {
@@ -376,6 +372,22 @@
         {
           "type": "header",
           "content": "Mobile Layout"
+        },
+        {
+          "type": "select",
+          "id": "mobile_content_placement",
+          "options": [
+            {
+              "value": "above",
+              "label": "Above Image"
+            },
+            {
+              "value": "below",
+              "label": "Below Image"
+            }
+          ],
+          "default": "below",
+          "label": "Content Placement"
         },
         {
           "type": "select",
