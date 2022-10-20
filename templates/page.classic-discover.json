@@ -288,6 +288,36 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "16583667926bb173b7": {
+      "type": "rich-text",
+      "blocks": {
+        "16583667923b51d5e4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Tougher Than Tough<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "16583667923b51d5e4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>With the use of the highest quality PVC Material, Thermaly welded seams, ample reinforcment and protection on all high wear and impact areas. The Swellfish Classic line is tough enough to take on any extreme adventure. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16583667923b51d5e4-0",
+        "16583667923b51d5e4-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "ee9596c2-f0d7-4b59-8e52-a3353a38fec3": {
       "type": "image-with-text",
       "blocks": {
@@ -324,66 +354,6 @@
         "padding_bottom": 36
       }
     },
-    "1658366903917df458": {
-      "type": "rich-text",
-      "blocks": {
-        "16583669039263d6c4-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>r<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "16583669039263d6c4-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>This section should focus on the design and dynamics relatng to performance. <br\/><br\/>Think stablility, getting up on plan, show how it handles on the water.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "16583669039263d6c4-0",
-        "16583669039263d6c4-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "16583667926bb173b7": {
-      "type": "rich-text",
-      "blocks": {
-        "16583667923b51d5e4-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Tougher Than Tough<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "16583667923b51d5e4-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Information about material used, how we assemble,  and everything eles that makes this a robust boat. This contnent should put them at ease of how durable the boat is. <\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "16583667923b51d5e4-0",
-        "16583667923b51d5e4-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "1659134152a27f2299": {
       "type": "rich-text",
       "blocks": {
@@ -412,6 +382,19 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "f5c5cdad-185c-46c3-9c9a-4a1c91fc6346": {
+      "type": "video",
+      "settings": {
+        "heading": "Setup in 3... 2...1... GO!",
+        "heading_size": "h0",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "1658369411ba8dca14": {
@@ -976,10 +959,10 @@
     "de1ee74c-6bf8-490c-8625-2bcc72215d4d",
     "1a90c4dd-c5e3-4c9f-9108-3615c1d10466",
     "4de3ddda-1f63-4a16-92b7-87f56cf29e8c",
-    "ee9596c2-f0d7-4b59-8e52-a3353a38fec3",
-    "1658366903917df458",
     "16583667926bb173b7",
+    "ee9596c2-f0d7-4b59-8e52-a3353a38fec3",
     "1659134152a27f2299",
+    "f5c5cdad-185c-46c3-9c9a-4a1c91fc6346",
     "1658369411ba8dca14",
     "541311dd-846d-4710-a5fc-ede4720e8ff1",
     "1658366931dbe5b64f",
