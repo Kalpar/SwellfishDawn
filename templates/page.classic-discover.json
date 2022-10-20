@@ -166,7 +166,7 @@
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 8,
-        "padding_bottom": 100
+        "padding_bottom": 72
       }
     },
     "de1ee74c-6bf8-490c-8625-2bcc72215d4d": {
@@ -212,7 +212,61 @@
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 0,
-        "padding_bottom": 52
+        "padding_bottom": 16
+      }
+    },
+    "4de3ddda-1f63-4a16-92b7-87f56cf29e8c": {
+      "type": "slideshow",
+      "blocks": {
+        "template--14532124475458__4de3ddda-1f63-4a16-92b7-87f56cf29e8c-1666289406fc9fb80b-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Greg-Varga-in-a-Swellfish.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "2c5303a4-ec69-4ba0-88c2-0c10e9e1dc38": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Greg-Varga-standing-in-a-Swellfish.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--14532124475458__4de3ddda-1f63-4a16-92b7-87f56cf29e8c-1666289406fc9fb80b-0",
+        "2c5303a4-ec69-4ba0-88c2-0c10e9e1dc38"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
       }
     },
     "ee9596c2-f0d7-4b59-8e52-a3353a38fec3": {
@@ -902,6 +956,7 @@
     "27586a65-7033-41f7-93b6-9c8954438e12",
     "de1ee74c-6bf8-490c-8625-2bcc72215d4d",
     "1a90c4dd-c5e3-4c9f-9108-3615c1d10466",
+    "4de3ddda-1f63-4a16-92b7-87f56cf29e8c",
     "ee9596c2-f0d7-4b59-8e52-a3353a38fec3",
     "1658366903917df458",
     "16583667926bb173b7",
