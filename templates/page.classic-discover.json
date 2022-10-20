@@ -253,11 +253,30 @@
             "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
+        },
+        "92c093ae-2190-47a4-924b-0447a8a414eb": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Greg-Launching-the-Swellfish.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
         "template--14532124475458__4de3ddda-1f63-4a16-92b7-87f56cf29e8c-1666289406fc9fb80b-0",
-        "2c5303a4-ec69-4ba0-88c2-0c10e9e1dc38"
+        "2c5303a4-ec69-4ba0-88c2-0c10e9e1dc38",
+        "92c093ae-2190-47a4-924b-0447a8a414eb"
       ],
       "settings": {
         "layout": "grid",
