@@ -294,8 +294,8 @@
         "16583667923b51d5e4-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Tougher Than Tough<\/p>",
-            "heading_size": "h1"
+            "heading": "<p><strong>Tougher Than Tough<\/strong><\/p>",
+            "heading_size": "hxl"
           }
         },
         "16583667923b51d5e4-1": {
@@ -342,8 +342,8 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Using_a_Swellfish_Boat_to_pick_up_hikers.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
+        "height": "small",
+        "desktop_image_width": "large",
         "layout": "image_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
