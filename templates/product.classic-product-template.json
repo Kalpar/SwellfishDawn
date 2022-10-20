@@ -131,7 +131,7 @@
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 44,
-        "padding_bottom": 24
+        "padding_bottom": 0
       }
     },
     "166485178250229472": {
@@ -140,6 +140,7 @@
         "16648517823732bc04-0": {
           "type": "cell",
           "settings": {
+            "color_scheme": "accent-1",
             "heading": "<p><strong>Built For Adventureres Like You<\/strong><\/p>",
             "heading_size": "h1",
             "text": "<p>Your gear plays a criticle role in exploring your favourite fishing hole or uncharted teritory. Double walled Aluminum Transom. The classic line is engeneried for maximum saftey while not compromizing performance.<\/p>",
@@ -152,12 +153,14 @@
             "desktop_content_position": "top",
             "desktop_content_alignment": "center",
             "desktop_content_transparency": 20,
+            "mobile_content_placement": "below",
             "mobile_content_alignment": "center"
           }
         },
         "16648517823732bc04-1": {
           "type": "cell",
           "settings": {
+            "color_scheme": "accent-1",
             "heading": "<p><strong>A Rugged Companion<\/strong><\/p>",
             "heading_size": "h1",
             "text": "<p>Thermal welded seams, Advanced German PVC Material, Deep V Hull Design, Up to 2mm material plus added reinforcment on any hi aberasion areas. When we say rugged we mean it!<\/p>",
@@ -170,6 +173,7 @@
             "desktop_content_position": "top",
             "desktop_content_alignment": "left",
             "desktop_content_transparency": 20,
+            "mobile_content_placement": "below",
             "mobile_content_alignment": "center"
           }
         }
@@ -179,9 +183,6 @@
         "16648517823732bc04-1"
       ],
       "settings": {
-        "title": "",
-        "title_size": "h0",
-        "title_alignment": "center",
         "desktop_gap": 16,
         "padding_top": 0,
         "padding_bottom": 0
@@ -193,6 +194,7 @@
         "1664851804d911d219-0": {
           "type": "cell",
           "settings": {
+            "color_scheme": "accent-1",
             "heading": "<p><strong>Upgraded For Performance<\/strong><\/p>",
             "heading_size": "h1",
             "text": "<p>With years of devlopment and testing, the classic line is not just a simple inflatable boat. Its a testment to our dedication to contiously devlope our products.<\/p>",
@@ -205,12 +207,14 @@
             "desktop_content_position": "top",
             "desktop_content_alignment": "center",
             "desktop_content_transparency": 20,
+            "mobile_content_placement": "below",
             "mobile_content_alignment": "center"
           }
         },
         "1664851804d911d219-1": {
           "type": "cell",
           "settings": {
+            "color_scheme": "accent-1",
             "heading": "<p><strong>Unmatched Versitility<\/strong><\/p>",
             "heading_size": "h1",
             "text": "<p>Designed for you, the classic line features the ability to fully customize the boat for your adventures. Add on our packages or accessories so that you can adventure the way you want.<\/p>",
@@ -223,6 +227,7 @@
             "desktop_content_position": "top",
             "desktop_content_alignment": "center",
             "desktop_content_transparency": 20,
+            "mobile_content_placement": "below",
             "mobile_content_alignment": "center"
           }
         }
@@ -232,9 +237,6 @@
         "1664851804d911d219-1"
       ],
       "settings": {
-        "title": "",
-        "title_size": "h1",
-        "title_alignment": "center",
         "desktop_gap": 16,
         "padding_top": 0,
         "padding_bottom": 24
