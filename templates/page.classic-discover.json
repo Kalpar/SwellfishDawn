@@ -383,18 +383,51 @@
         "padding_bottom": 20
       }
     },
-    "f5c5cdad-185c-46c3-9c9a-4a1c91fc6346": {
-      "type": "video",
+    "bbcce3eb-3e35-4342-a45e-75e5e64f51fb": {
+      "type": "collage",
+      "blocks": {
+        "template--14532124475458__bbcce3eb-3e35-4342-a45e-75e5e64f51fb-1666372969337fa209-0": {
+          "type": "video",
+          "settings": {
+            "cover_image": "shopify:\/\/shop_images\/Clay_Sets_up_a_boat_1.1.1.jpg",
+            "video_url": "https:\/\/youtu.be\/x0O46loxWC4",
+            "description": "Describe the video",
+            "image_padding": true
+          }
+        },
+        "9b5c20fb-a480-4476-91c1-061f7a511ecf": {
+          "type": "video",
+          "settings": {
+            "cover_image": "shopify:\/\/shop_images\/Setting-Up-Your-Classic.jpg",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "description": "Describe the video",
+            "image_padding": false
+          }
+        },
+        "5766a176-c8e7-488f-aeb3-659e2d625a1c": {
+          "type": "video",
+          "settings": {
+            "cover_image": "shopify:\/\/shop_images\/Packing-Up-A-Classic.png",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=1DmVtLGjbLg&t=6s",
+            "description": "Describe the video",
+            "image_padding": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14532124475458__bbcce3eb-3e35-4342-a45e-75e5e64f51fb-1666372969337fa209-0",
+        "9b5c20fb-a480-4476-91c1-061f7a511ecf",
+        "5766a176-c8e7-488f-aeb3-659e2d625a1c"
+      ],
       "settings": {
-        "heading": "",
-        "heading_size": "h0",
-        "cover_image": "shopify:\/\/shop_images\/Clay_Sets_up_a_boat_1.1.1.jpg",
-        "video_url": "https:\/\/youtu.be\/x0O46loxWC4",
-        "description": "Aquatic Monkey setus up the Classic Inflatable boat",
-        "full_width": false,
+        "heading": "Multimedia collage",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
         "color_scheme": "background-1",
-        "padding_top": 0,
-        "padding_bottom": 20
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "1658369411ba8dca14": {
@@ -962,7 +995,7 @@
     "16583667926bb173b7",
     "b183557c-7878-498c-b26d-8ed4709c1da6",
     "1659134152a27f2299",
-    "f5c5cdad-185c-46c3-9c9a-4a1c91fc6346",
+    "bbcce3eb-3e35-4342-a45e-75e5e64f51fb",
     "1658369411ba8dca14",
     "541311dd-846d-4710-a5fc-ede4720e8ff1",
     "1658366931dbe5b64f",
