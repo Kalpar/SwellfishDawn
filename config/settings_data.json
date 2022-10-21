@@ -170,20 +170,12 @@
               "heading": "Quick links",
               "menu": "footer"
             }
-          },
-          "1c5f3219-99fa-47cc-ae51-08df92df9bdc": {
-            "type": "link_list",
-            "settings": {
-              "heading": "Quick links",
-              "menu": "footer"
-            }
           }
         },
         "block_order": [
           "dddbeb2d-c7d9-450c-9cf8-588fc2515a74",
           "d3a9300d-83f8-4cba-a215-7f91366016be",
-          "footer-0",
-          "1c5f3219-99fa-47cc-ae51-08df92df9bdc"
+          "footer-0"
         ],
         "settings": {
           "color_scheme": "accent-1",
