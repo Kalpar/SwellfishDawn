@@ -443,7 +443,7 @@
         "1441f892-6b31-4ce4-bb33-9770d466f3fe": {
           "type": "heading",
           "settings": {
-            "heading": "<p><strong>And Ready To Go<\/strong><\/p>",
+            "heading": "<p><strong>Ready To Go<\/strong><\/p>",
             "heading_size": "h0"
           }
         }
@@ -467,8 +467,8 @@
         "template--14481108369474__541311dd-846d-4710-a5fc-ede4720e8ff1-16650896301e042128-0": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Heavy Duty Anchor Mount",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -476,8 +476,8 @@
         "template--14481108369474__541311dd-846d-4710-a5fc-ede4720e8ff1-16650896301e042128-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Aluminum seats",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -485,8 +485,8 @@
         "template--14481108369474__541311dd-846d-4710-a5fc-ede4720e8ff1-16650896301e042128-2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Oars and Oarlocs",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -494,8 +494,8 @@
         "f5bdefa4-0993-4d07-a0c2-3b3dea40a91d": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Warranty",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -503,8 +503,8 @@
         "bd7af91e-f68d-455e-b386-9989fdda5c9b": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "D Rings",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -513,7 +513,7 @@
           "type": "column",
           "settings": {
             "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -522,7 +522,7 @@
           "type": "column",
           "settings": {
             "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -531,12 +531,66 @@
           "type": "column",
           "settings": {
             "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "",
             "link_label": "",
             "link": ""
           }
         },
         "120a63b1-7c1c-4b24-86d3-5ec2049607fd": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "036834aa-3425-466b-afed-bae552d4b452": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "f94e2849-8f50-438b-a409-42bbcb573261": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "f4ec1fa0-3eb1-4632-8547-ccb942a01d78": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "29467925-18c3-4c12-a387-e9edd43daf70": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "a05dd43f-b024-4b33-9cb3-5e87604e1a34": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "f0680d6f-6dec-444a-89e9-cb904ace7299": {
           "type": "column",
           "settings": {
             "title": "Column",
@@ -555,7 +609,13 @@
         "cb58cc66-7c21-4b23-b0a5-f13d63b198bd",
         "fd3d1e54-824f-4a6f-910f-1254572df1e0",
         "b4dfc57d-0755-4006-be64-d326249ac47c",
-        "120a63b1-7c1c-4b24-86d3-5ec2049607fd"
+        "120a63b1-7c1c-4b24-86d3-5ec2049607fd",
+        "036834aa-3425-466b-afed-bae552d4b452",
+        "f94e2849-8f50-438b-a409-42bbcb573261",
+        "f4ec1fa0-3eb1-4632-8547-ccb942a01d78",
+        "29467925-18c3-4c12-a387-e9edd43daf70",
+        "a05dd43f-b024-4b33-9cb3-5e87604e1a34",
+        "f0680d6f-6dec-444a-89e9-cb904ace7299"
       ],
       "settings": {
         "title": "",
@@ -766,7 +826,7 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 16,
+        "padding_top": 28,
         "padding_bottom": 24
       }
     },
