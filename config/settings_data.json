@@ -149,6 +149,13 @@
       "footer": {
         "type": "footer",
         "blocks": {
+          "dddbeb2d-c7d9-450c-9cf8-588fc2515a74": {
+            "type": "text",
+            "settings": {
+              "heading": "Get in touch",
+              "subtext": "<p>Office 604.484.4800<br\/>reachus@swellfish.co<\/p><p>Monday to Friday - 8:00 to 6:00<br\/>Saturday - 9:00 to 5:00<br\/>Sunday and Holidays - Closed<\/p>"
+            }
+          },
           "footer-0": {
             "type": "link_list",
             "settings": {
@@ -172,6 +179,7 @@
           }
         },
         "block_order": [
+          "dddbeb2d-c7d9-450c-9cf8-588fc2515a74",
           "footer-0",
           "footer-1",
           "footer-2"

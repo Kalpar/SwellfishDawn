@@ -1,16 +1,5 @@
 {
   "sections": {
-    "b2987b31-dbc6-4889-98ca-f74d28e29ab5": {
-      "type": "a-sw-menu",
-      "settings": {
-        "menu": "gear-apparel",
-        "menu_type": "product-submenu",
-        "color_scheme": "background-1",
-        "buynow": "",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "banner": {
       "type": "main-collection-banner",
       "settings": {
@@ -39,7 +28,6 @@
     }
   },
   "order": [
-    "b2987b31-dbc6-4889-98ca-f74d28e29ab5",
     "banner",
     "product-grid"
   ]
