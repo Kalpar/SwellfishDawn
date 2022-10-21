@@ -284,7 +284,7 @@
         "slider_visual": "numbers",
         "auto_rotate": true,
         "change_slides_speed": 7,
-        "show_text_below": true,
+        "show_text_below": false,
         "accessibility_info": "Slideshow about our brand"
       }
     },
