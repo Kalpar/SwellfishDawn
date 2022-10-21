@@ -294,7 +294,7 @@
         "template--14532124475458__836fc715-80b0-4c28-a7a0-35d989cd5780-1666382815ea974159-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Swellfish-Classic-going-through-a-old-sunken-forest.jpg",
+            "image": "shopify:\/\/shop_images\/SwellfishTV.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -710,6 +710,7 @@
         "4771071c-38be-4d22-b940-95059efe3206"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Fresh-Water-Fishing.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -754,6 +755,7 @@
         "db3b3ba8-ef19-4377-a560-6f1d7d80d813"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Salt-Water-Fishing.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -790,7 +792,7 @@
         "b1e15c49-3b9e-4229-816c-0ddd1c94437b"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Wide-Crest.png",
+        "image": "shopify:\/\/shop_images\/Custom-Shop.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
