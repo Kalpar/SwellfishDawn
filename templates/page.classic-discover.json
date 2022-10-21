@@ -366,7 +366,7 @@
         "1659134152f3b7fae8-1": {
           "type": "text",
           "settings": {
-            "text": "<p>This is the video and section that is used to show how easy it is to pack up and take down the boat<\/p>"
+            "text": "<p>How easy is it to set up the Classic Line of boats? Watch Clay of <a href=\"https:\/\/www.youtube.com\/channel\/UCI5___ytBhOfkh9Ok9a2PIA\" target=\"_blank\" title=\"https:\/\/www.youtube.com\/channel\/UCI5___ytBhOfkh9Ok9a2PIA\">@Aquatic Monkey<\/a> unpack the boat and set it up in less than 15 minutes! <\/p>"
           }
         }
       },
@@ -375,12 +375,12 @@
         "1659134152f3b7fae8-1"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "accent-1",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 20
+        "padding_bottom": 8
       }
     },
     "bbcce3eb-3e35-4342-a45e-75e5e64f51fb": {
@@ -420,13 +420,13 @@
         "5766a176-c8e7-488f-aeb3-659e2d625a1c"
       ],
       "settings": {
-        "heading": "Multimedia collage",
+        "heading": "",
         "heading_size": "h1",
         "desktop_layout": "left",
         "mobile_layout": "collage",
         "card_styles": "product-card-wrapper",
-        "color_scheme": "background-1",
-        "padding_top": 36,
+        "color_scheme": "accent-1",
+        "padding_top": 0,
         "padding_bottom": 36
       }
     },
