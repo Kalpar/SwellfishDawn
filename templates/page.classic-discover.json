@@ -785,11 +785,19 @@
             "text_style": "caption-with-letter-spacing",
             "text_size": "large"
           }
+        },
+        "47db034b-a5db-4c35-85a1-0a2414589085": {
+          "type": "button",
+          "settings": {
+            "button_label": "Email Us",
+            "button_link": "mailto:reachus@swellfish.co"
+          }
         }
       },
       "block_order": [
         "1664573841ccd56937-0",
-        "b1e15c49-3b9e-4229-816c-0ddd1c94437b"
+        "b1e15c49-3b9e-4229-816c-0ddd1c94437b",
+        "47db034b-a5db-4c35-85a1-0a2414589085"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Custom-Shop.jpg",
