@@ -2,7 +2,7 @@ cart-drawer.is-empty .drawer__inner {
   box-shadow: -2px 0 20px 2px rgb(0 0 0 / 45%);
 }
 
-details[open]:after {
+header details[open]:after {
   content: "";
   top: 0;
   left: 0;
