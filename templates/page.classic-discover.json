@@ -1014,7 +1014,7 @@
         "button_label": "Explore All Of The Specs",
         "button_link": "shopify:\/\/pages\/classic-specification",
         "color_scheme": "accent-1",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 0,
         "padding_bottom": 56
