@@ -318,11 +318,26 @@
           "settings": {
             "text": "<p>With the use of the highest quality PVC Material, Thermaly welded seams, ample reinforcment and protection on all high wear and impact areas. The Swellfish Classic line is tough enough to take on any extreme adventure. <\/p>"
           }
+        },
+        "ef335509-0596-45a8-b895-d150a85953d6": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Saftey at its Core<\/strong><\/p>",
+            "heading_size": "hxl"
+          }
+        },
+        "eb9bff28-063d-429d-82fa-f85c128d476c": {
+          "type": "text",
+          "settings": {
+            "text": "<p>When you compare a 14 foot John Boat with an average payload of 700lbs to our Classic 430 with a max load of 2600 lbs you can see why this boat is not only popular with the coast guard. Our boats are equipped with 3 to 5 air chambers depending on the size, and there is an over-inflation valve. In addition to inflatable boats having a much higher weight capacity, the design makes them far more stable than a John boat. No more shifting to balance the boat.<\/p>"
+          }
         }
       },
       "block_order": [
         "16583667923b51d5e4-0",
-        "16583667923b51d5e4-1"
+        "16583667923b51d5e4-1",
+        "ef335509-0596-45a8-b895-d150a85953d6",
+        "eb9bff28-063d-429d-82fa-f85c128d476c"
       ],
       "settings": {
         "desktop_content_position": "center",
