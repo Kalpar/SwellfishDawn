@@ -26,14 +26,70 @@
     gap: 2rem;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
   }
 
+  .sw-menu--first {
+    flex-grow: 0;
+  }
   .sw-menu--middle {
     flex-grow: 1;
+    align-self: end;
+  }
+  .sw-menu--middle-desktop {
+    display: none;
   }
 
-  
-  .sw-menu--product-submenu .link--text span {
+  .sw-menu--mobile-drawer {
+    position: absolute;
+    left: 0;
+    top: 100%;
+    width: 100vw;
+    height: 100vh;
+    z-index: 4;
+    overflow-x: hidden;
+  }
+  .sw-menu--middle-mobile details[open] .modal__toggle-open {
+    display: none;
+  }
+  .sw-menu--middle-mobile details[open] .modal__toggle-close {
+    display: block;
+  }
+  details[open] .sw-menu--mobile-drawer .sw-menu--blurbkg-temp {
+    content: "";
+    /* top: 0; */
+    /* left: 0; */
+    width: 100vw;
+    height: 100vh;
+    display: block;
+    /* position: absolute; */
+    /* z-index: -1; */
+    backdrop-filter: blur(5px);
+  }
+
+  /* .sw-menu--middle-mobile details[open]>.sw-menu--mobile-drawer {
+    transition: transform var(--duration-default) ease,visibility var(--duration-default) ease;
+  } */
+
+  .sw-menu--middle-mobile summary {
+    /* height: 4.4rem;
+    width: 4.4rem; */
+    display: block;
+    padding: 0;
+  }
+  .sw-menu--middle-mobile summary span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .sw-menu--middle-mobile .icon {
+    height: 2rem;
+    width: 2rem;
+    fill: none;
+    vertical-align: middle;
+  }
+
+  .sw-menu--product-submenu .link--text {
     transition: text-decoration var(--duration-short) ease;
     display: inline-flex;
     flex-direction: column;
@@ -55,6 +111,7 @@
   }
   .sw-menu--product-submenu .link--text {
     text-decoration: none;
+    justify-content: center;
   }
   .sw-menu--product-submenu .link--text:hover span {
     text-decoration: none;
@@ -75,21 +132,49 @@
     box-shadow: 0 0 0 1px rgba(var(--color-button-text),var(--border-opacity)),0 0 0 var(--buttons-border-width) rgba(var(--color-button),var(--alpha-button-background));
   }
 
+  .sw-menu--mobile-submenu {
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .sw-menu--mobile-submenu > li {
+    width: 100%;
+  }
+  .sw-menu--mobile-submenu .link--text {
+    display: flex;
+  }
+
   .sw-menu--buynow {
     padding-right: 1rem;
   }
 
+  @media screen and (max-width: 390px) {
+    .sw-menu--middle {
+      order: 99;
+      width: 100%;
+    }
+  }
   @media screen and (min-width: 750px) {
-    .sw-menu--first {
+  .sw-menu--first {
       flex-grow: 1;
     }
     .sw-menu--middle {
       flex-grow: 0;
+      align-self: center;
     }
     .sw-menu--buynow {
       padding-left: 1rem;
       padding-right: 0;
     }
+    .sw-menu--middle-desktop {
+      display: inline;
+    }
+    .sw-menu--middle-mobile {
+      display: none;
+    }
+
   }
 
 {%- endstyle -%}
@@ -106,18 +191,54 @@
             </li>
           {% endif %}
           <li class="sw-menu--middle">
-            <ul class="list-menu list-menu--inline" role="list">
-              {%- for link in section.settings.menu.links -%}
-                {% unless forloop.first == true %}
-                <li>
-                    <a href="{{ link.url }}" class="link link--text focus-inset"{% if link.current %} aria-current="page"{% endif %}>
-                      <span {%- if link.current %} class="sw-menu__active-menu-item"{% endif %}>{{ link.title | escape }}</span>
-                    </a>
-                </li>
-                {% endunless %}
-              {%- endfor -%}
-            </ul>
+            <div class="sw-menu--middle-desktop">
+              <ul class="list-menu list-menu--inline" role="list">
+                {%- for link in section.settings.menu.links -%}
+                  {% unless forloop.first == true %}
+                  <li>
+                      <a href="{{ link.url }}" class="link link--text focus-inset"{% if link.current %} aria-current="page"{% endif %}>
+                        <span {%- if link.current %} class="sw-menu__active-menu-item"{% endif %}>{{ link.title | escape }}</span>
+                      </a>
+                  </li>
+                  {% endunless %}
+                {%- endfor -%}
+              </ul>
+            </div>
+
+            <details-modal class="sw-menu--middle-mobile">
+              <details class="sw-menu--mobile-container">
+                <summary class="link focus-inset modal__toggle" aria-haspopup="dialog">
+                  <span>
+                    <svg width="24px" height="24px" viewBox="0 0 24 24" class="modal__toggle-open icon icon-search" aria-hidden="true" focusable="false" role="presentation">
+                      <g data-name="Layer 2"><g data-name="arrow-ios-downward"><rect width="24" height="24" opacity="0"/>
+                        <path fill="currentColor" d="M12 16a1 1 0 0 1-.64-.23l-6-5a1 1 0 1 1 1.28-1.54L12 13.71l5.36-4.32a1 1 0 0 1 1.41.15 1 1 0 0 1-.14 1.46l-6 4.83A1 1 0 0 1 12 16z"/>
+                      </g></g>                      
+                    </svg>
+                    <svg class="modal__toggle-close icon icon-close" aria-hidden="true" focusable="false" role="presentation">
+                      <use href="#icon-close">
+                    </svg>
+                  </span>
+                </summary>
+                <div class="sw-menu--mobile-drawer gradient motion-reduce" role="dialog" aria-modal="true">
+                  <div class="gradient">
+                    <ul class="sw-menu--mobile-submenu menu-drawer__menu has-submenu list-menu" role="list">
+                      {%- for link in section.settings.menu.links -%}
+                        {% unless forloop.first == true %}
+                        <li>
+                          <a href="{{ link.url }}" class="menu-drawer__menu-item list-menu__item link link--text focus-inset"{% if link.current %} aria-current="page"{% endif %}>
+                            <span {%- if link.current %} class="sw-menu__active-menu-item"{% endif %}>{{ link.title | escape }}</span>
+                          </a>
+                        </li>
+                        {% endunless %}
+                      {%- endfor -%}
+                    </ul>    
+                  </div>
+                  {% comment %} <div class="sw-menu--blurbkg"></div> {% endcomment %}
+                </div>
+              </details>
+            </details-modal>
           </li>
+  
           {%- if section.settings.buynow != blank -%}
             <li class="sw-menu--buynow"><a href="{{ section.settings.buynow.url }}" class="button button--secondary"><span>View Pricing</span></a></li>
           {%- endif -%}
