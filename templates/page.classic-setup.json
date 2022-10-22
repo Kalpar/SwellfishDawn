@@ -2,13 +2,437 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "1b3d0320-b79a-496f-8654-e19d1606be45": {
+      "type": "slideshow",
+      "blocks": {
+        "template--14538247962690__1b3d0320-b79a-496f-8654-e19d1606be45-16664085744854cb93-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Fishing.png",
+            "heading": "HOW TO SET UP YOUR SWELLFISH CLASSIC BOAT",
+            "heading_size": "h1",
+            "subheading": "We are so glad you have become a part of our family!Setting up a Swellfish Foldable Inflatable Boat is easy. Below is how we teach people how to set up and inflate their boats. Along with these steps we give you tips and tricks to make the setup just that much easier!If you have other tips or tricks, please let us know! We are always looking to share our knowledge, and to get everyone outside and enjoying themselves!",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-left",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--14538247962690__1b3d0320-b79a-496f-8654-e19d1606be45-16664085744854cb93-0"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "9a3a1704-e0ea-4adb-a28e-3849e0aa6d2b": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14538247962690__9a3a1704-e0ea-4adb-a28e-3849e0aa6d2b-1666408574d6c367cc-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Getting started<\/strong><\/p>",
+            "heading_size": "hxl"
+          }
+        }
+      },
+      "block_order": [
+        "template--14538247962690__9a3a1704-e0ea-4adb-a28e-3849e0aa6d2b-1666408574d6c367cc-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 8
+      }
+    },
+    "37b35380-156d-43f3-852d-03d65a8eb1a7": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14538247962690__37b35380-156d-43f3-852d-03d65a8eb1a7-166640857491d378f6-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Finding A Location",
+            "heading_size": "h1"
+          }
+        },
+        "template--14538247962690__37b35380-156d-43f3-852d-03d65a8eb1a7-166640857491d378f6-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Try to find as flat of ground as you can. This will make the setup as easy as possible. When the ground is uneven it will be harder to alighn the floor and rails systems.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--14538247962690__37b35380-156d-43f3-852d-03d65a8eb1a7-166640857491d378f6-0",
+        "template--14538247962690__37b35380-156d-43f3-852d-03d65a8eb1a7-166640857491d378f6-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/kfcoclhgpbknkmge.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "d1bc2bfa-2373-446c-bfae-6c9dbe71b681": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14538247962690__d1bc2bfa-2373-446c-bfae-6c9dbe71b681-166640857491d378f6-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Unpacking",
+            "heading_size": "h1"
+          }
+        },
+        "template--14538247962690__d1bc2bfa-2373-446c-bfae-6c9dbe71b681-166640857491d378f6-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ounce you found your spot open up your carrying bag, and unroll the Classic Inflatable Boat.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--14538247962690__d1bc2bfa-2373-446c-bfae-6c9dbe71b681-166640857491d378f6-0",
+        "template--14538247962690__d1bc2bfa-2373-446c-bfae-6c9dbe71b681-166640857491d378f6-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pdbcdcdomomgifoe.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "75b1d716-9f88-4977-acd2-ff488322e0b6": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14538247962690__75b1d716-9f88-4977-acd2-ff488322e0b6-166640857491d378f6-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Just A Bit of Air",
+            "heading_size": "h1"
+          }
+        },
+        "template--14538247962690__75b1d716-9f88-4977-acd2-ff488322e0b6-166640857491d378f6-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Partially inflate all chambers around 15% to 20%. There should be just enough air in the chambers so you start to see the rough shape of the boat.<\/p><p><em><strong>Note About The Valves:<\/strong><\/em><em> Our boats use HR Valves (Halkey Roberts Valves). They have 2 modes: Fully Open and One-Way. When inflating, you will want them in one-way mode so air can only go into the chambers. To convert between the two modes, push the center in and twist.<\/em><\/p><p><em><strong>Pro-Tip:<\/strong><\/em><em>The more inflated the boat, the harder it is to install the floorboards.<\/em><\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--14538247962690__75b1d716-9f88-4977-acd2-ff488322e0b6-166640857491d378f6-0",
+        "template--14538247962690__75b1d716-9f88-4977-acd2-ff488322e0b6-166640857491d378f6-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pjmmnjbepdjjkmbf.jpg",
+        "height": "large",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "6d1e50f6-1cd3-4703-87bc-39320d20d3ec": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14538247962690__6d1e50f6-1cd3-4703-87bc-39320d20d3ec-166640857491d378f6-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Installing The Floor",
+            "heading_size": "h1"
+          }
+        },
+        "template--14538247962690__6d1e50f6-1cd3-4703-87bc-39320d20d3ec-166640857491d378f6-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Next, we will open the floor bag and install the floor.<\/p><p><em><strong>Pro-Tip #1:<\/strong><\/em><em>When installing the floorboards, try to ensure that each floor has equal spacing on each side between the board and the boat tubes.<\/em><\/p><p><em><strong>Pro-Tip #2:<\/strong><\/em><em>Also, try to line up the outer edge of each floorboard to each other by making sure the joints line up evenly.<\/em><\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--14538247962690__6d1e50f6-1cd3-4703-87bc-39320d20d3ec-166640857491d378f6-0",
+        "template--14538247962690__6d1e50f6-1cd3-4703-87bc-39320d20d3ec-166640857491d378f6-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/jkdjlnhngbnobhdd.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "ebd0bd51-454f-46c1-ae9c-cbe4796c644e": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14538247962690__ebd0bd51-454f-46c1-ae9c-cbe4796c644e-166640857454d948b0-0": {
+          "type": "column",
+          "settings": {
+            "title": "Step 1",
+            "text": "<p>Start by installing the floor at the stern - as in the back of the boat.<\/p><p><em>(On the Classic 350 \/ 390 it will be marked as #4. On the Classic 430 \/ 470 it is marked #5)<\/em><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--14538247962690__ebd0bd51-454f-46c1-ae9c-cbe4796c644e-166640857454d948b0-1": {
+          "type": "column",
+          "settings": {
+            "title": "Step 2",
+            "text": "<p>Install the bow board and make sure the board tucks under the tubes.<\/p><p><em> (You will verify the alignment in the next step.)<\/em><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--14538247962690__ebd0bd51-454f-46c1-ae9c-cbe4796c644e-166640857454d948b0-2": {
+          "type": "column",
+          "settings": {
+            "title": "Step 3",
+            "text": "<p>The next board that attaches to the bow board is #1. Install it and verify there is an equal distance between the edges of the board and boat tubes.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "cc3056c7-7186-40e2-8c62-0fc6d3b98406": {
+          "type": "column",
+          "settings": {
+            "title": "Step 4",
+            "text": "<p>Continue installing floorboards until you get to the last board to be installed.<\/p><p><em>(Verify proper alignments as you go.)<\/em><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "c6ab246a-c7e7-433f-8abe-623013ae0154": {
+          "type": "column",
+          "settings": {
+            "title": "Step 5",
+            "text": "<p>When installing the last board, attach it to the bow side of the boat. Move to the other side of the board, and lift on up both boards to make a tipi.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "c9e5b12f-3bd6-4e75-91d6-09be734a9e8c": {
+          "type": "column",
+          "settings": {
+            "title": "Step 6",
+            "text": "<p>Slowly push the tipi down until all the boards are flat.<br\/><br\/><em>(Make sure value covers have been inserted and everything else is out of the way.)<\/em><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14538247962690__ebd0bd51-454f-46c1-ae9c-cbe4796c644e-166640857454d948b0-0",
+        "template--14538247962690__ebd0bd51-454f-46c1-ae9c-cbe4796c644e-166640857454d948b0-1",
+        "template--14538247962690__ebd0bd51-454f-46c1-ae9c-cbe4796c644e-166640857454d948b0-2",
+        "cc3056c7-7186-40e2-8c62-0fc6d3b98406",
+        "c6ab246a-c7e7-433f-8abe-623013ae0154",
+        "c9e5b12f-3bd6-4e75-91d6-09be734a9e8c"
+      ],
+      "settings": {
+        "title": "Detailed Steps For The Floor Installation",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "6b653776-cae2-4637-91cb-da17fc4fcb7c": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14538247962690__6b653776-cae2-4637-91cb-da17fc4fcb7c-166640857491d378f6-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "ALL THE EXTRAS",
+            "heading_size": "h1"
+          }
+        },
+        "template--14538247962690__6b653776-cae2-4637-91cb-da17fc4fcb7c-166640857491d378f6-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Congratulations! You have completed the setup of your inflatable boat!<\/p><p>All that is left is to install the outboard, add any additional accessories like Bimini's, and anything else you want to bring with you!<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--14538247962690__6b653776-cae2-4637-91cb-da17fc4fcb7c-166640857491d378f6-0",
+        "template--14538247962690__6b653776-cae2-4637-91cb-da17fc4fcb7c-166640857491d378f6-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/boats-on-the-go.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "74a9ce34-0e7e-49a0-b61d-134561533d1d": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14538247962690__74a9ce34-0e7e-49a0-b61d-134561533d1d-166640857491d378f6-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "LETS GO!",
+            "heading_size": "h1"
+          }
+        },
+        "template--14538247962690__74a9ce34-0e7e-49a0-b61d-134561533d1d-166640857491d378f6-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Time to get out on the water and start your adventure!<\/p><p>Make sure you either tag us directly (@swellfishco) or use #swellfishco! Or you can even email us your photos. We love featuring people having fun and loving life in the outdoors.<\/p><p>If you have any questions, reach out to us! Email us or use the online chat below.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--14538247962690__74a9ce34-0e7e-49a0-b61d-134561533d1d-166640857491d378f6-0",
+        "template--14538247962690__74a9ce34-0e7e-49a0-b61d-134561533d1d-166640857491d378f6-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Fly_FIshing_Destination_Adventure.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "28401497-952c-4ee3-9900-e0d2ef71a145": {
+      "type": "a-sw-multi-image-text",
+      "blocks": {
+        "template--14538247962690__28401497-952c-4ee3-9900-e0d2ef71a145-16664085436a3b3810-0": {
+          "type": "cell",
+          "settings": {
+            "color_scheme": "background-1",
+            "heading": "<p>Setup Video<\/p>",
+            "heading_size": "h1",
+            "image": "shopify:\/\/shop_images\/Setting-Up-Your-Classic.jpg",
+            "text": "",
+            "text_size": "small",
+            "button_label": "Watch Now",
+            "button_link": "https:\/\/www.youtube.com\/watch?v=SXcHfi04ZwU",
+            "desktop_proportion": 1,
+            "desktop_content_height": "auto",
+            "desktop_content_width": "100",
+            "desktop_content_position": "bottom-center",
+            "desktop_content_alignment": "center",
+            "desktop_content_transparency": 60,
+            "mobile_content_placement": "below",
+            "mobile_content_alignment": "center"
+          }
+        },
+        "template--14538247962690__28401497-952c-4ee3-9900-e0d2ef71a145-16664085436a3b3810-1": {
+          "type": "cell",
+          "settings": {
+            "color_scheme": "background-1",
+            "heading": "<p>Packing up <\/p>",
+            "heading_size": "h1",
+            "image": "shopify:\/\/shop_images\/Packing-Up-A-Classic.png",
+            "text": "",
+            "text_size": "medium",
+            "button_label": "Watch Now",
+            "button_link": "https:\/\/www.youtube.com\/watch?v=1DmVtLGjbLg",
+            "desktop_proportion": 1,
+            "desktop_content_height": "auto",
+            "desktop_content_width": "100",
+            "desktop_content_position": "bottom-center",
+            "desktop_content_alignment": "center",
+            "desktop_content_transparency": 60,
+            "mobile_content_placement": "below",
+            "mobile_content_alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--14538247962690__28401497-952c-4ee3-9900-e0d2ef71a145-16664085436a3b3810-0",
+        "template--14538247962690__28401497-952c-4ee3-9900-e0d2ef71a145-16664085436a3b3810-1"
+      ],
+      "settings": {
+        "desktop_gap": 10,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "1b3d0320-b79a-496f-8654-e19d1606be45",
+    "9a3a1704-e0ea-4adb-a28e-3849e0aa6d2b",
+    "37b35380-156d-43f3-852d-03d65a8eb1a7",
+    "d1bc2bfa-2373-446c-bfae-6c9dbe71b681",
+    "75b1d716-9f88-4977-acd2-ff488322e0b6",
+    "6d1e50f6-1cd3-4703-87bc-39320d20d3ec",
+    "ebd0bd51-454f-46c1-ae9c-cbe4796c644e",
+    "6b653776-cae2-4637-91cb-da17fc4fcb7c",
+    "74a9ce34-0e7e-49a0-b61d-134561533d1d",
+    "28401497-952c-4ee3-9900-e0d2ef71a145"
   ]
 }
