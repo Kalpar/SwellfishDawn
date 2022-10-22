@@ -465,6 +465,137 @@
         "padding_bottom": 68
       }
     },
+    "84dfebc8-c8cc-4a15-82a3-0c9e62f24af1": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14532124475458__84dfebc8-c8cc-4a15-82a3-0c9e62f24af1-1666403791866eb8bf-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Talk about your brand<\/strong><\/p>",
+            "heading_size": "hxl"
+          }
+        },
+        "template--14532124475458__84dfebc8-c8cc-4a15-82a3-0c9e62f24af1-1666403791866eb8bf-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "template--14532124475458__84dfebc8-c8cc-4a15-82a3-0c9e62f24af1-1666403791866eb8bf-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14532124475458__84dfebc8-c8cc-4a15-82a3-0c9e62f24af1-1666403791866eb8bf-0",
+        "template--14532124475458__84dfebc8-c8cc-4a15-82a3-0c9e62f24af1-1666403791866eb8bf-1",
+        "template--14532124475458__84dfebc8-c8cc-4a15-82a3-0c9e62f24af1-1666403791866eb8bf-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1659120698504593bf": {
+      "type": "rich-text",
+      "blocks": {
+        "165912069844a275bf-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Whats in the Box<\/strong><\/p>",
+            "heading_size": "hxl"
+          }
+        }
+      },
+      "block_order": [
+        "165912069844a275bf-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 28,
+        "padding_bottom": 24
+      }
+    },
+    "f0e0d0ad-7b98-423d-a781-d9cf8992f4a1": {
+      "type": "slideshow",
+      "blocks": {
+        "template--14481108369474__f0e0d0ad-7b98-423d-a781-d9cf8992f4a1-16656854765146e16f-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Whats-In-THe-Box-White_d816ceda-1528-4209-a42c-c6544d8aa93a.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--14481108369474__f0e0d0ad-7b98-423d-a781-d9cf8992f4a1-16656854765146e16f-0"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "88259c41-0d15-469b-afd0-b87de0e5d622": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14481108369474__88259c41-0d15-469b-afd0-b87de0e5d622-1665685476867e145b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>All Classics come with: 2 Aluminum Seats, 2 Colapsable Oars, Seat Bench  Bag, Front Bow Storage Bag, Foot Inflation Pump, Emergancey Repair Kit, Locking FLoor Rails, Aluminum Floor With Storage Bag , Classic Boat eith Stoarage Bag.<\/p>"
+          }
+        },
+        "59d4093c-bf18-4bb3-b852-74d8e4f59754": {
+          "type": "caption",
+          "settings": {
+            "caption": "Above is the classic 270, Larger sizes come with the same equipment but floor panel configuration changes. The larger size boats will add more floor panels.",
+            "text_style": "subtitle",
+            "text_size": "small"
+          }
+        }
+      },
+      "block_order": [
+        "template--14481108369474__88259c41-0d15-469b-afd0-b87de0e5d622-1665685476867e145b-1",
+        "59d4093c-bf18-4bb3-b852-74d8e4f59754"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 12,
+        "padding_bottom": 100
+      }
+    },
     "1658366931dbe5b64f": {
       "type": "rich-text",
       "blocks": {
@@ -640,103 +771,6 @@
         "padding_bottom": 36
       }
     },
-    "1659120698504593bf": {
-      "type": "rich-text",
-      "blocks": {
-        "165912069844a275bf-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p><strong>Whats in the Box<\/strong><\/p>",
-            "heading_size": "hxl"
-          }
-        },
-        "b80658dd-ed6d-4fba-a56b-ae4ec78df20f": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Top down view o whats in the box with links to the spare parts<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "165912069844a275bf-0",
-        "b80658dd-ed6d-4fba-a56b-ae4ec78df20f"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 28,
-        "padding_bottom": 24
-      }
-    },
-    "f0e0d0ad-7b98-423d-a781-d9cf8992f4a1": {
-      "type": "slideshow",
-      "blocks": {
-        "template--14481108369474__f0e0d0ad-7b98-423d-a781-d9cf8992f4a1-16656854765146e16f-0": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Whats-In-THe-Box-White_d816ceda-1528-4209-a42c-c6544d8aa93a.jpg",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "template--14481108369474__f0e0d0ad-7b98-423d-a781-d9cf8992f4a1-16656854765146e16f-0"
-      ],
-      "settings": {
-        "layout": "grid",
-        "slide_height": "adapt_image",
-        "slider_visual": "counter",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "show_text_below": true,
-        "accessibility_info": "Slideshow about our brand"
-      }
-    },
-    "88259c41-0d15-469b-afd0-b87de0e5d622": {
-      "type": "rich-text",
-      "blocks": {
-        "template--14481108369474__88259c41-0d15-469b-afd0-b87de0e5d622-1665685476867e145b-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>All Classics come with: 2 Aluminum Seats, 2 Colapsable Oars, Seat Bench  Bag, Front Bow Storage Bag, Foot Inflation Pump, Emergancey Repair Kit, Locking FLoor Rails, Aluminum Floor With Storage Bag , Classic Boat eith Stoarage Bag.<\/p>"
-          }
-        },
-        "59d4093c-bf18-4bb3-b852-74d8e4f59754": {
-          "type": "caption",
-          "settings": {
-            "caption": "Above is the classic 270, Larger sizes come with the same equipment but floor panel configuration changes. The larger size boats will add more floor panels.",
-            "text_style": "subtitle",
-            "text_size": "small"
-          }
-        }
-      },
-      "block_order": [
-        "template--14481108369474__88259c41-0d15-469b-afd0-b87de0e5d622-1665685476867e145b-1",
-        "59d4093c-bf18-4bb3-b852-74d8e4f59754"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 12,
-        "padding_bottom": 100
-      }
-    },
     "1659133256b916bbd4": {
       "type": "rich-text",
       "blocks": {
@@ -898,13 +932,14 @@
     "b183557c-7878-498c-b26d-8ed4709c1da6",
     "1659134152a27f2299",
     "bbcce3eb-3e35-4342-a45e-75e5e64f51fb",
+    "84dfebc8-c8cc-4a15-82a3-0c9e62f24af1",
+    "1659120698504593bf",
+    "f0e0d0ad-7b98-423d-a781-d9cf8992f4a1",
+    "88259c41-0d15-469b-afd0-b87de0e5d622",
     "1658366931dbe5b64f",
     "1663964669c3b01079",
     "1664566611635acb27",
     "16645738424a07e2e5",
-    "1659120698504593bf",
-    "f0e0d0ad-7b98-423d-a781-d9cf8992f4a1",
-    "88259c41-0d15-469b-afd0-b87de0e5d622",
     "1659133256b916bbd4",
     "166327444298634be3",
     "1658366990a57972a1",
