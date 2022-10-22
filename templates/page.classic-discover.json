@@ -881,34 +881,20 @@
         "padding_bottom": 56
       }
     },
-    "1658366990a57972a1": {
-      "type": "rich-text",
+    "1666405037f3c4b6a8": {
+      "type": "apps",
       "blocks": {
-        "1658366990c3ddba7a-0": {
-          "type": "heading",
+        "2f6bba16-bdf1-4d82-93d0-cfc4ea2ca580": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/ugc_media_grid\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
-            "heading": "<p>Fans of the classic<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "67be5430-a1b2-4158-b370-8ae892ae4987": {
-          "type": "text",
-          "settings": {
-            "text": "<p>User Generated Content. <\/p><p><\/p>"
           }
         }
       },
       "block_order": [
-        "1658366990c3ddba7a-0",
-        "67be5430-a1b2-4158-b370-8ae892ae4987"
+        "2f6bba16-bdf1-4d82-93d0-cfc4ea2ca580"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "include_margins": true
       }
     },
     "1662759443681d62d3": {
@@ -942,7 +928,7 @@
     "16645738424a07e2e5",
     "1659133256b916bbd4",
     "166327444298634be3",
-    "1658366990a57972a1",
+    "1666405037f3c4b6a8",
     "1662759443681d62d3"
   ]
 }
