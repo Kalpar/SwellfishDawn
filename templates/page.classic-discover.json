@@ -96,7 +96,7 @@
         "template--14481108369474__27586a65-7033-41f7-93b6-9c8954438e12-16650921193ddee31d-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Strength.png",
+            "image": "shopify:\/\/shop_images\/Strength_a7ce8b0a-9d6f-4010-990d-4573cc00527c.png",
             "title": "German PVC Material",
             "text": "",
             "link_label": "",
@@ -106,7 +106,7 @@
         "template--14481108369474__27586a65-7033-41f7-93b6-9c8954438e12-16650921193ddee31d-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Heat.png",
+            "image": "shopify:\/\/shop_images\/Heat_4b25441b-5aeb-4efb-a4d6-78f41a7706f5.png",
             "title": "Thermal Welded Seams",
             "text": "",
             "link_label": "",
@@ -127,7 +127,7 @@
         "template--14481108369474__27586a65-7033-41f7-93b6-9c8954438e12-16650921193ddee31d-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/SHield.png",
+            "image": "shopify:\/\/shop_images\/SHield_955de5a0-cb15-40ba-9d6c-726e1a00a471.png",
             "title": "Abrasion Reinforcements",
             "text": "",
             "link_label": "",
@@ -137,7 +137,7 @@
         "248a40f4-71e0-4080-af12-ac9e6f5d98cd": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Thicknes.png",
+            "image": "shopify:\/\/shop_images\/Thicknes_0f3884b3-af0f-4030-82f5-edb6e335ee92.png",
             "title": "Up To 2mm material",
             "text": "",
             "link_label": "",
@@ -463,179 +463,6 @@
         "color_scheme": "accent-1",
         "padding_top": 0,
         "padding_bottom": 68
-      }
-    },
-    "541311dd-846d-4710-a5fc-ede4720e8ff1": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--14481108369474__541311dd-846d-4710-a5fc-ede4720e8ff1-16650896301e042128-0": {
-          "type": "column",
-          "settings": {
-            "title": "Heavy Duty Anchor Mount",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--14481108369474__541311dd-846d-4710-a5fc-ede4720e8ff1-16650896301e042128-1": {
-          "type": "column",
-          "settings": {
-            "title": "Aluminum seats",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--14481108369474__541311dd-846d-4710-a5fc-ede4720e8ff1-16650896301e042128-2": {
-          "type": "column",
-          "settings": {
-            "title": "Oars and Oarlocs",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "f5bdefa4-0993-4d07-a0c2-3b3dea40a91d": {
-          "type": "column",
-          "settings": {
-            "title": "Warranty",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "bd7af91e-f68d-455e-b386-9989fdda5c9b": {
-          "type": "column",
-          "settings": {
-            "title": "D Rings",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "cb58cc66-7c21-4b23-b0a5-f13d63b198bd": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "fd3d1e54-824f-4a6f-910f-1254572df1e0": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "b4dfc57d-0755-4006-be64-d326249ac47c": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "120a63b1-7c1c-4b24-86d3-5ec2049607fd": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "036834aa-3425-466b-afed-bae552d4b452": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "f94e2849-8f50-438b-a409-42bbcb573261": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "f4ec1fa0-3eb1-4632-8547-ccb942a01d78": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "29467925-18c3-4c12-a387-e9edd43daf70": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "a05dd43f-b024-4b33-9cb3-5e87604e1a34": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "f0680d6f-6dec-444a-89e9-cb904ace7299": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14481108369474__541311dd-846d-4710-a5fc-ede4720e8ff1-16650896301e042128-0",
-        "template--14481108369474__541311dd-846d-4710-a5fc-ede4720e8ff1-16650896301e042128-1",
-        "template--14481108369474__541311dd-846d-4710-a5fc-ede4720e8ff1-16650896301e042128-2",
-        "f5bdefa4-0993-4d07-a0c2-3b3dea40a91d",
-        "bd7af91e-f68d-455e-b386-9989fdda5c9b",
-        "cb58cc66-7c21-4b23-b0a5-f13d63b198bd",
-        "fd3d1e54-824f-4a6f-910f-1254572df1e0",
-        "b4dfc57d-0755-4006-be64-d326249ac47c",
-        "120a63b1-7c1c-4b24-86d3-5ec2049607fd",
-        "036834aa-3425-466b-afed-bae552d4b452",
-        "f94e2849-8f50-438b-a409-42bbcb573261",
-        "f4ec1fa0-3eb1-4632-8547-ccb942a01d78",
-        "29467925-18c3-4c12-a387-e9edd43daf70",
-        "a05dd43f-b024-4b33-9cb3-5e87604e1a34",
-        "f0680d6f-6dec-444a-89e9-cb904ace7299"
-      ],
-      "settings": {
-        "title": "Fully Equipped & Ready To Go",
-        "heading_size": "h0",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 64
       }
     },
     "1658366931dbe5b64f": {
@@ -1071,7 +898,6 @@
     "b183557c-7878-498c-b26d-8ed4709c1da6",
     "1659134152a27f2299",
     "bbcce3eb-3e35-4342-a45e-75e5e64f51fb",
-    "541311dd-846d-4710-a5fc-ede4720e8ff1",
     "1658366931dbe5b64f",
     "1663964669c3b01079",
     "1664566611635acb27",
