@@ -113,17 +113,6 @@
             "link": ""
           }
         },
-        "55a7dfac-fd4c-475f-b47a-2277d33739d8": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Product-Tips.png",
-            "title": "Proudly Canadian",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "template--14481108369474__27586a65-7033-41f7-93b6-9c8954438e12-16650921193ddee31d-2": {
           "type": "column",
           "settings": {
@@ -148,7 +137,6 @@
       "block_order": [
         "template--14481108369474__27586a65-7033-41f7-93b6-9c8954438e12-16650921193ddee31d-0",
         "template--14481108369474__27586a65-7033-41f7-93b6-9c8954438e12-16650921193ddee31d-1",
-        "55a7dfac-fd4c-475f-b47a-2277d33739d8",
         "template--14481108369474__27586a65-7033-41f7-93b6-9c8954438e12-16650921193ddee31d-2",
         "248a40f4-71e0-4080-af12-ac9e6f5d98cd"
       ],
@@ -178,10 +166,25 @@
             "heading": "<p><strong>Born a Classic,<\/strong><\/p>",
             "heading_size": "hxl"
           }
+        },
+        "c2520f48-57c6-4913-a1e8-5e30cdd8853b": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Developed from Innovation<\/strong><\/p>",
+            "heading_size": "h0"
+          }
+        },
+        "2806c6e9-b788-43f1-b358-e426efebf6dc": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The pacific northwest is home to some of the most stunning waterways in the world and some of the most treacherous and changing. When we set out to redesign the Classic, we did it from the hull up. The hull is made from material similar to that of the tubes but with increased thickness and abrasion resistance. With this as our starting point, we added additional protection on all areas of high wear. Now the rocks, sandy beaches and barnacles will not hold you back from exploring.<\/p>"
+          }
         }
       },
       "block_order": [
-        "template--14481108369474__de1ee74c-6bf8-490c-8625-2bcc72215d4d-166518314344576e83-0"
+        "template--14481108369474__de1ee74c-6bf8-490c-8625-2bcc72215d4d-166518314344576e83-0",
+        "c2520f48-57c6-4913-a1e8-5e30cdd8853b",
+        "2806c6e9-b788-43f1-b358-e426efebf6dc"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -189,30 +192,7 @@
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 0
-      }
-    },
-    "1a90c4dd-c5e3-4c9f-9108-3615c1d10466": {
-      "type": "rich-text",
-      "blocks": {
-        "template--14481108369474__1a90c4dd-c5e3-4c9f-9108-3615c1d10466-1665685476867e145b-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p><strong>Developed from Innovation<\/strong><\/p>",
-            "heading_size": "h0"
-          }
-        }
-      },
-      "block_order": [
-        "template--14481108369474__1a90c4dd-c5e3-4c9f-9108-3615c1d10466-1665685476867e145b-0"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 16
+        "padding_bottom": 28
       }
     },
     "4de3ddda-1f63-4a16-92b7-87f56cf29e8c": {
@@ -349,7 +329,7 @@
         "content_alignment": "center",
         "color_scheme": "background-2",
         "full_width": true,
-        "padding_top": 36,
+        "padding_top": 68,
         "padding_bottom": 84
       }
     },
@@ -394,40 +374,78 @@
         "template--14532124475458__84dfebc8-c8cc-4a15-82a3-0c9e62f24af1-1666403791866eb8bf-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p><strong>Talk about your brand<\/strong><\/p>",
+            "heading": "<p><strong>Made To Go Anywhere<\/strong><\/p>",
             "heading_size": "hxl"
           }
         },
         "template--14532124475458__84dfebc8-c8cc-4a15-82a3-0c9e62f24af1-1666403791866eb8bf-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>When it comes to boats, many options can get you on the water. The advantages found primarily in an inflatable boat are what drives more and more of our customers to the Classic line. Inflatable boats buoyancy come from both the air chambers and the deep V-hull rather than just the hull displacing water. This is where safety and stability come from.<\/p>"
           }
         },
-        "template--14532124475458__84dfebc8-c8cc-4a15-82a3-0c9e62f24af1-1666403791866eb8bf-2": {
-          "type": "button",
+        "de86a690-a614-480c-9a7b-dcd5160b8a4b": {
+          "type": "heading",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "heading": "<p><strong>Explore, Without Limitations<\/strong><\/p>",
+            "heading_size": "hxl"
+          }
+        },
+        "55a100de-f63c-4f66-a2ba-69b8e1ea87f3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Only a boat that is over-engineered can give you all of their versatility for any adventure you could find yourself on. Compact and light enough to be flown in on a floatplane or helicopter, we genuinely believe that your gear should not limit your exploring and adventures. With this in mind, we have overbuilt our boats to give you a product that you can use for years and the ability to upgrade it to suit all of the adventures you are going on.<\/p>"
           }
         }
       },
       "block_order": [
         "template--14532124475458__84dfebc8-c8cc-4a15-82a3-0c9e62f24af1-1666403791866eb8bf-0",
         "template--14532124475458__84dfebc8-c8cc-4a15-82a3-0c9e62f24af1-1666403791866eb8bf-1",
-        "template--14532124475458__84dfebc8-c8cc-4a15-82a3-0c9e62f24af1-1666403791866eb8bf-2"
+        "de86a690-a614-480c-9a7b-dcd5160b8a4b",
+        "55a100de-f63c-4f66-a2ba-69b8e1ea87f3"
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 64,
+        "padding_bottom": 72
+      }
+    },
+    "d8bc6e54-d5c5-4e04-9d98-770cfe2eb7e3": {
+      "type": "slideshow",
+      "blocks": {
+        "template--14532124475458__d8bc6e54-d5c5-4e04-9d98-770cfe2eb7e3-1666403791dd182f52-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Test-Hero.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--14532124475458__d8bc6e54-d5c5-4e04-9d98-770cfe2eb7e3-1666403791dd182f52-0"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
       }
     },
     "1659134152a27f2299": {
@@ -911,12 +929,12 @@
     "16583671567718c67c",
     "27586a65-7033-41f7-93b6-9c8954438e12",
     "de1ee74c-6bf8-490c-8625-2bcc72215d4d",
-    "1a90c4dd-c5e3-4c9f-9108-3615c1d10466",
     "4de3ddda-1f63-4a16-92b7-87f56cf29e8c",
     "836fc715-80b0-4c28-a7a0-35d989cd5780",
     "16583667926bb173b7",
     "b183557c-7878-498c-b26d-8ed4709c1da6",
     "84dfebc8-c8cc-4a15-82a3-0c9e62f24af1",
+    "d8bc6e54-d5c5-4e04-9d98-770cfe2eb7e3",
     "1659134152a27f2299",
     "bbcce3eb-3e35-4342-a45e-75e5e64f51fb",
     "1659120698504593bf",
