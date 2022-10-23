@@ -22,9 +22,9 @@
     backdrop-filter: blur(5px);
     padding: 0.3rem 0;
   }
-  .sw-menu--product-submenu > ul {
+  /* .sw-menu--product-submenu .sw-menu--mobile-submenu, */
+  .sw-menu--product-submenu ul {
     display: flex;
-    gap: 2rem;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
@@ -32,6 +32,9 @@
 
   .sw-menu--first {
     flex-grow: 0;
+    display: flex;
+    gap: 0.4rem;
+    align-items: center;
   }
   .sw-menu--middle {
     flex-grow: 1;
@@ -147,7 +150,9 @@
     .sw-menu {
       padding: 0;
     }
-
+    .sw-menu--product-submenu ul {
+      gap: 2rem;
+    }
     .sw-menu--product-submenu .sw-menu--first .link {
       font-size: 2.2rem;
     }
@@ -181,15 +186,46 @@
 <div class="sw-menu color-{{ section.settings.color_scheme }} no-heading">
   <div class="page-width section-{{ section.id }}-padding isolate">
       <nav class="sw-menu--{{ section.settings.menu_type }}">
-        <ul class="list-menu list-menu--inline" role="list">
+        <ul class="sw-menu--list-menu list-menu list-menu--inline" role="list">
           {% assign mainlink = section.settings.menu.links | first %}
-          {% if mainlink %}
             <li class="sw-menu--first">
+              {% if mainlink %}
                 <a href="{{ mainlink.url }}" class="link"{% if mainlink.current %} aria-current="page"{% endif %}>
                   <span>{{ mainlink.title | escape }}</span>
                 </a>
+              {% endif %}
+              <details-modal class="sw-menu--middle-mobile">
+                <details class="sw-menu--mobile-container">
+                  <summary class="link focus-inset modal__toggle" aria-haspopup="dialog">
+                    <span>
+                      <svg width="24px" height="24px" viewBox="0 0 24 24" class="modal__toggle-open icon icon-search" aria-hidden="true" focusable="false" role="presentation">
+                        <g data-name="Layer 2"><g data-name="arrow-ios-downward"><rect width="24" height="24" opacity="0"/>
+                          <path fill="currentColor" d="M12 16a1 1 0 0 1-.64-.23l-6-5a1 1 0 1 1 1.28-1.54L12 13.71l5.36-4.32a1 1 0 0 1 1.41.15 1 1 0 0 1-.14 1.46l-6 4.83A1 1 0 0 1 12 16z"/>
+                        </g></g>                      
+                      </svg>
+                      <svg class="modal__toggle-close icon icon-close" aria-hidden="true" focusable="false" role="presentation">
+                        <use href="#icon-close">
+                      </svg>
+                    </span>
+                  </summary>
+                  <div class="sw-menu--mobile-drawer gradient motion-reduce" role="dialog" aria-modal="true">
+                    <div class="gradient">
+                      <ul class="sw-menu--mobile-submenu menu-drawer__menu has-submenu list-menu" role="list">
+                        {%- for link in section.settings.menu.links -%}
+                          {% unless forloop.first == true %}
+                          <li>
+                            <a href="{{ link.url }}" class="menu-drawer__menu-item list-menu__item link link--text focus-inset"{% if link.current %} aria-current="page"{% endif %}>
+                              <span {%- if link.current %} class="sw-menu__active-menu-item"{% endif %}>{{ link.title | escape }}</span>
+                            </a>
+                          </li>
+                          {% endunless %}
+                        {%- endfor -%}
+                      </ul>    
+                    </div>
+                   </div>
+                </details>
+              </details-modal>
             </li>
-          {% endif %}
           <li class="sw-menu--middle">
             <div class="sw-menu--middle-desktop">
               <ul class="list-menu list-menu--inline" role="list">
@@ -204,38 +240,6 @@
                 {%- endfor -%}
               </ul>
             </div>
-
-            <details-modal class="sw-menu--middle-mobile">
-              <details class="sw-menu--mobile-container">
-                <summary class="link focus-inset modal__toggle" aria-haspopup="dialog">
-                  <span>
-                    <svg width="24px" height="24px" viewBox="0 0 24 24" class="modal__toggle-open icon icon-search" aria-hidden="true" focusable="false" role="presentation">
-                      <g data-name="Layer 2"><g data-name="arrow-ios-downward"><rect width="24" height="24" opacity="0"/>
-                        <path fill="currentColor" d="M12 16a1 1 0 0 1-.64-.23l-6-5a1 1 0 1 1 1.28-1.54L12 13.71l5.36-4.32a1 1 0 0 1 1.41.15 1 1 0 0 1-.14 1.46l-6 4.83A1 1 0 0 1 12 16z"/>
-                      </g></g>                      
-                    </svg>
-                    <svg class="modal__toggle-close icon icon-close" aria-hidden="true" focusable="false" role="presentation">
-                      <use href="#icon-close">
-                    </svg>
-                  </span>
-                </summary>
-                <div class="sw-menu--mobile-drawer gradient motion-reduce" role="dialog" aria-modal="true">
-                  <div class="gradient">
-                    <ul class="sw-menu--mobile-submenu menu-drawer__menu has-submenu list-menu" role="list">
-                      {%- for link in section.settings.menu.links -%}
-                        {% unless forloop.first == true %}
-                        <li>
-                          <a href="{{ link.url }}" class="menu-drawer__menu-item list-menu__item link link--text focus-inset"{% if link.current %} aria-current="page"{% endif %}>
-                            <span {%- if link.current %} class="sw-menu__active-menu-item"{% endif %}>{{ link.title | escape }}</span>
-                          </a>
-                        </li>
-                        {% endunless %}
-                      {%- endfor -%}
-                    </ul>    
-                  </div>
-                </div>
-              </details>
-            </details-modal>
           </li>
   
           {%- if section.settings.buynow != blank -%}
