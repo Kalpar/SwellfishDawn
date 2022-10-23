@@ -20,6 +20,7 @@
   .sw-menu {
     background-color: rgba(var(--color-background), 0.8);
     backdrop-filter: blur(5px);
+    padding: 0.3rem 0;
   }
   .sw-menu--product-submenu > ul {
     display: flex;
@@ -58,25 +59,8 @@
   .sw-menu--middle-mobile details[open] .modal__toggle-close {
     display: block;
   }
-  details[open] .sw-menu--mobile-drawer .sw-menu--blurbkg-temp {
-    content: "";
-    /* top: 0; */
-    /* left: 0; */
-    width: 100vw;
-    height: 100vh;
-    display: block;
-    /* position: absolute; */
-    /* z-index: -1; */
-    backdrop-filter: blur(5px);
-  }
-
-  /* .sw-menu--middle-mobile details[open]>.sw-menu--mobile-drawer {
-    transition: transform var(--duration-default) ease,visibility var(--duration-default) ease;
-  } */
 
   .sw-menu--middle-mobile summary {
-    /* height: 4.4rem;
-    width: 4.4rem; */
     display: block;
     padding: 0;
   }
@@ -146,6 +130,7 @@
   }
   .sw-menu--mobile-submenu .link--text {
     display: flex;
+    font-size: 1.5rem;
   }
 
   .sw-menu--buynow {
@@ -159,6 +144,10 @@
     }
   }
   @media screen and (min-width: 750px) {
+    .sw-menu {
+      padding: 0;
+    }
+
     .sw-menu--product-submenu .sw-menu--first .link {
       font-size: 2.2rem;
     }
@@ -244,7 +233,6 @@
                       {%- endfor -%}
                     </ul>    
                   </div>
-                  {% comment %} <div class="sw-menu--blurbkg"></div> {% endcomment %}
                 </div>
               </details>
             </details-modal>
