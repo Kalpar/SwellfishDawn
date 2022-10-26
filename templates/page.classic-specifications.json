@@ -171,7 +171,7 @@
         "button_label": "",
         "button_link": "shopify:\/\/collections",
         "color_scheme": "background-1",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 28,
         "padding_bottom": 28
@@ -287,7 +287,7 @@
         "16582617985630dc74-1": {
           "type": "text",
           "settings": {
-            "text": "<p>• German PVC material with a danier off ??<br\/>• PVC Material Thickness of Tube 0.9mm<br\/>• Hull Material 1.2mm<\/p>"
+            "text": "<p>• German PVC material<br\/>• PVC Material Thickness of Tube 0.9mm<br\/>• Hull Material 1.2mm<\/p>"
           }
         },
         "d98b54a9-8d95-45ae-b427-6f966cb4df6b": {
