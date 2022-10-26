@@ -110,7 +110,7 @@
           "type": "column",
           "settings": {
             "title": "Classic 270",
-            "text": "<p>•<\/p><p>8.9 Feet<\/p><p>10 hp (7.5 kw)<br\/>4<\/p><p>1140 lbs<\/p><p>8.9 x 4.8 Feet<\/p><p>XXXXXXXX<\/p><p>118 lbs (53 kg)<\/p><p>•<\/p>",
+            "text": "<p>•<\/p><p>8.9 Feet<\/p><p>10 hp (7.5 kw)<br\/>4<\/p><p>1140 lbs<\/p><p>8.9 x 4.8 Feet<\/p><p>*<\/p><p>118 lbs (53 kg)<\/p><p>•<\/p>",
             "link_label": "Order the 270",
             "link": ""
           }
