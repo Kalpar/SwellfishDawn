@@ -149,33 +149,24 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "dddbeb2d-c7d9-450c-9cf8-588fc2515a74": {
-            "type": "text",
-            "settings": {
-              "heading": "Swellfish Outdoor Equipment Co.",
-              "subtext": "<p>Our passion is to innovative outdoor products and bring new and exciting products to our customers and the outdoors. Check out our line of rugged inflatable boats and gear. Your next adventure starts here!<\/p><p> <\/p><p> -<\/p><p> <\/p><p>Office 604.484.4800<br\/>reachus@swellfish.co<\/p><p>Monday to Friday - 8:00 to 6:00<br\/>Saturday - 9:00 to 5:00<br\/>Sunday and Holidays - Closed<\/p><p> <\/p><p> -<\/p><p> <\/p>"
-            }
-          },
-          "d3a9300d-83f8-4cba-a215-7f91366016be": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/SwellfishCrest512x512_36235478-af55-4bf7-8906-28b22937143d.png",
-              "image_width": 200,
-              "alignment": ""
-            }
-          },
           "footer-0": {
             "type": "link_list",
             "settings": {
               "heading": "Quick links",
               "menu": "footer"
             }
+          },
+          "dddbeb2d-c7d9-450c-9cf8-588fc2515a74": {
+            "type": "text",
+            "settings": {
+              "heading": "Swellfish Outdoor Equipment Co.",
+              "subtext": "<p>Our passion is to innovative outdoor products and bring new and exciting products to our customers and the outdoors. Check out our line of rugged inflatable boats and gear. Your next adventure starts here!<\/p><p> <\/p><p> -<\/p><p> <\/p><p>Office 604.484.4800<br\/>reachus@swellfish.co<\/p><p>Monday to Friday - 8:00 to 6:00<br\/>Saturday - 9:00 to 5:00<br\/>Sunday and Holidays - Closed<\/p><p> <\/p><p> -<\/p><p> <\/p>"
+            }
           }
         },
         "block_order": [
-          "dddbeb2d-c7d9-450c-9cf8-588fc2515a74",
-          "d3a9300d-83f8-4cba-a215-7f91366016be",
-          "footer-0"
+          "footer-0",
+          "dddbeb2d-c7d9-450c-9cf8-588fc2515a74"
         ],
         "settings": {
           "color_scheme": "accent-1",
