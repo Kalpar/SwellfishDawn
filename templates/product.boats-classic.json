@@ -558,14 +558,19 @@
       "blocks": {
         "bfbf6fdc-4c30-4a72-974d-bef0d2bf35c5": {
           "type": "shopify:\/\/apps\/shop\/blocks\/shop-pay-installments-banner\/7cab7c4a-1dfc-4b7e-8e53-31f104f2fa4e",
-          "disabled": true,
           "settings": {
             "product": "{{product}}"
+          }
+        },
+        "daa51abb-2b8c-4383-8064-b9e097422831": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
           }
         }
       },
       "block_order": [
-        "bfbf6fdc-4c30-4a72-974d-bef0d2bf35c5"
+        "bfbf6fdc-4c30-4a72-974d-bef0d2bf35c5",
+        "daa51abb-2b8c-4383-8064-b9e097422831"
       ],
       "settings": {
         "include_margins": true
