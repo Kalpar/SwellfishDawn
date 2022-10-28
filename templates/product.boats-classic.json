@@ -558,6 +558,7 @@
       "blocks": {
         "bfbf6fdc-4c30-4a72-974d-bef0d2bf35c5": {
           "type": "shopify:\/\/apps\/shop\/blocks\/shop-pay-installments-banner\/7cab7c4a-1dfc-4b7e-8e53-31f104f2fa4e",
+          "disabled": true,
           "settings": {
             "product": "{{product}}"
           }
