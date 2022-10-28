@@ -326,6 +326,13 @@
             "heading_size": "hxl"
           }
         },
+        "6e4fdc1a-a7eb-4e26-b543-88307120c2d0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>A Workhorse At Heart<\/strong><\/p>",
+            "heading_size": "hxl"
+          }
+        },
         "eb9bff28-063d-429d-82fa-f85c128d476c": {
           "type": "text",
           "settings": {
@@ -337,6 +344,7 @@
         "16583667923b51d5e4-0",
         "16583667923b51d5e4-1",
         "ef335509-0596-45a8-b895-d150a85953d6",
+        "6e4fdc1a-a7eb-4e26-b543-88307120c2d0",
         "eb9bff28-063d-429d-82fa-f85c128d476c"
       ],
       "settings": {
