@@ -25,13 +25,20 @@
         "16583395053f34de71-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p><strong>Video<\/strong><\/p>",
+            "heading": "<p><strong>Swellfish Classic Videos<\/strong><\/p>",
             "heading_size": "h1"
+          }
+        },
+        "d7475497-a9c7-41df-8354-81f3e652f7ea": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Learn helpful tips and tricks for your swellfish classic.<\/p>"
           }
         }
       },
       "block_order": [
-        "16583395053f34de71-0"
+        "16583395053f34de71-0",
+        "d7475497-a9c7-41df-8354-81f3e652f7ea"
       ],
       "settings": {
         "desktop_content_position": "left",
