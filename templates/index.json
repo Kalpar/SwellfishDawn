@@ -96,9 +96,9 @@
     "1657930181256b9527": {
       "type": "featured-collection",
       "settings": {
-        "title": "We've got you coverd",
-        "heading_size": "h1",
-        "description": "<p>Shop our apperal, hats and gear. <\/p>",
+        "title": "We've Got You Covered",
+        "heading_size": "h0",
+        "description": "<p>Shop our apparel, hats and gear<\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "gear-and-apparel",
