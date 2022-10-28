@@ -56,7 +56,8 @@
         "color_scheme": "background-1",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
-        "show_text_below": true
+        "show_text_below": true,
+        "is_first_section": true
       }
     },
     "1658281829cd513d78": {
@@ -473,7 +474,8 @@
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
         "stack_images_on_mobile": false,
-        "show_text_below": true
+        "show_text_below": true,
+        "is_first_section": false
       }
     }
   },
