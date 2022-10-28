@@ -635,7 +635,7 @@
         "1658366931fa0524ff-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p><strong>Kitted out perfection<\/strong><\/p>",
+            "heading": "<p><strong>Kitted Out Perfection<\/strong><\/p>",
             "heading_size": "hxl"
           }
         },
@@ -833,7 +833,7 @@
         "color_scheme": "accent-1",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 32
+        "padding_bottom": 12
       }
     },
     "166327444298634be3": {
