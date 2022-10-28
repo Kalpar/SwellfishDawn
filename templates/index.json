@@ -127,9 +127,9 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Where-to-Buy.png",
-            "title": "Find A Retailer",
+            "title": "",
             "text": "",
-            "link_label": "Learn More",
+            "link_label": "Find A Retailer",
             "link": "shopify:\/\/pages\/retailers"
           }
         },
@@ -137,9 +137,9 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Support-Icon_4695f386-343d-4c9f-99e6-04471aa37503.png",
-            "title": "Support",
+            "title": "",
             "text": "",
-            "link_label": "Learn More",
+            "link_label": "Get Support",
             "link": "mailto:reachus@swellfish.co"
           }
         },
@@ -147,9 +147,9 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Product-Tips.png",
-            "title": "Product Tips",
+            "title": "",
             "text": "",
-            "link_label": "Learn More",
+            "link_label": "Product Tips",
             "link": "shopify:\/\/pages\/inflatable-boat-setup-instructions"
           }
         }
