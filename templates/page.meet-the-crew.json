@@ -2,13 +2,124 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "86fc5216-0964-476a-9fd1-e5a3b1b447cd": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14543042543682__86fc5216-0964-476a-9fd1-e5a3b1b447cd-1666987047117eeff0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>The Crew Behind Swellfish<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--14543042543682__86fc5216-0964-476a-9fd1-e5a3b1b447cd-1666987047117eeff0-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Led by brothers Greg and Kristofer and along with Eden (Kristofer's son); we are a family-run boutique outdoor equipment company catering to the weekend warriors, woodsmen and the urbanites that just want to disconnect and embrace the wilderness around them. With a family history rooted deeply in fishing and the great outdoors, the two brothers (Greg and Kristofer) follow this family history back to its routes revitalizing their traditions and memories of growing up and helping on the boats. 'Lunching' with our first product line, a fold-able inflatable boat that was designed to fit the smallest of vehicles and taken on the harshest of weather conditions. We strive to create and design products for the ease and practicality of everyone so that our family, friends and customers can enjoy the world outside their city limits and past the national park signs. When we're not immersed in Swellfish you can find us up to many things from cycling to learning about Japanese woodworking, check out our bios below to learn more.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14543042543682__86fc5216-0964-476a-9fd1-e5a3b1b447cd-1666987047117eeff0-0",
+        "template--14543042543682__86fc5216-0964-476a-9fd1-e5a3b1b447cd-1666987047117eeff0-1"
+      ],
+      "settings": {
+        "desktop_content_position": "right",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "50d81c10-8eda-4a35-b763-ed467735a746": {
+      "type": "a-sw-multi-image-text",
+      "blocks": {
+        "efcb9196-b47d-44f7-8daf-c7d9c4f15aab": {
+          "type": "cell",
+          "settings": {
+            "color_scheme": "accent-1",
+            "heading": "<p>Greg Varga<\/p>",
+            "heading_size": "h0",
+            "image": "shopify:\/\/shop_images\/choppy-water-cloudy-sky.jpg",
+            "text": "<p><em>PRODUCT DEVELOPMENT<\/em><br\/>~<br\/>The Captin on the boat and the master record keeper the secret fishing holes Greg's powers derive from days on the water thinking about new products to design and sushi dinners! He is the Mad Scientist of the team and the main brain behind our products.<\/p>",
+            "text_size": "large",
+            "button_label": "",
+            "button_link": "",
+            "desktop_proportion": 1,
+            "desktop_content_height": "auto",
+            "desktop_content_width": "50",
+            "desktop_content_position": "top-left",
+            "desktop_content_alignment": "center",
+            "desktop_content_transparency": 10,
+            "mobile_content_placement": "below",
+            "mobile_content_alignment": "center"
+          }
+        },
+        "template--14543042543682__50d81c10-8eda-4a35-b763-ed467735a746-166698700228047a63-0": {
+          "type": "cell",
+          "settings": {
+            "color_scheme": "background-1",
+            "heading": "<p>Kristofer Varga<\/p>",
+            "heading_size": "h1",
+            "image": "shopify:\/\/shop_images\/choppy-water-cloudy-sky.jpg",
+            "text": "<p>Pair text with an image. Add details on availability, style, or even provide a review.<\/p>",
+            "text_size": "medium",
+            "button_label": "",
+            "button_link": "",
+            "desktop_proportion": 1,
+            "desktop_content_height": "auto",
+            "desktop_content_width": "50",
+            "desktop_content_position": "top-center",
+            "desktop_content_alignment": "center",
+            "desktop_content_transparency": 0,
+            "mobile_content_placement": "below",
+            "mobile_content_alignment": "center"
+          }
+        },
+        "template--14543042543682__50d81c10-8eda-4a35-b763-ed467735a746-166698700228047a63-1": {
+          "type": "cell",
+          "settings": {
+            "color_scheme": "background-1",
+            "heading": "<p>Eden Jager<\/p>",
+            "heading_size": "h1",
+            "image": "shopify:\/\/shop_images\/choppy-water-cloudy-sky.jpg",
+            "text": "<p>Pair text with an image. Add details on availability, style, or even provide a review.<\/p>",
+            "text_size": "medium",
+            "button_label": "",
+            "button_link": "",
+            "desktop_proportion": 1,
+            "desktop_content_height": "auto",
+            "desktop_content_width": "50",
+            "desktop_content_position": "top-center",
+            "desktop_content_alignment": "center",
+            "desktop_content_transparency": 0,
+            "mobile_content_placement": "below",
+            "mobile_content_alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "efcb9196-b47d-44f7-8daf-c7d9c4f15aab",
+        "template--14543042543682__50d81c10-8eda-4a35-b763-ed467735a746-166698700228047a63-0",
+        "template--14543042543682__50d81c10-8eda-4a35-b763-ed467735a746-166698700228047a63-1"
+      ],
+      "settings": {
+        "desktop_gap": 10,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "86fc5216-0964-476a-9fd1-e5a3b1b447cd",
+    "50d81c10-8eda-4a35-b763-ed467735a746"
   ]
 }
