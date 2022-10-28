@@ -45,7 +45,8 @@
         "color_scheme": "accent-1",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
-        "show_text_below": true
+        "show_text_below": true,
+        "is_first_section": true
       }
     },
     "16579389872f6b4717": {
