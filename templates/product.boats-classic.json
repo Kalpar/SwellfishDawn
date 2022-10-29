@@ -70,6 +70,11 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "08db6178-6cf4-4a58-9cbd-9f5d99718453": {
+          "type": "shopify:\/\/apps\/preproduct-next-gen-pre-order\/blocks\/preproduct_block\/2762c018-a41c-4de1-8397-e1a2010a74fa",
+          "settings": {
+          }
         }
       },
       "block_order": [
@@ -82,7 +87,8 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "share"
+        "share",
+        "08db6178-6cf4-4a58-9cbd-9f5d99718453"
       ],
       "settings": {
         "enable_sticky_info": true,
