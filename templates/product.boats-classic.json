@@ -65,6 +65,11 @@
             "show_dynamic_checkout": false
           }
         },
+        "fa91a256-96e4-4389-a102-f51c9856b694": {
+          "type": "shopify:\/\/apps\/preproduct-next-gen-pre-order\/blocks\/preproduct_block\/2762c018-a41c-4de1-8397-e1a2010a74fa",
+          "settings": {
+          }
+        },
         "share": {
           "type": "share",
           "settings": {
@@ -82,6 +87,7 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
+        "fa91a256-96e4-4389-a102-f51c9856b694",
         "share"
       ],
       "settings": {
