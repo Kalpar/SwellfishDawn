@@ -59,6 +59,11 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "2de459ca-329c-4537-9635-250916879e83": {
+          "type": "shopify:\/\/apps\/preproduct-next-gen-pre-order\/blocks\/preproduct_block\/2762c018-a41c-4de1-8397-e1a2010a74fa",
+          "settings": {
+          }
         }
       },
       "block_order": [
@@ -71,7 +76,8 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "share"
+        "share",
+        "2de459ca-329c-4537-9635-250916879e83"
       ],
       "settings": {
         "enable_sticky_info": true,
