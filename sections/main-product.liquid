@@ -318,8 +318,12 @@
 
         {%- for block in section.blocks -%}
           {%- case block.type -%}
+            {%- when 'sw-preproduct' -%}
+              {% if product.metafields.preproduct.preorder %}
+                <div id="preproduct-pledge" data-id="{{ product.id }}" data-starting-variant={{ product.selected_or_first_available_variant.id }} style="text-align:left!important;"></div>
+              {% endif %}
             {%- when '@app' -%}
-              {% render block %}
+                {% render block %}
             {%- when 'text' -%}
               <p
                 class="product__text{% if block.settings.text_style == 'uppercase' %} caption-with-letter-spacing{% elsif block.settings.text_style == 'subtitle' %} subtitle{% endif %}"
@@ -1261,6 +1265,12 @@
           "info": "t:sections.main-product.blocks.buy_buttons.settings.show_dynamic_checkout.info"
         }
       ]
+    },
+    {
+      "type": "sw-preproduct",
+      "name": "Swellfish - PreProduct",
+      "limit": 1,
+      "settings": []
     },
     {
       "type": "description",
