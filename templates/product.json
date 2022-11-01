@@ -49,6 +49,17 @@
             "show_dynamic_checkout": true
           }
         },
+        "2de459ca-329c-4537-9635-250916879e83": {
+          "type": "shopify:\/\/apps\/preproduct-next-gen-pre-order\/blocks\/preproduct_block\/2762c018-a41c-4de1-8397-e1a2010a74fa",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "dd17bca5-48e5-4830-9a5e-59fe863e7d8d": {
+          "type": "sw-preproduct",
+          "settings": {
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -58,12 +69,6 @@
           "type": "share",
           "settings": {
             "share_label": "Share"
-          }
-        },
-        "2de459ca-329c-4537-9635-250916879e83": {
-          "type": "shopify:\/\/apps\/preproduct-next-gen-pre-order\/blocks\/preproduct_block\/2762c018-a41c-4de1-8397-e1a2010a74fa",
-          "disabled": true,
-          "settings": {
           }
         }
       },
@@ -76,9 +81,10 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
+        "2de459ca-329c-4537-9635-250916879e83",
+        "dd17bca5-48e5-4830-9a5e-59fe863e7d8d",
         "description",
-        "share",
-        "2de459ca-329c-4537-9635-250916879e83"
+        "share"
       ],
       "settings": {
         "enable_sticky_info": true,
