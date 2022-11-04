@@ -25,14 +25,14 @@
         "16583569862796b391-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Lets answer your questions!<\/p>",
+            "heading": "<p>Let's Answer Your Questions!<\/p>",
             "heading_size": "h1"
           }
         },
         "16583569862796b391-1": {
           "type": "text",
           "settings": {
-            "text": "<p>We are happy to answer any questions that you might have about our products. Here are some FAQ's but if you still have questions, click the <strong>Chat with Us button at the bottom of the page.<\/strong><\/p>"
+            "text": "<p>We are happy to answer any questions that you might have about our products. Here are some FAQ's, but if you still have questions, click the <strong>Chat with Us <\/strong>button at the bottom of the page.<\/p>"
           }
         }
       },
