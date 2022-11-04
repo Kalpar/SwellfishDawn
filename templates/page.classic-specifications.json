@@ -235,7 +235,7 @@
         "1658280495e9c26422-1": {
           "type": "text",
           "settings": {
-            "text": "<p>• Classic Boat Inflatable Structure<br\/>• Alluminum Floor Boards<br\/>• Floor Locking Rails<br\/>• 2x Alluminum Seats<br\/>• Bow Storage Bag<br\/>• Seat Storage Bag<br\/>• Repair Kit<br\/>• 2x Alluminum Oars<br\/><\/p>"
+            "text": "<p>• Classic Boat Inflatable Structure<br\/>• Aluminum Floor Boards<br\/>• Floor Locking Rails<br\/>• 2x Aluminum Seats<br\/>• Bow Storage Bag<br\/>• Seat Storage Bag<br\/>• Repair Kit<br\/>• 2x Aluminum Oars<br\/><\/p>"
           }
         }
       },
@@ -288,13 +288,13 @@
         "16582617985630dc74-1": {
           "type": "text",
           "settings": {
-            "text": "<p>• German PVC material<br\/>• PVC Material Thickness of Tube 0.9mm<br\/>• Hull Material 1.2mm<\/p>"
+            "text": "<p>• German PVC<br\/>• Tube Material 0.9mm<br\/>• Hull Material 1.2mm<\/p><p><\/p>"
           }
         },
         "d98b54a9-8d95-45ae-b427-6f966cb4df6b": {
           "type": "caption",
           "settings": {
-            "caption": "Engineering",
+            "caption": "ENGINEERING",
             "text_style": "caption-with-letter-spacing",
             "text_size": "large"
           }
@@ -302,7 +302,7 @@
         "b030bcb4-c4cf-4f26-afbd-3c5bed130fae": {
           "type": "text",
           "settings": {
-            "text": "<p>• Deep V Hull Design<br\/>• Inflatable Keel<br\/>• Hot Welded Seams<br\/>• Reinforced Bolted Through Transom<br\/>• Protective Tube Wear Patches Along Floor<br\/>• Protective Strip Along Keel And Tubes<br\/>• Protective Seat Wear Patch<br\/><\/p><p><\/p><p><\/p>"
+            "text": "<p>• Deep V Hull Design<br\/>• Inflatable Keel<br\/>• Thermal Welded Seams<br\/>• Reinforced Bolted Through Transom<br\/>• Protective Tube Wear Patches Along Floor<br\/>• Protective Strip Along Keel And Tubes<br\/>• Protective Seat Wear Patch<br\/><\/p><p><\/p><p><\/p>"
           }
         }
       },
