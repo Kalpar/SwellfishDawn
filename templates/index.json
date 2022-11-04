@@ -97,11 +97,11 @@
     "1657930181256b9527": {
       "type": "featured-collection",
       "settings": {
-        "title": "We've Got You Covered",
-        "heading_size": "h0",
-        "description": "<p>Shop our apparel, hats and gear<\/p>",
+        "title": "Shop our apparel, hats and gear",
+        "heading_size": "h1",
+        "description": "<p>We've Got You Covered<\/p>",
         "show_description": false,
-        "description_style": "body",
+        "description_style": "subtitle",
         "collection": "gear-and-apparel",
         "products_to_show": 8,
         "columns_desktop": 4,
