@@ -68,27 +68,37 @@
         "is_first_section": true
       }
     },
-    "16583671567718c67c": {
-      "type": "rich-text",
+    "bf19bb5e-df99-4b1e-8b20-163a4d963e06": {
+      "type": "a-sw-multi-image-text",
       "blocks": {
-        "165836715631002600-0": {
-          "type": "heading",
+        "template--14532124475458__bf19bb5e-df99-4b1e-8b20-163a4d963e06-16675789837c7ac08c-0": {
+          "type": "cell",
           "settings": {
-            "heading": "<p><strong>The Swellfish Classic is our most versatile design, integrated with the highest quality materials to give you a boat designed to take on any adventure.<\/strong><\/p>",
-            "heading_size": "h1"
+            "color_scheme": "background-1",
+            "heading": "<p> <strong>The Swellfish Classic is our most versatile design, integrated with the highest quality materials to give you a boat designed to take on any adventure.<\/strong><\/p>",
+            "heading_size": "h1",
+            "text": "",
+            "text_size": "large",
+            "button_label": "",
+            "button_link": "",
+            "desktop_proportion": 1,
+            "desktop_content_height": "auto",
+            "desktop_content_width": "50",
+            "desktop_content_position": "top-center",
+            "desktop_content_alignment": "center",
+            "desktop_content_transparency": 0,
+            "mobile_content_placement": "below",
+            "mobile_content_alignment": "center"
           }
         }
       },
       "block_order": [
-        "165836715631002600-0"
+        "template--14532124475458__bf19bb5e-df99-4b1e-8b20-163a4d963e06-16675789837c7ac08c-0"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 100,
-        "padding_bottom": 24
+        "desktop_gap": 10,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "27586a65-7033-41f7-93b6-9c8954438e12": {
@@ -950,7 +960,7 @@
     "166268183125e0dd10",
     "main",
     "16583636155cb039af",
-    "16583671567718c67c",
+    "bf19bb5e-df99-4b1e-8b20-163a4d963e06",
     "27586a65-7033-41f7-93b6-9c8954438e12",
     "de1ee74c-6bf8-490c-8625-2bcc72215d4d",
     "4de3ddda-1f63-4a16-92b7-87f56cf29e8c",
