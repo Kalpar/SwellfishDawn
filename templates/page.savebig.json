@@ -8,6 +8,59 @@
         "padding_bottom": 28
       }
     },
+    "5ffc5830-1b76-4856-a4c9-396e4c94e024": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "background-1",
+        "padding_top": 24,
+        "padding_bottom": 0
+      }
+    },
+    "d78b373f-f4e6-4f52-ba86-6dc99cbf9559": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14557229318210__d78b373f-f4e6-4f52-ba86-6dc99cbf9559-16686303435b70738d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>2022 Black Friday<br\/>Cyber Monday Deals<\/p>",
+            "heading_size": "h0"
+          }
+        },
+        "template--14557229318210__d78b373f-f4e6-4f52-ba86-6dc99cbf9559-16686303435b70738d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Check out our big savings, this page is updated regularly so check back to often to discover new items on sale.<\/p>"
+          }
+        },
+        "template--14557229318210__d78b373f-f4e6-4f52-ba86-6dc99cbf9559-16686303435b70738d-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14557229318210__d78b373f-f4e6-4f52-ba86-6dc99cbf9559-16686303435b70738d-0",
+        "template--14557229318210__d78b373f-f4e6-4f52-ba86-6dc99cbf9559-16686303435b70738d-1",
+        "template--14557229318210__d78b373f-f4e6-4f52-ba86-6dc99cbf9559-16686303435b70738d-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "131bdcc7-f598-4dc0-9393-e8e961dc5917": {
       "type": "featured-product",
       "blocks": {
@@ -71,10 +124,22 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "a33e2db4-5ed9-4f18-a3e6-ae8f463c63a8": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
-    "131bdcc7-f598-4dc0-9393-e8e961dc5917"
+    "5ffc5830-1b76-4856-a4c9-396e4c94e024",
+    "d78b373f-f4e6-4f52-ba86-6dc99cbf9559",
+    "131bdcc7-f598-4dc0-9393-e8e961dc5917",
+    "a33e2db4-5ed9-4f18-a3e6-ae8f463c63a8"
   ]
 }
