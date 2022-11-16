@@ -78,6 +78,13 @@
           "settings": {
           }
         },
+        "eb489919-033f-4cff-a7a9-156c2e41f998": {
+          "type": "text",
+          "settings": {
+            "text": "Included is the Classic 270 Inflatable Boat, Suzuki DF2.5s Outboard with an internal tank, and a BIMINI!",
+            "text_style": "body"
+          }
+        },
         "template--14557229318210__131bdcc7-f598-4dc0-9393-e8e961dc5917-1668626391ab6406f3-3": {
           "type": "variant_picker",
           "settings": {
@@ -99,16 +106,24 @@
           "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/all_reviews_text\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
           }
+        },
+        "f4be285d-de51-4794-99d1-fc1c116b7904": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
         }
       },
       "block_order": [
         "template--14557229318210__131bdcc7-f598-4dc0-9393-e8e961dc5917-1668626391ab6406f3-0",
         "template--14557229318210__131bdcc7-f598-4dc0-9393-e8e961dc5917-1668626391ab6406f3-1",
         "template--14557229318210__131bdcc7-f598-4dc0-9393-e8e961dc5917-1668626391ab6406f3-2",
+        "eb489919-033f-4cff-a7a9-156c2e41f998",
         "template--14557229318210__131bdcc7-f598-4dc0-9393-e8e961dc5917-1668626391ab6406f3-3",
         "template--14557229318210__131bdcc7-f598-4dc0-9393-e8e961dc5917-1668626391ab6406f3-4",
         "template--14557229318210__131bdcc7-f598-4dc0-9393-e8e961dc5917-1668626391ab6406f3-5",
-        "9bf9c708-0629-4938-aeea-13df1e23d6e0"
+        "9bf9c708-0629-4938-aeea-13df1e23d6e0",
+        "f4be285d-de51-4794-99d1-fc1c116b7904"
       ],
       "settings": {
         "product": "black-friday-classic-270-package",
