@@ -24,8 +24,8 @@
         "template--14557229318210__d78b373f-f4e6-4f52-ba86-6dc99cbf9559-16686303435b70738d-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>2022 Black Friday <br\/>Cyber Monday Deals<\/p>",
-            "heading_size": "h1"
+            "heading": "<p><strong>2022 Black Friday <br\/>Cyber Monday Deals<\/strong><\/p>",
+            "heading_size": "hxl"
           }
         },
         "template--14557229318210__d78b373f-f4e6-4f52-ba86-6dc99cbf9559-16686303435b70738d-1": {
@@ -143,7 +143,7 @@
         "template--14557229318210__82c6fe58-f5b5-45e8-a092-36ee72b78e7c-1668634118a0ba5212-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Get 25% off the following<\/p>",
+            "heading": "<p><strong>Get 25% off the following<\/strong><\/p>",
             "heading_size": "hxl"
           }
         }
