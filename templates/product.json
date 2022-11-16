@@ -98,29 +98,6 @@
         "padding_bottom": 12
       }
     },
-    "judgeme_section_review_widget_9b40": {
-      "type": "apps",
-      "settings": {
-        "include_margins": true
-      }
-    },
-    "product-recommendations": {
-      "type": "product-recommendations",
-      "settings": {
-        "heading": "There is always more to explore...",
-        "heading_size": "h2",
-        "products_to_show": 5,
-        "columns_desktop": 5,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "columns_mobile": "2",
-        "padding_top": 100,
-        "padding_bottom": 28
-      }
-    },
     "165664059366eb45a3": {
       "type": "apps",
       "blocks": {
@@ -145,6 +122,29 @@
         "include_margins": true
       }
     },
+    "judgeme_section_review_widget_9b40": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "There is always more to explore...",
+        "heading_size": "h2",
+        "products_to_show": 5,
+        "columns_desktop": 5,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 100,
+        "padding_bottom": 28
+      }
+    },
     "1662171718cff9bec9": {
       "type": "apps",
       "settings": {
@@ -154,9 +154,9 @@
   },
   "order": [
     "main",
+    "165664059366eb45a3",
     "judgeme_section_review_widget_9b40",
     "product-recommendations",
-    "165664059366eb45a3",
     "1662171718cff9bec9"
   ]
 }
