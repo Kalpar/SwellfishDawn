@@ -296,13 +296,69 @@
         "padding_bottom": 36
       }
     },
-    "a33e2db4-5ed9-4f18-a3e6-ae8f463c63a8": {
-      "type": "custom-liquid",
+    "0505f3fe-1f3b-45f1-9ab1-59e627fced6f": {
+      "type": "featured-product",
+      "blocks": {
+        "template--14557229318210__0505f3fe-1f3b-45f1-9ab1-59e627fced6f-1668634117bc83cc7e-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--14557229318210__0505f3fe-1f3b-45f1-9ab1-59e627fced6f-1668634117bc83cc7e-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--14557229318210__0505f3fe-1f3b-45f1-9ab1-59e627fced6f-1668634117bc83cc7e-2": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--14557229318210__0505f3fe-1f3b-45f1-9ab1-59e627fced6f-1668634117bc83cc7e-3": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--14557229318210__0505f3fe-1f3b-45f1-9ab1-59e627fced6f-1668634117bc83cc7e-4": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "template--14557229318210__0505f3fe-1f3b-45f1-9ab1-59e627fced6f-1668634117bc83cc7e-5": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "template--14557229318210__0505f3fe-1f3b-45f1-9ab1-59e627fced6f-1668634117bc83cc7e-6": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--14557229318210__0505f3fe-1f3b-45f1-9ab1-59e627fced6f-1668634117bc83cc7e-0",
+        "template--14557229318210__0505f3fe-1f3b-45f1-9ab1-59e627fced6f-1668634117bc83cc7e-1",
+        "template--14557229318210__0505f3fe-1f3b-45f1-9ab1-59e627fced6f-1668634117bc83cc7e-2",
+        "template--14557229318210__0505f3fe-1f3b-45f1-9ab1-59e627fced6f-1668634117bc83cc7e-3",
+        "template--14557229318210__0505f3fe-1f3b-45f1-9ab1-59e627fced6f-1668634117bc83cc7e-4",
+        "template--14557229318210__0505f3fe-1f3b-45f1-9ab1-59e627fced6f-1668634117bc83cc7e-5",
+        "template--14557229318210__0505f3fe-1f3b-45f1-9ab1-59e627fced6f-1668634117bc83cc7e-6"
+      ],
       "settings": {
-        "custom_liquid": "",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "product": "heritage-nite",
+        "color_scheme": "accent-1",
+        "secondary_background": false,
+        "media_position": "right",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
@@ -314,6 +370,6 @@
     "82c6fe58-f5b5-45e8-a092-36ee72b78e7c",
     "617026f3-a0b2-462b-a55a-5ee3912c89a6",
     "b7b1218e-94b2-4b16-b926-d936c40e7413",
-    "a33e2db4-5ed9-4f18-a3e6-ae8f463c63a8"
+    "0505f3fe-1f3b-45f1-9ab1-59e627fced6f"
   ]
 }
