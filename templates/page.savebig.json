@@ -31,22 +31,13 @@
         "template--14557229318210__d78b373f-f4e6-4f52-ba86-6dc99cbf9559-16686303435b70738d-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Check out our big savings, this page is updated regularly so check back to often to discover new items on sale.<\/p>"
-          }
-        },
-        "ad673708-660d-4e78-9fb0-037acd67b26b": {
-          "type": "caption",
-          "settings": {
-            "caption": "BFCM promotion, while supplies last and until Nov 25th 20222",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "small"
+            "text": "<p>Check out our big savings, this page is updated regularly so check back to often to discover new items on sale. BFCM promotion, while supplies last and until Nov 25th 20222<\/p>"
           }
         }
       },
       "block_order": [
         "template--14557229318210__d78b373f-f4e6-4f52-ba86-6dc99cbf9559-16686303435b70738d-0",
-        "template--14557229318210__d78b373f-f4e6-4f52-ba86-6dc99cbf9559-16686303435b70738d-1",
-        "ad673708-660d-4e78-9fb0-037acd67b26b"
+        "template--14557229318210__d78b373f-f4e6-4f52-ba86-6dc99cbf9559-16686303435b70738d-1"
       ],
       "settings": {
         "desktop_content_position": "center",
