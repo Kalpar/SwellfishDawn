@@ -21,11 +21,19 @@
     "d78b373f-f4e6-4f52-ba86-6dc99cbf9559": {
       "type": "rich-text",
       "blocks": {
+        "dc37a4c4-3d31-48e5-b5ef-10a08c60e3e1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "<p>2022 Black Friday<\/p>",
+            "heading_size": "h1"
+          }
+        },
         "template--14557229318210__d78b373f-f4e6-4f52-ba86-6dc99cbf9559-16686303435b70738d-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>2022 Black Friday<br\/>Cyber Monday Deals<\/p>",
-            "heading_size": "h0"
+            "heading": "<p>2022 Black Friday <br\/>Cyber Monday Deals<\/p>",
+            "heading_size": "h1"
           }
         },
         "template--14557229318210__d78b373f-f4e6-4f52-ba86-6dc99cbf9559-16686303435b70738d-1": {
@@ -33,24 +41,12 @@
           "settings": {
             "text": "<p>Check out our big savings, this page is updated regularly so check back to often to discover new items on sale.<\/p>"
           }
-        },
-        "template--14557229318210__d78b373f-f4e6-4f52-ba86-6dc99cbf9559-16686303435b70738d-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
+        "dc37a4c4-3d31-48e5-b5ef-10a08c60e3e1",
         "template--14557229318210__d78b373f-f4e6-4f52-ba86-6dc99cbf9559-16686303435b70738d-0",
-        "template--14557229318210__d78b373f-f4e6-4f52-ba86-6dc99cbf9559-16686303435b70738d-1",
-        "template--14557229318210__d78b373f-f4e6-4f52-ba86-6dc99cbf9559-16686303435b70738d-2"
+        "template--14557229318210__d78b373f-f4e6-4f52-ba86-6dc99cbf9559-16686303435b70738d-1"
       ],
       "settings": {
         "desktop_content_position": "center",
