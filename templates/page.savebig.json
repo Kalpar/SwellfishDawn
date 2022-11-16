@@ -136,6 +136,36 @@
         "padding_bottom": 36
       }
     },
+    "82c6fe58-f5b5-45e8-a092-36ee72b78e7c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14557229318210__82c6fe58-f5b5-45e8-a092-36ee72b78e7c-1668634118a0ba5212-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Get 25% off the following<\/p>",
+            "heading_size": "hxl"
+          }
+        },
+        "template--14557229318210__82c6fe58-f5b5-45e8-a092-36ee72b78e7c-1668634118a0ba5212-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Discount is applied autmatacally at check out. Sale ends November 25th, While quantaties last.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14557229318210__82c6fe58-f5b5-45e8-a092-36ee72b78e7c-1668634118a0ba5212-0",
+        "template--14557229318210__82c6fe58-f5b5-45e8-a092-36ee72b78e7c-1668634118a0ba5212-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 4
+      }
+    },
     "617026f3-a0b2-462b-a55a-5ee3912c89a6": {
       "type": "featured-product",
       "blocks": {
@@ -281,6 +311,7 @@
     "5ffc5830-1b76-4856-a4c9-396e4c94e024",
     "d78b373f-f4e6-4f52-ba86-6dc99cbf9559",
     "131bdcc7-f598-4dc0-9393-e8e961dc5917",
+    "82c6fe58-f5b5-45e8-a092-36ee72b78e7c",
     "617026f3-a0b2-462b-a55a-5ee3912c89a6",
     "b7b1218e-94b2-4b16-b926-d936c40e7413",
     "a33e2db4-5ed9-4f18-a3e6-ae8f463c63a8"
