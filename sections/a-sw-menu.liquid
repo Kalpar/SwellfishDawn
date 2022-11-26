@@ -185,7 +185,7 @@
 {%- endstyle -%}
 <div class="sw-menu color-{{ section.settings.color_scheme }} no-heading">
   <div class="page-width section-{{ section.id }}-padding isolate">
-      <nav class="sw-menu--{{ section.settings.menu_type }}">
+      <nav class="sw-menu--{{ section.settings.menu_type }}" aria-label="Section Menu">
         <ul class="sw-menu--list-menu list-menu list-menu--inline" role="list">
           {% assign mainlink = section.settings.menu.links | first %}
             <li class="sw-menu--first">

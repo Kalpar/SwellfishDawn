@@ -25,9 +25,9 @@
         {%- for block in section.blocks -%}
           {%- case block.type -%}
             {%- when 'heading' -%}
-              <h2 class="rich-text__heading rte {{ block.settings.heading_size }}" {{ block.shopify_attributes }}>
+              <{% if section.settings.is_first_section and request.page_type != 'index' %}h1{% else %}h2{% endif %} class="rich-text__heading rte {{ block.settings.heading_size }}" {{ block.shopify_attributes }}>
                 {{ block.settings.heading | replace: 'p>', 'span>' }}
-              </h2>
+              </{% if section.settings.is_first_section and request.page_type != 'index' %}h1{% else %}h2{% endif %}>
             {%- when 'caption' -%}
               <p class="rich-text__caption {{ block.settings.text_style }} {{ block.settings.text_style }}--{{ block.settings.text_size }}" {{ block.shopify_attributes }}>
                 {{ block.settings.caption | escape }}
@@ -132,6 +132,13 @@
       "id": "full_width",
       "default": true,
       "label": "t:sections.rich-text.settings.full_width.label"
+    },
+    {
+      "type": "checkbox",
+      "id": "is_first_section",
+      "default": false,
+      "label": "t:sections.all.is_first_section.label",
+      "info": "t:sections.all.is_first_section.info"
     },
     {
       "type": "header",

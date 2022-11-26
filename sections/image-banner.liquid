@@ -98,9 +98,9 @@
       {%- for block in section.blocks -%}
         {%- case block.type -%}
           {%- when 'heading' -%}
-            <h2 class="banner__heading {{ block.settings.heading_size }}" {{ block.shopify_attributes }}>
+            <{% if section.settings.is_first_section and request.page_type != 'index' %}h1{% else %}h2{% endif %} class="banner__heading {{ block.settings.heading_size }}" {{ block.shopify_attributes }}>
               <span>{{ block.settings.heading | escape }}</span>
-            </h2>
+            </{% if section.settings.is_first_section and request.page_type != 'index' %}h1{% else %}h2{% endif %}>
           {%- when 'text' -%}
             <div class="banner__text {{ block.settings.text_style }}" {{ block.shopify_attributes }}>
               <span>{{ block.settings.text | escape }}</span>

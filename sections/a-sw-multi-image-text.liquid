@@ -45,9 +45,9 @@
             {%- unless block.settings.heading == blank and block.settings.text and block.settings.button_label %}
             <div class="swmultiimage-card__info swmultiimage-card__info--mobile-{{ block.settings.mobile_content_placement }}img swmultiimage-card--transparent{{ block.settings.desktop_content_transparency }} swmultiimage-card--height{{ block.settings.desktop_content_height }} swmultiimage-card--width{{ block.settings.desktop_content_width }} swmultiimage-card__info--dalign-{{ block.settings.desktop_content_alignment }} swmultiimage-card-malign--{{ block.settings.mobile_content_alignment }} color-{{ block.settings.color_scheme }}">
               {%- unless block.settings.heading == blank -%}
-                <h3 class="swmultiimage__heading {{ block.settings.heading_size }}" {{ block.shopify_attributes }}>
+                <{% if request.page_type != 'index' %}h2{% else %}h3{% endif %} class="swmultiimage__heading {{ block.settings.heading_size }}" {{ block.shopify_attributes }}>
                   {{ block.settings.heading | replace: 'p>', 'span>' }}
-                </h3>
+                </{% if request.page_type != 'index' %}h2{% else %}h3{% endif %}>
               {%- endunless -%}
               {%- unless block.settings.text == blank -%}
                 <div class="swmultiimage__text rte subtitle--{{ block.settings.text_size }}" {{ block.shopify_attributes }}>{{ block.settings.text }}</div>
