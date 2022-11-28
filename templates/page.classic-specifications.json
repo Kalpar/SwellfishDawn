@@ -32,7 +32,7 @@
         "16582828565828dbd5-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "See It In Action",
+            "button_label_1": "See the Boat In Action",
             "button_link_1": "https:\/\/www.youtube.com\/watch?v=laRWfUDea2M&list=PLy90oujR7H8VlIGo4zkF8Kqw7Q5zgQRQn&index=1",
             "button_style_secondary_1": false,
             "button_label_2": "",
@@ -91,6 +91,7 @@
         "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": true,
+        "is_first_section": false,
         "padding_top": 40,
         "padding_bottom": 0
       }
@@ -202,6 +203,7 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
+        "is_first_section": false,
         "padding_top": 20,
         "padding_bottom": 52
       }
@@ -225,6 +227,7 @@
         "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": true,
+        "is_first_section": false,
         "padding_top": 20,
         "padding_bottom": 0
       }
@@ -247,6 +250,7 @@
         "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": false,
+        "is_first_section": false,
         "padding_top": 40,
         "padding_bottom": 52
       }
@@ -270,6 +274,7 @@
         "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": true,
+        "is_first_section": false,
         "padding_top": 20,
         "padding_bottom": 0
       }
@@ -317,6 +322,7 @@
         "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": false,
+        "is_first_section": false,
         "padding_top": 20,
         "padding_bottom": 20
       }
@@ -340,6 +346,7 @@
         "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": true,
+        "is_first_section": false,
         "padding_top": 20,
         "padding_bottom": 0
       }
@@ -371,6 +378,7 @@
         "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": false,
+        "is_first_section": false,
         "padding_top": 20,
         "padding_bottom": 20
       }
@@ -394,6 +402,7 @@
         "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": true,
+        "is_first_section": false,
         "padding_top": 20,
         "padding_bottom": 0
       }
@@ -425,6 +434,7 @@
         "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": true,
+        "is_first_section": false,
         "padding_top": 40,
         "padding_bottom": 52
       }
