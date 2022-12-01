@@ -39,10 +39,10 @@
         "3182d11d-abe4-41e8-ae3b-2c9bd9179757": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Intro Video",
+            "button_label_1": "Check out the videos",
             "button_link_1": "shopify:\/\/pages\/classic-videos",
             "button_style_secondary_1": false,
-            "button_label_2": "Setup Instructions",
+            "button_label_2": "Setting up Your Boat",
             "button_link_2": "shopify:\/\/pages\/inflatable-boat-setup-instructions",
             "button_style_secondary_2": false
           }
