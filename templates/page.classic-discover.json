@@ -40,7 +40,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Intro Video",
-            "button_link_1": "https:\/\/www.youtube.com\/watch?v=laRWfUDea2M&list=PLy90oujR7H8VlIGo4zkF8Kqw7Q5zgQRQn",
+            "button_link_1": "shopify:\/\/pages\/classic-videos",
             "button_style_secondary_1": false,
             "button_label_2": "Setup Instructions",
             "button_link_2": "shopify:\/\/pages\/inflatable-boat-setup-instructions",
