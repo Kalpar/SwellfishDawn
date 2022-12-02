@@ -14,6 +14,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "c94bae0d-1193-4f03-b7dd-77e2afb0b454": {
+          "type": "shopify:\/\/apps\/shop\/blocks\/shop-pay-installments-banner\/7cab7c4a-1dfc-4b7e-8e53-31f104f2fa4e",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
         "vendor": {
           "type": "text",
           "settings": {
@@ -84,6 +90,7 @@
         }
       },
       "block_order": [
+        "c94bae0d-1193-4f03-b7dd-77e2afb0b454",
         "vendor",
         "title",
         "caption",
