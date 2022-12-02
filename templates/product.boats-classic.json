@@ -149,6 +149,7 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
+        "is_first_section": false,
         "padding_top": 44,
         "padding_bottom": 0
       }
@@ -284,6 +285,7 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
+        "is_first_section": false,
         "padding_top": 0,
         "padding_bottom": 96
       }
@@ -307,6 +309,7 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
+        "is_first_section": false,
         "padding_top": 0,
         "padding_bottom": 40
       }
@@ -508,6 +511,7 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
+        "is_first_section": false,
         "padding_top": 44,
         "padding_bottom": 40
       }
@@ -571,7 +575,6 @@
       "blocks": {
         "bfbf6fdc-4c30-4a72-974d-bef0d2bf35c5": {
           "type": "shopify:\/\/apps\/shop\/blocks\/shop-pay-installments-banner\/7cab7c4a-1dfc-4b7e-8e53-31f104f2fa4e",
-          "disabled": true,
           "settings": {
             "product": "{{product}}"
           }
