@@ -49,6 +49,30 @@
         "is_first_section": true
       }
     },
+    "480eeb83-4bc5-4b2b-bce1-0042997c1faa": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14532124377154__480eeb83-4bc5-4b2b-bce1-0042997c1faa-16718298117b0db482-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Have questions? call us at 604-484-4800 or mail reachus@swellfish.co<\/p>",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--14532124377154__480eeb83-4bc5-4b2b-bce1-0042997c1faa-16718298117b0db482-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "is_first_section": false,
+        "padding_top": 16,
+        "padding_bottom": 12
+      }
+    },
     "16579389872f6b4717": {
       "type": "image-with-text",
       "blocks": {
@@ -182,38 +206,14 @@
       "settings": {
         "include_margins": true
       }
-    },
-    "480eeb83-4bc5-4b2b-bce1-0042997c1faa": {
-      "type": "rich-text",
-      "blocks": {
-        "template--14532124377154__480eeb83-4bc5-4b2b-bce1-0042997c1faa-16718298117b0db482-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Have questions? call us at 604-484-4800 or mail reachus@swellfish.co<\/p>",
-            "heading_size": "h2"
-          }
-        }
-      },
-      "block_order": [
-        "template--14532124377154__480eeb83-4bc5-4b2b-bce1-0042997c1faa-16718298117b0db482-0"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "accent-2",
-        "full_width": true,
-        "is_first_section": false,
-        "padding_top": 16,
-        "padding_bottom": 12
-      }
     }
   },
   "order": [
     "16579295955e9556ab",
+    "480eeb83-4bc5-4b2b-bce1-0042997c1faa",
     "16579389872f6b4717",
     "1657930181256b9527",
     "1657920623e3cffdfe",
-    "1662170167e0c7f18d",
-    "480eeb83-4bc5-4b2b-bce1-0042997c1faa"
+    "1662170167e0c7f18d"
   ]
 }
