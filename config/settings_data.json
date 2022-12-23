@@ -124,6 +124,7 @@
           },
           "fe54c0f7-ff40-412f-95ca-bff8de9b55d2": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "Have questions? call us at 604-484-4800 or mail reachus@swellfish.co",
               "text_alignment": "center",
