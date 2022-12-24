@@ -346,7 +346,202 @@
       ],
       "settings": {
         "product": "swellfish-heritage-5-panel-camp-hat",
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
+        "secondary_background": false,
+        "media_position": "left",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "02ba49ea-b09b-473f-bdd3-ae39aaadd943": {
+      "type": "featured-product",
+      "blocks": {
+        "template--14557229318210__02ba49ea-b09b-473f-bdd3-ae39aaadd943-1671852089b0c94131-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--14557229318210__02ba49ea-b09b-473f-bdd3-ae39aaadd943-1671852089b0c94131-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--14557229318210__02ba49ea-b09b-473f-bdd3-ae39aaadd943-1671852089b0c94131-2": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--14557229318210__02ba49ea-b09b-473f-bdd3-ae39aaadd943-1671852089b0c94131-3": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--14557229318210__02ba49ea-b09b-473f-bdd3-ae39aaadd943-1671852089b0c94131-4": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "template--14557229318210__02ba49ea-b09b-473f-bdd3-ae39aaadd943-1671852089b0c94131-5": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "template--14557229318210__02ba49ea-b09b-473f-bdd3-ae39aaadd943-1671852089b0c94131-6": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--14557229318210__02ba49ea-b09b-473f-bdd3-ae39aaadd943-1671852089b0c94131-0",
+        "template--14557229318210__02ba49ea-b09b-473f-bdd3-ae39aaadd943-1671852089b0c94131-1",
+        "template--14557229318210__02ba49ea-b09b-473f-bdd3-ae39aaadd943-1671852089b0c94131-2",
+        "template--14557229318210__02ba49ea-b09b-473f-bdd3-ae39aaadd943-1671852089b0c94131-3",
+        "template--14557229318210__02ba49ea-b09b-473f-bdd3-ae39aaadd943-1671852089b0c94131-4",
+        "template--14557229318210__02ba49ea-b09b-473f-bdd3-ae39aaadd943-1671852089b0c94131-5",
+        "template--14557229318210__02ba49ea-b09b-473f-bdd3-ae39aaadd943-1671852089b0c94131-6"
+      ],
+      "settings": {
+        "product": "felted-wool-5-panel-campers-hat",
+        "color_scheme": "background-2",
+        "secondary_background": false,
+        "media_position": "left",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "0e47454d-2a43-4358-a64d-dc8e15a8c23f": {
+      "type": "featured-product",
+      "blocks": {
+        "template--14557229318210__0e47454d-2a43-4358-a64d-dc8e15a8c23f-1671852089b0c94131-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--14557229318210__0e47454d-2a43-4358-a64d-dc8e15a8c23f-1671852089b0c94131-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--14557229318210__0e47454d-2a43-4358-a64d-dc8e15a8c23f-1671852089b0c94131-2": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--14557229318210__0e47454d-2a43-4358-a64d-dc8e15a8c23f-1671852089b0c94131-3": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--14557229318210__0e47454d-2a43-4358-a64d-dc8e15a8c23f-1671852089b0c94131-4": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "template--14557229318210__0e47454d-2a43-4358-a64d-dc8e15a8c23f-1671852089b0c94131-5": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "template--14557229318210__0e47454d-2a43-4358-a64d-dc8e15a8c23f-1671852089b0c94131-6": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--14557229318210__0e47454d-2a43-4358-a64d-dc8e15a8c23f-1671852089b0c94131-0",
+        "template--14557229318210__0e47454d-2a43-4358-a64d-dc8e15a8c23f-1671852089b0c94131-1",
+        "template--14557229318210__0e47454d-2a43-4358-a64d-dc8e15a8c23f-1671852089b0c94131-2",
+        "template--14557229318210__0e47454d-2a43-4358-a64d-dc8e15a8c23f-1671852089b0c94131-3",
+        "template--14557229318210__0e47454d-2a43-4358-a64d-dc8e15a8c23f-1671852089b0c94131-4",
+        "template--14557229318210__0e47454d-2a43-4358-a64d-dc8e15a8c23f-1671852089b0c94131-5",
+        "template--14557229318210__0e47454d-2a43-4358-a64d-dc8e15a8c23f-1671852089b0c94131-6"
+      ],
+      "settings": {
+        "product": "heritage-nite",
+        "color_scheme": "background-2",
+        "secondary_background": false,
+        "media_position": "left",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "beeaaf0d-c396-43a2-91e4-ca6bac1c2f2d": {
+      "type": "featured-product",
+      "blocks": {
+        "template--14557229318210__beeaaf0d-c396-43a2-91e4-ca6bac1c2f2d-1671852089b0c94131-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--14557229318210__beeaaf0d-c396-43a2-91e4-ca6bac1c2f2d-1671852089b0c94131-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--14557229318210__beeaaf0d-c396-43a2-91e4-ca6bac1c2f2d-1671852089b0c94131-2": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--14557229318210__beeaaf0d-c396-43a2-91e4-ca6bac1c2f2d-1671852089b0c94131-3": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--14557229318210__beeaaf0d-c396-43a2-91e4-ca6bac1c2f2d-1671852089b0c94131-4": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "template--14557229318210__beeaaf0d-c396-43a2-91e4-ca6bac1c2f2d-1671852089b0c94131-5": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "template--14557229318210__beeaaf0d-c396-43a2-91e4-ca6bac1c2f2d-1671852089b0c94131-6": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--14557229318210__beeaaf0d-c396-43a2-91e4-ca6bac1c2f2d-1671852089b0c94131-0",
+        "template--14557229318210__beeaaf0d-c396-43a2-91e4-ca6bac1c2f2d-1671852089b0c94131-1",
+        "template--14557229318210__beeaaf0d-c396-43a2-91e4-ca6bac1c2f2d-1671852089b0c94131-2",
+        "template--14557229318210__beeaaf0d-c396-43a2-91e4-ca6bac1c2f2d-1671852089b0c94131-3",
+        "template--14557229318210__beeaaf0d-c396-43a2-91e4-ca6bac1c2f2d-1671852089b0c94131-4",
+        "template--14557229318210__beeaaf0d-c396-43a2-91e4-ca6bac1c2f2d-1671852089b0c94131-5",
+        "template--14557229318210__beeaaf0d-c396-43a2-91e4-ca6bac1c2f2d-1671852089b0c94131-6"
+      ],
+      "settings": {
+        "product": "the-black-speckled-zissou-captains-beanie",
+        "color_scheme": "background-2",
         "secondary_background": false,
         "media_position": "left",
         "hide_variants": false,
@@ -375,6 +570,9 @@
     "be369b2c-37f7-4f2e-bda6-43094cc3bb77",
     "9d6b66fb-04e2-47e7-aa16-71d6454b5a45",
     "43577353-7dd4-41d7-9382-2a8e09144c1e",
+    "02ba49ea-b09b-473f-bdd3-ae39aaadd943",
+    "0e47454d-2a43-4358-a64d-dc8e15a8c23f",
+    "beeaaf0d-c396-43a2-91e4-ca6bac1c2f2d",
     "c42c3cf1-6f89-47c9-b652-f5ef7821a09c"
   ]
 }
