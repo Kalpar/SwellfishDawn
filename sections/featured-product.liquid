@@ -42,6 +42,10 @@
   >
 {%- endif -%}
 
+{% if product.metafields.preproduct.preorder %}
+  <script type='text/javascript' async src='https://preproduct.onrender.com/preproduct-embed.js'></script>
+{% endif %}
+
 <section class="color-{{ section.settings.color_scheme }} {% if section.settings.secondary_background %}background-secondary{% else %}gradient{% endif %}">
   <div class="page-width section-{{ section.id }}-padding{% if section.settings.secondary_background %} isolate{% endif %}">
     <div class="featured-product product grid grid--1-col gradient color-{{ section.settings.color_scheme }} product--{{ section.settings.media_position }}{% if section.settings.secondary_background == false %} isolate{% endif %} {% if product.media.size > 0 %}grid--2-col-tablet{% else %}product--no-media{% endif %}">
@@ -95,6 +99,10 @@
 
           {%- for block in section.blocks -%}
             {%- case block.type -%}
+              {%- when 'sw-preproduct' -%}
+                {% if product.metafields.preproduct.preorder %}
+                  <div id="preproduct-pledge" data-id="{{ product.id }}" data-starting-variant={{ product.selected_or_first_available_variant.id }} style="text-align:left!important;"></div>
+                {% endif %}
               {%- when '@app' -%}
                 {% render block %}
               {%- when 'text' -%}
@@ -790,6 +798,12 @@
           "content": "t:sections.featured-product.blocks.rating.settings.paragraph.content"
         }
       ]
+    },
+    {
+      "type": "sw-preproduct",
+      "name": "Swellfish - PreProduct",
+      "limit": 1,
+      "settings": []
     }
   ],
   "settings": [
