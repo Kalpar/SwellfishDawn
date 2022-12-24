@@ -50,6 +50,11 @@
           "settings": {
           }
         },
+        "6b38d086-983c-49c2-811c-906770124ebd": {
+          "type": "shopify:\/\/apps\/preproduct-next-gen-pre-order\/blocks\/preproduct_block\/2762c018-a41c-4de1-8397-e1a2010a74fa",
+          "settings": {
+          }
+        },
         "template--14557229318210__6adc3e5b-ff2b-4f58-82cc-ea4da1538e08-1671852089b0c94131-5": {
           "type": "buy_buttons",
           "settings": {
@@ -69,6 +74,7 @@
         "template--14557229318210__6adc3e5b-ff2b-4f58-82cc-ea4da1538e08-1671852089b0c94131-2",
         "template--14557229318210__6adc3e5b-ff2b-4f58-82cc-ea4da1538e08-1671852089b0c94131-3",
         "template--14557229318210__6adc3e5b-ff2b-4f58-82cc-ea4da1538e08-1671852089b0c94131-4",
+        "6b38d086-983c-49c2-811c-906770124ebd",
         "template--14557229318210__6adc3e5b-ff2b-4f58-82cc-ea4da1538e08-1671852089b0c94131-5",
         "template--14557229318210__6adc3e5b-ff2b-4f58-82cc-ea4da1538e08-1671852089b0c94131-6"
       ],
@@ -81,6 +87,12 @@
         "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "167190498622803975": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
       }
     },
     "49c909e7-41fe-40cd-9830-e3c22516045e": {
@@ -222,31 +234,15 @@
         "padding_top": 100,
         "padding_bottom": 100
       }
-    },
-    "167190498622803975": {
-      "type": "apps",
-      "blocks": {
-        "5648c525-acb2-40cc-a45f-79ba31d8ae46": {
-          "type": "shopify:\/\/apps\/preproduct-next-gen-pre-order\/blocks\/preproduct_block\/2762c018-a41c-4de1-8397-e1a2010a74fa",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "5648c525-acb2-40cc-a45f-79ba31d8ae46"
-      ],
-      "settings": {
-        "include_margins": true
-      }
     }
   },
   "order": [
     "main",
     "5ffc5830-1b76-4856-a4c9-396e4c94e024",
     "6adc3e5b-ff2b-4f58-82cc-ea4da1538e08",
+    "167190498622803975",
     "49c909e7-41fe-40cd-9830-e3c22516045e",
     "be369b2c-37f7-4f2e-bda6-43094cc3bb77",
-    "c42c3cf1-6f89-47c9-b652-f5ef7821a09c",
-    "167190498622803975"
+    "c42c3cf1-6f89-47c9-b652-f5ef7821a09c"
   ]
 }
