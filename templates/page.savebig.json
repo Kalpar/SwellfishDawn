@@ -243,6 +243,7 @@
     },
     "9d6b66fb-04e2-47e7-aa16-71d6454b5a45": {
       "type": "featured-product",
+      "disabled": true,
       "blocks": {
         "template--14557229318210__9d6b66fb-04e2-47e7-aa16-71d6454b5a45-1671852089b0c94131-0": {
           "type": "text",
@@ -308,6 +309,7 @@
     },
     "43577353-7dd4-41d7-9382-2a8e09144c1e": {
       "type": "featured-product",
+      "disabled": true,
       "blocks": {
         "template--14557229318210__43577353-7dd4-41d7-9382-2a8e09144c1e-1671852089b0c94131-0": {
           "type": "text",
@@ -373,6 +375,7 @@
     },
     "02ba49ea-b09b-473f-bdd3-ae39aaadd943": {
       "type": "featured-product",
+      "disabled": true,
       "blocks": {
         "template--14557229318210__02ba49ea-b09b-473f-bdd3-ae39aaadd943-1671852089b0c94131-0": {
           "type": "text",
@@ -438,6 +441,7 @@
     },
     "0e47454d-2a43-4358-a64d-dc8e15a8c23f": {
       "type": "featured-product",
+      "disabled": true,
       "blocks": {
         "template--14557229318210__0e47454d-2a43-4358-a64d-dc8e15a8c23f-1671852089b0c94131-0": {
           "type": "text",
@@ -503,6 +507,7 @@
     },
     "beeaaf0d-c396-43a2-91e4-ca6bac1c2f2d": {
       "type": "featured-product",
+      "disabled": true,
       "blocks": {
         "template--14557229318210__beeaaf0d-c396-43a2-91e4-ca6bac1c2f2d-1671852089b0c94131-0": {
           "type": "text",
