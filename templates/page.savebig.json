@@ -222,6 +222,22 @@
         "padding_top": 100,
         "padding_bottom": 100
       }
+    },
+    "167190498622803975": {
+      "type": "apps",
+      "blocks": {
+        "5648c525-acb2-40cc-a45f-79ba31d8ae46": {
+          "type": "shopify:\/\/apps\/preproduct-next-gen-pre-order\/blocks\/preproduct_block\/2762c018-a41c-4de1-8397-e1a2010a74fa",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "5648c525-acb2-40cc-a45f-79ba31d8ae46"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
@@ -230,6 +246,7 @@
     "6adc3e5b-ff2b-4f58-82cc-ea4da1538e08",
     "49c909e7-41fe-40cd-9830-e3c22516045e",
     "be369b2c-37f7-4f2e-bda6-43094cc3bb77",
-    "c42c3cf1-6f89-47c9-b652-f5ef7821a09c"
+    "c42c3cf1-6f89-47c9-b652-f5ef7821a09c",
+    "167190498622803975"
   ]
 }
