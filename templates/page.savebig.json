@@ -225,6 +225,136 @@
         "padding_bottom": 36
       }
     },
+    "9d6b66fb-04e2-47e7-aa16-71d6454b5a45": {
+      "type": "featured-product",
+      "blocks": {
+        "template--14557229318210__9d6b66fb-04e2-47e7-aa16-71d6454b5a45-1671852089b0c94131-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--14557229318210__9d6b66fb-04e2-47e7-aa16-71d6454b5a45-1671852089b0c94131-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--14557229318210__9d6b66fb-04e2-47e7-aa16-71d6454b5a45-1671852089b0c94131-2": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--14557229318210__9d6b66fb-04e2-47e7-aa16-71d6454b5a45-1671852089b0c94131-3": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--14557229318210__9d6b66fb-04e2-47e7-aa16-71d6454b5a45-1671852089b0c94131-4": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "template--14557229318210__9d6b66fb-04e2-47e7-aa16-71d6454b5a45-1671852089b0c94131-5": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "template--14557229318210__9d6b66fb-04e2-47e7-aa16-71d6454b5a45-1671852089b0c94131-6": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--14557229318210__9d6b66fb-04e2-47e7-aa16-71d6454b5a45-1671852089b0c94131-0",
+        "template--14557229318210__9d6b66fb-04e2-47e7-aa16-71d6454b5a45-1671852089b0c94131-1",
+        "template--14557229318210__9d6b66fb-04e2-47e7-aa16-71d6454b5a45-1671852089b0c94131-2",
+        "template--14557229318210__9d6b66fb-04e2-47e7-aa16-71d6454b5a45-1671852089b0c94131-3",
+        "template--14557229318210__9d6b66fb-04e2-47e7-aa16-71d6454b5a45-1671852089b0c94131-4",
+        "template--14557229318210__9d6b66fb-04e2-47e7-aa16-71d6454b5a45-1671852089b0c94131-5",
+        "template--14557229318210__9d6b66fb-04e2-47e7-aa16-71d6454b5a45-1671852089b0c94131-6"
+      ],
+      "settings": {
+        "product": "salmon-short-sleeve-t-shirt",
+        "color_scheme": "background-2",
+        "secondary_background": false,
+        "media_position": "left",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "43577353-7dd4-41d7-9382-2a8e09144c1e": {
+      "type": "featured-product",
+      "blocks": {
+        "template--14557229318210__43577353-7dd4-41d7-9382-2a8e09144c1e-1671852089b0c94131-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--14557229318210__43577353-7dd4-41d7-9382-2a8e09144c1e-1671852089b0c94131-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--14557229318210__43577353-7dd4-41d7-9382-2a8e09144c1e-1671852089b0c94131-2": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--14557229318210__43577353-7dd4-41d7-9382-2a8e09144c1e-1671852089b0c94131-3": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--14557229318210__43577353-7dd4-41d7-9382-2a8e09144c1e-1671852089b0c94131-4": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "template--14557229318210__43577353-7dd4-41d7-9382-2a8e09144c1e-1671852089b0c94131-5": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "template--14557229318210__43577353-7dd4-41d7-9382-2a8e09144c1e-1671852089b0c94131-6": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--14557229318210__43577353-7dd4-41d7-9382-2a8e09144c1e-1671852089b0c94131-0",
+        "template--14557229318210__43577353-7dd4-41d7-9382-2a8e09144c1e-1671852089b0c94131-1",
+        "template--14557229318210__43577353-7dd4-41d7-9382-2a8e09144c1e-1671852089b0c94131-2",
+        "template--14557229318210__43577353-7dd4-41d7-9382-2a8e09144c1e-1671852089b0c94131-3",
+        "template--14557229318210__43577353-7dd4-41d7-9382-2a8e09144c1e-1671852089b0c94131-4",
+        "template--14557229318210__43577353-7dd4-41d7-9382-2a8e09144c1e-1671852089b0c94131-5",
+        "template--14557229318210__43577353-7dd4-41d7-9382-2a8e09144c1e-1671852089b0c94131-6"
+      ],
+      "settings": {
+        "product": "swellfish-heritage-5-panel-camp-hat",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "media_position": "left",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "c42c3cf1-6f89-47c9-b652-f5ef7821a09c": {
       "type": "contact-form",
       "settings": {
@@ -243,6 +373,8 @@
     "167190498622803975",
     "49c909e7-41fe-40cd-9830-e3c22516045e",
     "be369b2c-37f7-4f2e-bda6-43094cc3bb77",
+    "9d6b66fb-04e2-47e7-aa16-71d6454b5a45",
+    "43577353-7dd4-41d7-9382-2a8e09144c1e",
     "c42c3cf1-6f89-47c9-b652-f5ef7821a09c"
   ]
 }
