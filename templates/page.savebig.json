@@ -59,7 +59,6 @@
         },
         "6b38d086-983c-49c2-811c-906770124ebd": {
           "type": "shopify:\/\/apps\/preproduct-next-gen-pre-order\/blocks\/preproduct_block\/2762c018-a41c-4de1-8397-e1a2010a74fa",
-          "disabled": true,
           "settings": {
           }
         },
@@ -103,6 +102,7 @@
       "blocks": {
         "cd646519-d0fa-4bf4-a8ae-8d5693dbed8c": {
           "type": "shopify:\/\/apps\/preproduct-next-gen-pre-order\/blocks\/preproduct_block\/2762c018-a41c-4de1-8397-e1a2010a74fa",
+          "disabled": true,
           "settings": {
           }
         }
@@ -116,6 +116,7 @@
     },
     "49c909e7-41fe-40cd-9830-e3c22516045e": {
       "type": "featured-product",
+      "disabled": true,
       "blocks": {
         "template--14557229318210__49c909e7-41fe-40cd-9830-e3c22516045e-1671852089b0c94131-0": {
           "type": "text",
@@ -181,6 +182,7 @@
     },
     "be369b2c-37f7-4f2e-bda6-43094cc3bb77": {
       "type": "featured-product",
+      "disabled": true,
       "blocks": {
         "template--14557229318210__be369b2c-37f7-4f2e-bda6-43094cc3bb77-1671852089b0c94131-0": {
           "type": "text",
@@ -246,6 +248,7 @@
     },
     "9d6b66fb-04e2-47e7-aa16-71d6454b5a45": {
       "type": "featured-product",
+      "disabled": true,
       "blocks": {
         "template--14557229318210__9d6b66fb-04e2-47e7-aa16-71d6454b5a45-1671852089b0c94131-0": {
           "type": "text",
@@ -311,6 +314,7 @@
     },
     "43577353-7dd4-41d7-9382-2a8e09144c1e": {
       "type": "featured-product",
+      "disabled": true,
       "blocks": {
         "template--14557229318210__43577353-7dd4-41d7-9382-2a8e09144c1e-1671852089b0c94131-0": {
           "type": "text",
@@ -376,6 +380,7 @@
     },
     "02ba49ea-b09b-473f-bdd3-ae39aaadd943": {
       "type": "featured-product",
+      "disabled": true,
       "blocks": {
         "template--14557229318210__02ba49ea-b09b-473f-bdd3-ae39aaadd943-1671852089b0c94131-0": {
           "type": "text",
@@ -441,6 +446,7 @@
     },
     "0e47454d-2a43-4358-a64d-dc8e15a8c23f": {
       "type": "featured-product",
+      "disabled": true,
       "blocks": {
         "template--14557229318210__0e47454d-2a43-4358-a64d-dc8e15a8c23f-1671852089b0c94131-0": {
           "type": "text",
@@ -506,6 +512,7 @@
     },
     "beeaaf0d-c396-43a2-91e4-ca6bac1c2f2d": {
       "type": "featured-product",
+      "disabled": true,
       "blocks": {
         "template--14557229318210__beeaaf0d-c396-43a2-91e4-ca6bac1c2f2d-1671852089b0c94131-0": {
           "type": "text",
