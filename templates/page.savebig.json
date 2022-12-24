@@ -74,7 +74,7 @@
       ],
       "settings": {
         "product": "classic-inflatable-boat",
-        "color_scheme": "inverse",
+        "color_scheme": "background-2",
         "secondary_background": false,
         "media_position": "left",
         "hide_variants": false,
