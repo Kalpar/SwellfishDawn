@@ -39,6 +39,13 @@
           "settings": {
           }
         },
+        "945fa491-6dcc-4c35-8aa5-8007c4238806": {
+          "type": "text",
+          "settings": {
+            "text": "This is a pre-order promotion, Items orderd now will ship spring 2023",
+            "text_style": "body"
+          }
+        },
         "template--14557229318210__6adc3e5b-ff2b-4f58-82cc-ea4da1538e08-1671852089b0c94131-3": {
           "type": "variant_picker",
           "settings": {
@@ -72,6 +79,7 @@
         "template--14557229318210__6adc3e5b-ff2b-4f58-82cc-ea4da1538e08-1671852089b0c94131-0",
         "template--14557229318210__6adc3e5b-ff2b-4f58-82cc-ea4da1538e08-1671852089b0c94131-1",
         "template--14557229318210__6adc3e5b-ff2b-4f58-82cc-ea4da1538e08-1671852089b0c94131-2",
+        "945fa491-6dcc-4c35-8aa5-8007c4238806",
         "template--14557229318210__6adc3e5b-ff2b-4f58-82cc-ea4da1538e08-1671852089b0c94131-3",
         "template--14557229318210__6adc3e5b-ff2b-4f58-82cc-ea4da1538e08-1671852089b0c94131-4",
         "6b38d086-983c-49c2-811c-906770124ebd",
