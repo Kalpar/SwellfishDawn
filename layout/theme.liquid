@@ -240,6 +240,12 @@
       freshpaint.init("f461eac2-3d13-457b-b414-7c5040ce63c7");
       freshpaint.page();
     </script> -->
+
+    <script>
+      window.addEventListener(`ppJustLaunched`, () => {
+         document.querySelector(`#preproduct-pledge`).dataset.headless = "true" //let PreProduct run outside of product pages
+      }, false);
+    </script>
   </head>
 
   <body class="gradient">
