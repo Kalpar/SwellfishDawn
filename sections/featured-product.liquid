@@ -380,6 +380,10 @@
                         </div>
                       {%- endform -%}
                     </product-form>
+
+                    {% if product.metafields.preproduct.preorder %}
+                      <div id="preproduct-pledge" data-id="{{ product.id }}" data-starting-variant={{ product.selected_or_first_available_variant.id }} data-headless="true" style="text-align:left!important;"></div>
+                    {% endif %}
                   {%- else -%}
                     <div class="product-form">
                       <div class="product-form__buttons form">
