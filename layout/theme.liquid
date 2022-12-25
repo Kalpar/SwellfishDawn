@@ -242,8 +242,9 @@
     </script> -->
 
     <script>
-      window.addEventListener(`ppJustLaunched`, () => {
-         document.querySelector(`#preproduct-pledge`).dataset.headless = "true" //let PreProduct run outside of product pages
+      window.addEventListener(`load`, () => {
+        let ppDiv = document.querySelector(`#preproduct-pledge`);
+         if (ppDiv) ppDiv.dataset.headless = "true"; //let PreProduct run outside of product pages
       }, false);
     </script>
   </head>
