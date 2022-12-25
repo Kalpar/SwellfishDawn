@@ -100,9 +100,6 @@
           {%- for block in section.blocks -%}
             {%- case block.type -%}
               {%- when 'sw-preproduct' -%}
-                {% if product.metafields.preproduct.preorder %}
-                  <div id="preproduct-pledge" data-id="{{ product.id }}" data-starting-variant={{ product.selected_or_first_available_variant.id }} style="text-align:left!important;"></div>
-                {% endif %}
               {%- when '@app' -%}
                 {% render block %}
               {%- when 'text' -%}
