@@ -99,6 +99,7 @@
     },
     "49c909e7-41fe-40cd-9830-e3c22516045e": {
       "type": "featured-product",
+      "disabled": true,
       "blocks": {
         "template--14557229318210__49c909e7-41fe-40cd-9830-e3c22516045e-1671852089b0c94131-0": {
           "type": "text",
