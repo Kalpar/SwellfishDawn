@@ -162,6 +162,33 @@
         "padding_bottom": 36
       }
     },
+    "8b39f22e-d785-4b09-b4ee-da7794a0d12c": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Check out these big savings",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "save-big",
+        "products_to_show": 12,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "be369b2c-37f7-4f2e-bda6-43094cc3bb77": {
       "type": "featured-product",
       "disabled": true,
@@ -575,6 +602,7 @@
     "6adc3e5b-ff2b-4f58-82cc-ea4da1538e08",
     "167190498622803975",
     "49c909e7-41fe-40cd-9830-e3c22516045e",
+    "8b39f22e-d785-4b09-b4ee-da7794a0d12c",
     "be369b2c-37f7-4f2e-bda6-43094cc3bb77",
     "9d6b66fb-04e2-47e7-aa16-71d6454b5a45",
     "43577353-7dd4-41d7-9382-2a8e09144c1e",
