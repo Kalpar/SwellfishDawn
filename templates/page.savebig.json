@@ -18,6 +18,46 @@
         "padding_bottom": 0
       }
     },
+    "966b46d5-0bea-43bb-a6df-f720d1320384": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14557229318210__966b46d5-0bea-43bb-a6df-f720d1320384-16720772128f30ea63-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Pre-Order Sale<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--14557229318210__966b46d5-0bea-43bb-a6df-f720d1320384-16720772128f30ea63-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Save <strong>20% <\/strong>when you pre order your Classic Inflatable boat. Only Pay a depost of $1200 to lock in the pre order price.<\/p>"
+          }
+        },
+        "319d0190-4289-411c-a155-53b68e1be870": {
+          "type": "caption",
+          "settings": {
+            "caption": "Sale is on until December 31st 2022",
+            "text_style": "subtitle",
+            "text_size": "small"
+          }
+        }
+      },
+      "block_order": [
+        "template--14557229318210__966b46d5-0bea-43bb-a6df-f720d1320384-16720772128f30ea63-0",
+        "template--14557229318210__966b46d5-0bea-43bb-a6df-f720d1320384-16720772128f30ea63-1",
+        "319d0190-4289-411c-a155-53b68e1be870"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "is_first_section": false,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
     "6adc3e5b-ff2b-4f58-82cc-ea4da1538e08": {
       "type": "featured-product",
       "blocks": {
@@ -600,6 +640,7 @@
   "order": [
     "main",
     "5ffc5830-1b76-4856-a4c9-396e4c94e024",
+    "966b46d5-0bea-43bb-a6df-f720d1320384",
     "6adc3e5b-ff2b-4f58-82cc-ea4da1538e08",
     "167190498622803975",
     "49c909e7-41fe-40cd-9830-e3c22516045e",
