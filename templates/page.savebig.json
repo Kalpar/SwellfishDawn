@@ -131,43 +131,66 @@
         "padding_bottom": 36
       }
     },
-    "4249ce83-5852-41ef-8253-21ca6ef18c7f": {
-      "type": "collage",
+    "2948c6cf-2b60-4a62-8070-8899f0ca50d7": {
+      "type": "multicolumn",
       "blocks": {
-        "template--14557229318210__4249ce83-5852-41ef-8253-21ca6ef18c7f-16723417800ad4bd6a-1": {
-          "type": "product",
+        "template--14557229318210__2948c6cf-2b60-4a62-8070-8899f0ca50d7-16723445362a690229-0": {
+          "type": "column",
           "settings": {
-            "product": "classic-serries-freshwater-angler-kit",
-            "second_image": false
+            "image": "shopify:\/\/shop_images\/Classic-Fresh-Water-Kit.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Shop The Freshwater Angler Kit",
+            "link": "shopify:\/\/products\/classic-serries-freshwater-angler-kit"
           }
         },
-        "template--14557229318210__4249ce83-5852-41ef-8253-21ca6ef18c7f-16723417800ad4bd6a-2": {
-          "type": "collection",
+        "template--14557229318210__2948c6cf-2b60-4a62-8070-8899f0ca50d7-16723445362a690229-1": {
+          "type": "column",
           "settings": {
-            "collection": "outboards"
+            "image": "shopify:\/\/shop_images\/Tohatsu.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Shop Tohatsu Outboards",
+            "link": "shopify:\/\/collections\/outboards"
           }
         },
-        "bd535502-b21f-4a4f-bd5d-a1af1518d1f0": {
-          "type": "collection",
+        "template--14557229318210__2948c6cf-2b60-4a62-8070-8899f0ca50d7-16723445362a690229-2": {
+          "type": "column",
           "settings": {
-            "collection": "classic-parts-and-accessories"
+            "image": "shopify:\/\/shop_images\/SwellfishCrest512x512_36235478-af55-4bf7-8906-28b22937143d.png",
+            "title": "",
+            "text": "",
+            "link_label": "Shop All Classic Accessories",
+            "link": "shopify:\/\/collections\/classic-parts-and-accessories"
           }
         }
       },
       "block_order": [
-        "template--14557229318210__4249ce83-5852-41ef-8253-21ca6ef18c7f-16723417800ad4bd6a-1",
-        "template--14557229318210__4249ce83-5852-41ef-8253-21ca6ef18c7f-16723417800ad4bd6a-2",
-        "bd535502-b21f-4a4f-bd5d-a1af1518d1f0"
+        "template--14557229318210__2948c6cf-2b60-4a62-8070-8899f0ca50d7-16723445362a690229-0",
+        "template--14557229318210__2948c6cf-2b60-4a62-8070-8899f0ca50d7-16723445362a690229-1",
+        "template--14557229318210__2948c6cf-2b60-4a62-8070-8899f0ca50d7-16723445362a690229-2"
       ],
       "settings": {
-        "heading": "",
+        "title": "",
         "heading_size": "h1",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "card_styles": "none",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
         "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "1672344481ee423ed4": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
       }
     },
     "167190498622803975": {
@@ -681,7 +704,8 @@
     "5ffc5830-1b76-4856-a4c9-396e4c94e024",
     "966b46d5-0bea-43bb-a6df-f720d1320384",
     "6adc3e5b-ff2b-4f58-82cc-ea4da1538e08",
-    "4249ce83-5852-41ef-8253-21ca6ef18c7f",
+    "2948c6cf-2b60-4a62-8070-8899f0ca50d7",
+    "1672344481ee423ed4",
     "167190498622803975",
     "49c909e7-41fe-40cd-9830-e3c22516045e",
     "8b39f22e-d785-4b09-b4ee-da7794a0d12c",
