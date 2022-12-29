@@ -131,6 +131,45 @@
         "padding_bottom": 36
       }
     },
+    "4249ce83-5852-41ef-8253-21ca6ef18c7f": {
+      "type": "collage",
+      "blocks": {
+        "template--14557229318210__4249ce83-5852-41ef-8253-21ca6ef18c7f-16723417800ad4bd6a-1": {
+          "type": "product",
+          "settings": {
+            "product": "classic-serries-freshwater-angler-kit",
+            "second_image": false
+          }
+        },
+        "template--14557229318210__4249ce83-5852-41ef-8253-21ca6ef18c7f-16723417800ad4bd6a-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "outboards"
+          }
+        },
+        "bd535502-b21f-4a4f-bd5d-a1af1518d1f0": {
+          "type": "collection",
+          "settings": {
+            "collection": "classic-parts-and-accessories"
+          }
+        }
+      },
+      "block_order": [
+        "template--14557229318210__4249ce83-5852-41ef-8253-21ca6ef18c7f-16723417800ad4bd6a-1",
+        "template--14557229318210__4249ce83-5852-41ef-8253-21ca6ef18c7f-16723417800ad4bd6a-2",
+        "bd535502-b21f-4a4f-bd5d-a1af1518d1f0"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "card_styles": "none",
+        "color_scheme": "accent-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "167190498622803975": {
       "type": "apps",
       "settings": {
@@ -642,6 +681,7 @@
     "5ffc5830-1b76-4856-a4c9-396e4c94e024",
     "966b46d5-0bea-43bb-a6df-f720d1320384",
     "6adc3e5b-ff2b-4f58-82cc-ea4da1538e08",
+    "4249ce83-5852-41ef-8253-21ca6ef18c7f",
     "167190498622803975",
     "49c909e7-41fe-40cd-9830-e3c22516045e",
     "8b39f22e-d785-4b09-b4ee-da7794a0d12c",
