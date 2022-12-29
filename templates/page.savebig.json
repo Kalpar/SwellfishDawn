@@ -134,16 +134,6 @@
     "2948c6cf-2b60-4a62-8070-8899f0ca50d7": {
       "type": "multicolumn",
       "blocks": {
-        "template--14557229318210__2948c6cf-2b60-4a62-8070-8899f0ca50d7-16723445362a690229-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Classic-Fresh-Water-Kit.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "Shop The Freshwater Angler Kit",
-            "link": "shopify:\/\/products\/classic-serries-freshwater-angler-kit"
-          }
-        },
         "template--14557229318210__2948c6cf-2b60-4a62-8070-8899f0ca50d7-16723445362a690229-1": {
           "type": "column",
           "settings": {
@@ -152,6 +142,16 @@
             "text": "",
             "link_label": "Shop Tohatsu Outboards",
             "link": "shopify:\/\/collections\/outboards"
+          }
+        },
+        "template--14557229318210__2948c6cf-2b60-4a62-8070-8899f0ca50d7-16723445362a690229-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Classic-Fresh-Water-Kit.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Shop The Freshwater Angler Kit",
+            "link": "shopify:\/\/products\/classic-serries-freshwater-angler-kit"
           }
         },
         "template--14557229318210__2948c6cf-2b60-4a62-8070-8899f0ca50d7-16723445362a690229-2": {
@@ -166,8 +166,8 @@
         }
       },
       "block_order": [
-        "template--14557229318210__2948c6cf-2b60-4a62-8070-8899f0ca50d7-16723445362a690229-0",
         "template--14557229318210__2948c6cf-2b60-4a62-8070-8899f0ca50d7-16723445362a690229-1",
+        "template--14557229318210__2948c6cf-2b60-4a62-8070-8899f0ca50d7-16723445362a690229-0",
         "template--14557229318210__2948c6cf-2b60-4a62-8070-8899f0ca50d7-16723445362a690229-2"
       ],
       "settings": {
@@ -688,6 +688,12 @@
         "padding_bottom": 36
       }
     },
+    "16723450482927fa85": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
     "c42c3cf1-6f89-47c9-b652-f5ef7821a09c": {
       "type": "contact-form",
       "settings": {
@@ -715,6 +721,7 @@
     "02ba49ea-b09b-473f-bdd3-ae39aaadd943",
     "0e47454d-2a43-4358-a64d-dc8e15a8c23f",
     "beeaaf0d-c396-43a2-91e4-ca6bac1c2f2d",
+    "16723450482927fa85",
     "c42c3cf1-6f89-47c9-b652-f5ef7821a09c"
   ]
 }
