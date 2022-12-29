@@ -134,16 +134,6 @@
     "2948c6cf-2b60-4a62-8070-8899f0ca50d7": {
       "type": "multicolumn",
       "blocks": {
-        "template--14557229318210__2948c6cf-2b60-4a62-8070-8899f0ca50d7-16723445362a690229-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Tohatsu.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "Shop Tohatsu Outboards",
-            "link": "shopify:\/\/collections\/outboards"
-          }
-        },
         "template--14557229318210__2948c6cf-2b60-4a62-8070-8899f0ca50d7-16723445362a690229-0": {
           "type": "column",
           "settings": {
@@ -163,12 +153,22 @@
             "link_label": "Shop All Classic Accessories",
             "link": "shopify:\/\/collections\/classic-parts-and-accessories"
           }
+        },
+        "template--14557229318210__2948c6cf-2b60-4a62-8070-8899f0ca50d7-16723445362a690229-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Tohatsu.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Shop Tohatsu Outboards",
+            "link": "shopify:\/\/collections\/outboards"
+          }
         }
       },
       "block_order": [
-        "template--14557229318210__2948c6cf-2b60-4a62-8070-8899f0ca50d7-16723445362a690229-1",
         "template--14557229318210__2948c6cf-2b60-4a62-8070-8899f0ca50d7-16723445362a690229-0",
-        "template--14557229318210__2948c6cf-2b60-4a62-8070-8899f0ca50d7-16723445362a690229-2"
+        "template--14557229318210__2948c6cf-2b60-4a62-8070-8899f0ca50d7-16723445362a690229-2",
+        "template--14557229318210__2948c6cf-2b60-4a62-8070-8899f0ca50d7-16723445362a690229-1"
       ],
       "settings": {
         "title": "",
