@@ -34,16 +34,28 @@
           "settings": {
             "text": "<p>Save <strong>20% <\/strong>when you pre order your Classic Inflatable boat. Only Pay a depost of $1200 to lock in the pre order price<\/p><p><em>Sale is on until Jan 15th, 2023<\/em><\/p>"
           }
+        },
+        "2176e66d-9710-4ff4-832d-e66e083c42bc": {
+          "type": "button",
+          "settings": {
+            "button_label": "Pre-Order Today",
+            "button_link": "shopify:\/\/products\/classic-inflatable-boat",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
         }
       },
       "block_order": [
         "template--14532124475458__51d0f817-e804-4292-80e1-27024b5eb038-1672650892f5651711-0",
-        "template--14532124475458__51d0f817-e804-4292-80e1-27024b5eb038-1672650892f5651711-1"
+        "template--14532124475458__51d0f817-e804-4292-80e1-27024b5eb038-1672650892f5651711-1",
+        "2176e66d-9710-4ff4-832d-e66e083c42bc"
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-2",
         "full_width": true,
         "is_first_section": false,
         "padding_top": 40,
