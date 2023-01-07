@@ -2,13 +2,32 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "ad10414f-e166-4eec-9777-2e17acbacfd4": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/A-New-Adventure-Awaits.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true,
+        "is_first_section": false
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "ad10414f-e166-4eec-9777-2e17acbacfd4"
   ]
 }
