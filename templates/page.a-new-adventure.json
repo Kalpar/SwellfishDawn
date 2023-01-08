@@ -21,7 +21,7 @@
         "template--14585953255490__6eb1abc2-0d25-4a0a-b0c1-231eff84d458-1673071505c671c08f-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Launching Spring 2023<\/p>"
+            "text": "<p><strong>Launching Summer 2023<\/strong><\/p>"
           }
         },
         "template--14585953255490__6eb1abc2-0d25-4a0a-b0c1-231eff84d458-1673071505c671c08f-2": {
@@ -49,7 +49,7 @@
         "full_width": true,
         "is_first_section": true,
         "padding_top": 100,
-        "padding_bottom": 0
+        "padding_bottom": 100
       }
     },
     "9b5ade38-c1f2-4e04-80d1-54be363485f3": {
