@@ -58,14 +58,14 @@
         "template--14585953255490__9b5ade38-c1f2-4e04-80d1-54be363485f3-167307150487cd3ed2-0": {
           "type": "heading",
           "settings": {
-            "heading": "Subscribe to our emails",
-            "heading_size": "h1"
+            "heading": "Signup and be the first to know what is next.",
+            "heading_size": "h2"
           }
         },
         "template--14585953255490__9b5ade38-c1f2-4e04-80d1-54be363485f3-167307150487cd3ed2-1": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Be the first to know what the next adventure is.<\/p>"
+            "text": "<p>Subscribe to our emails<\/p>"
           }
         },
         "template--14585953255490__9b5ade38-c1f2-4e04-80d1-54be363485f3-167307150487cd3ed2-2": {
@@ -82,8 +82,8 @@
       "settings": {
         "color_scheme": "inverse",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 32,
+        "padding_bottom": 60
       }
     },
     "ad10414f-e166-4eec-9777-2e17acbacfd4": {
