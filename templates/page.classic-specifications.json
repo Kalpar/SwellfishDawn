@@ -112,9 +112,18 @@
           "type": "column",
           "settings": {
             "title": "Classic 270",
-            "text": "<p>•<\/p><p>8.9 Feet<\/p><p>10 hp (7.5 kw)<br\/>4<\/p><p>1140 lbs<\/p><p>8.9 x 4.8 Feet<\/p><p>*<\/p><p>118 lbs (53 kg)<\/p><p>•<\/p>",
+            "text": "<p>•<\/p><p>8.9 Feet<\/p><p>10 hp (7.5 kw)<br\/>4<\/p><p>1140 lbs<\/p><p>8.9 x 4.8 Feet<\/p><p>45 x 29 x 14 Inches<\/p><p>118 lbs (53 kg)<\/p><p>•<\/p>",
             "link_label": "Order the 270",
             "link": "https:\/\/swellfish.co\/products\/classic-inflatable-boat?variant=39485716529218"
+          }
+        },
+        "cac9d919-0d78-42bf-8eed-85bb975b14c1": {
+          "type": "column",
+          "settings": {
+            "title": "Classic 310",
+            "text": "<p>•<\/p><p>10.2 Feet<\/p><p>15 hp (11.2 kw)<\/p><p>5<\/p><p>1492lbs<\/p><p>10.2 x 4.8 Feet<\/p><p>*<\/p><p>139 lbs (63 kg)<\/p><p>•<\/p>",
+            "link_label": "Order the 310",
+            "link": "https:\/\/swellfish.co\/products\/classic-inflatable-boat?variant=40143986032706"
           }
         },
         "1658266374b8a8775d-2": {
@@ -124,6 +133,15 @@
             "text": "<p>•<\/p><p>11.5 Feet<\/p><p>25 hp (18.75 kw)<br\/>7 <\/p><p>1789 lbs<\/p><p>11.5 x 5.6 Feet<\/p><p>51 x 30 x 16 Inches<\/p><p>181 lbs (82 kg)<\/p><p>•<\/p>",
             "link_label": "Order the 350",
             "link": "https:\/\/swellfish.co\/products\/classic-inflatable-boat?variant=39485716627522"
+          }
+        },
+        "39235ca3-604f-447a-8c0e-fbadee75d794": {
+          "type": "column",
+          "settings": {
+            "title": "Specifications",
+            "text": "<p>•<\/p><p><strong>Assembled Length<\/strong><\/p><p><strong>Max Engine Power<\/strong><\/p><p><strong>Max People<\/strong><\/p><p><strong>Max Load<\/strong><\/p><p><strong>Inflated Size<\/strong><\/p><p><strong>Packed Size<\/strong><\/p><p><strong>Total Weight<\/strong><\/p><p>•<\/p>",
+            "link_label": "",
+            "link": ""
           }
         },
         "b7ab5651-7626-4088-8b96-2100004570d8": {
@@ -157,7 +175,9 @@
       "block_order": [
         "1658266374b8a8775d-0",
         "1658266374b8a8775d-1",
+        "cac9d919-0d78-42bf-8eed-85bb975b14c1",
         "1658266374b8a8775d-2",
+        "39235ca3-604f-447a-8c0e-fbadee75d794",
         "b7ab5651-7626-4088-8b96-2100004570d8",
         "8e110e98-794d-4f3e-bd08-046f1a0686e1",
         "4e827a33-8abf-4508-a61d-91ef82332e1b"
@@ -167,7 +187,7 @@
         "heading_size": "h2",
         "image_width": "half",
         "image_ratio": "adapt",
-        "columns_desktop": 6,
+        "columns_desktop": 4,
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
